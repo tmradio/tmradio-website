@@ -9,8 +9,8 @@ build:
 	python poole.py --build > build.log
 
 commit:
-	-git add -A -q
-	-git commit -q input -am "Source update"
+	-git add -A
+	-git commit -q input -m "Source update"
 	-git push -q
 
 update-money:
@@ -34,7 +34,7 @@ clean:
 
 process-hotline: fetch
 	python poole.py --build
-	-git add -q input/hotline
+	-git add input/hotline
 	-git commit -q input/hotline -m "New hotline pages."
 	git push -q
 
