@@ -9,18 +9,18 @@ build:
 	python poole.py --build > build.log
 
 commit:
-	-git add -nA
-	-git commit input -am "Source update"
-	-git push
+	-git add -A -q
+	-git commit -q input -am "Source update"
+	-git push -q
 
 update-money:
 	python tools/update-money.py > /tmp/yandex-money.csv
 	mv /tmp/yandex-money.csv input/support/donate/yandex/history.csv
 
 fetch:
-	-git reset --hard
-	-git clean -fd
-	-git pull origin master
+	-git reset --hard -q
+	-git clean -fd -q
+	-git pull -q origin master
 
 serve:
 	poole.py --serve
@@ -36,9 +36,9 @@ clean:
 
 process-hotline: fetch
 	python poole.py --build
-	-git add input/hotline
-	-git commit input/hotline -m "New hotline pages."
-	git push
+	-git add -q input/hotline
+	-git commit -q input/hotline -m "New hotline pages."
+	git push -q
 
 twit-hotline:
 	for fn in input/hotline/????????/??????; do \
