@@ -20,7 +20,7 @@ update-money:
 fetch:
 	-git reset --hard
 	-git clean -fd
-	-git pull origin gh-pages
+	-git pull origin master
 
 serve:
 	poole.py --serve
