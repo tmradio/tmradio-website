@@ -18,9 +18,7 @@ update-money:
 	mv /tmp/yandex-money.csv input/support/donate/yandex/history.csv
 
 fetch:
-	-git reset --hard -q
-	-git clean -fd -q
-	-git pull -q origin master
+	-git pull -q
 
 serve:
 	poole.py --serve
