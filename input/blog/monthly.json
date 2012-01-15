@@ -1,0 +1,26 @@
+{
+  "2011-03": {
+		"connection_count": 2540,
+		"connection_avg": 3002,
+		"connection_max": 22,
+		"unique_ips": 419,
+		"track_count": 1497,
+		"track_length": 377754,
+		"traffic_stream": 80.51,
+		"traffic_total": 163.51,
+		"money_in": 251.73,
+		"money_out": 990.00
+	},
+	"2011-04": {
+		"connection_count": 1669,
+		"connection_avg": 2618,
+		"connection_max": 113,
+		"unique_ips": 366,
+		"track_count": 1572,
+		"track_length": 378972,
+		"traffic_stream": 48.25,
+		"traffic_total": 211.60,
+		"money_in": 118.40,
+		"money_out": 0.0
+	}
+}

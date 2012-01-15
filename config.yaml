@@ -1,0 +1,126 @@
+base_url: "http://www.tmradio.net/"
+title: "Тоже мне радио"
+disqus_id: tmradio
+flattr_name: tmradio
+language: ru_RU
+ueb_pattern: "https://github.com/tmradio/tmradio-website/edit/gh-pages/src/%s"
+
+buttons:
+  labels: [podcast, blog]
+  prefix: "Поделиться:"
+  items:
+  - title: Поделиться ВКонтакте
+    link: "http://vkontakte.ru/share.php?url=%(url)s&amp;image=%(image)s"
+    caption: ВКонтакте
+    type: vkontakte
+  - title: Поделиться в Facebook
+    link: "http://www.facebook.com/sharer/sharer.php?u=%(url)s&amp;t=%(title)s"
+    caption: Facebook
+    type: facebook
+  - title: Отправить в Twitter
+    caption: Twitter
+    link: "https://twitter.com/intent/tweet?text=%(title)s%%3A+%(url)s"
+    type: twitter
+  - title: Поддержать материально
+    link: "https://flattr.com/submit/auto?user_id=tmradio&amp;url=%(url)s&amp;title=%(title)s&amp;description=%(summary)s&amp;language=ru_RU&amp;tags=%(labels)s&amp;category=%(category)s"
+    caption: Flattr
+    type: flattr
+
+authors:
+- name: микроша
+  email: info@tmradio.net
+  profile: "http://twitter.com/tmradio"
+- name: umonkey
+  email: hex@umonkey.net
+  profile: "https://profiles.google.com/justin.forest/about"
+  fullname: "Хекс"
+- name: dugwin
+  email: dugwin@gmail.com
+  profile: "http://www.dugwin.net/"
+  fullname: "dugwin j. goines"
+- name: partyzan
+  email: rubyis@yandex.ru
+  profile: /guests/partyzan/
+- name: sckrat
+  email: sckrat.lipetsk@gmail.com
+  profile: "http://sckrat.ru/"
+  flattr_name: SckraT_
+- name: rustray
+  email: info@tmradio.net
+- name: nikonor
+  email: nikonor@gmail.com
+  profile: "http://about.me/nikonor"
+- name: hakimovis
+  email: hakimovis@gmail.com
+  profile: "https://twitter.com/hakimovis"
+  fullname: "Ирик Хакимов"
+- name: argbrontsterop
+  email: argbrontsterop@gmail.com
+  profile: "https://twitter.com/argbrontsterop"
+  fullname: "Хасан Атаман"
+- name: 505796
+  email: 505796@bk.ru
+  fullname: "Сапунов Виталий Витальевич"
+- name: gagarin
+  email: gagarintl@ya.ru
+  fullname: "Гагарин Артём"
+  profile: "/guests/gagarin/"
+- name: iPtrX
+  email: ptrx.mail@googlemail.com
+  profile: "/guests/iptrx/"
+- name: paskal
+  fullname: "Дмитрий Паскаль"
+  profile: "/guests/paskal/"
+  email: info@tmradio.net
+
+sections:
+- tsn
+- prokino
+- suddenly
+- mcast
+- hotline
+- podcast
+- blog
+
+labels:
+- name: tsn
+  title: Так себе новости
+  link: /programs/tsn/
+  rss_file: programs/tsn/index.xml
+  default_summary: "Обсуждение новостей последней недели."
+- name: tsn-dry
+  title: Выжимки из ТСН
+  link: /programs/tsn-dry/
+- name: suddenly
+  title: Вдруг
+  link: /programs/suddenly/
+  rss_file: programs/suddenly/index.xml
+  default_summary: "Беседы с интересными людьми под спокойную музыку."
+- name: mcast
+  title: Микроподкасты
+  link: /programs/mcast/
+  rss_file: programs/mcast/index.xml
+- name: prokino
+  title: Про кино
+  link: /programs/prokino/
+  rss_file: programs/prokino/index.xml
+- name: podcast
+  title: Подкасты
+  link: /podcast/
+  rss_file: podcast/index.xml
+- name: hotline
+  title: Горячая линия
+  link: /hotline/
+  rss_file: hotline/index.xml
+- name: blog
+  title: Блог
+  link: /blog/
+  rss_file: blog/index.xml
+- name: umonkey
+  title: umonkey
+  link: /guests/umonkey/
+  rss_file: guests/umonkey/rss.xml
+
+comment_labels:
+- blog
+- podcast

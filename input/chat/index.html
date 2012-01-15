@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Чат Тоже мне радио</title>
+    <link rel="stylesheet" type="text/css" href="/chat/screen.css"/>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div id="chatbox"></div>
+    <div>
+      <form name="chatForm" id="chatForm">
+        <input id="nick" type="text" value="" size="15" maxlength="15"/>
+        <input id="chatMsg" type="text" value="" size="100" maxlength="140"/>
+        <input type="submit" value="Отправить"/>
+      </form>
+    </div>
+    <div id="help">
+      <p>Чат работает гораздо лучше, если пользоваться <a href="http://www.jabberworld.info/Клиенты_Jabber">специальным jabber-клиентом</a>.  Устанавливайте и заходите в <a href="xmpp://tmradio@conference.jabber.ru">конференцию tmradio</a> на сервере conference.jabber.ru.</p>
+    </div>
+    <script type="text/javascript" src="http://ekis2.ikito.ru:8080/js/webchat.js"></script>
+    <script>$(function(){ $("#chatMsg").focus(); });</script>
+  </body>
+</html>

@@ -1,0 +1,18 @@
+2011-10-04 23:00 Вдруг №2
+2011-10-06 21:00 ТСН №45
+2011-10-13 21:00 ТСН №46
+2011-10-20 21:00 ТСН №47
+2011-10-27 21:00 ТСН №48
+2011-11-03 21:00 ТСН №49
+2011-11-10 21:00 ТСН №50
+2011-11-17 21:00 ТСН №51: @umonkey, @russian_rubyist
+2011-11-24 21:00 ТСН №52: @umonkey, @helvetic
+2011-12-01 21:00 ТСН №53: @umonkey, @russian_rubyist
+2011-12-08 21:00 ТСН №54: @umonkey, @russian_rubyist
+2011-12-15 21:00 ТСН №55: @umonkey, @russian_rubyist
+2011-12-22 21:00 ТСН №56: @umonkey, @russian_rubyist
+2011-12-29 21:00 ТСН №57: @umonkey, @russian_rubyist
+2012-01-05 21:00 ТСН №58: @umonkey, @russian_rubyist
+2012-01-12 21:00 ТСН №59: @umonkey, @russian_rubyist
+2012-01-19 21:00 ТСН №60: @umonkey, @dugwin
+2012-01-26 21:00 ТСН №61: @umonkey, @russian_rubyist

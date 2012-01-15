@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	font: normal 10pt/12pt Ubuntu, sans-serif;
+}
+
+#chatbox {
+	width: 700px;
+	height: 300px;
+	border: 2px solid silver;
+	overflow: scroll;
+	overflow-x: hidden;
+	margin: 4px;
+}
+
+form {
+	margin: 4px;
+}
+
+#help {
+	position: absolute;
+	top: 10px;
+	left: 720px;
+	width: 200px;
+}

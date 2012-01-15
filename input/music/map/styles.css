@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 8pt;
+	font-family: sans-serif;
+}
+
+#map_canvas {
+  width: 100%;
+  height: 100%;
+}
+
+div.pos {
+	font: normal 10pt/12pt arial, sans-serif;
+	max-width: 300px;
+}
