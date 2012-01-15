@@ -3,6 +3,7 @@ all: build
 rebuild: fetch update-dl-counts build update-money commit
 
 build:
+	mkdir -p output
 	rm -rf output/*
 	cat scripts/*.js > input/scripts.js
 	python poole.py --build > build.log
