@@ -19,7 +19,7 @@ push:
 update-money:
 	python tools/update-money.py > /tmp/yandex-money.csv
 	mv /tmp/yandex-money.csv input/support/donate/yandex/history.csv
-	-git commit -q input/support/donate/yandex/history.csv -m "Обновление истории Яндекс.Денег (автомат)"
+	-git commit -m "Обновление истории Яндекс.Денег (автомат)" input/support/donate/yandex/history.csv >/dev/null
 
 fetch:
 	-git pull -q
@@ -32,7 +32,7 @@ update-dl-counts:
 
 update-schedule:
 	python tools/update-schedule.py
-	-git commit -q input/schedule.txt input/schedule.ical -m "Обновление расписания эфиров (автомат)"
+	-git commit -m "Обновление расписания эфиров (автомат)" input/schedule.txt input/schedule.ical >/dev/null
 
 clean:
 	find . -name '*.pyc' -delete
