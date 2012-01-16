@@ -13,11 +13,13 @@ commit:
 	-git commit -q input -m "Source update"
 	-git push -q
 
+push:
+	-git push -q
+
 update-money:
 	python tools/update-money.py > /tmp/yandex-money.csv
 	mv /tmp/yandex-money.csv input/support/donate/yandex/history.csv
 	-git commit -q input/support/donate/yandex/history.csv -m "Обновление истории Яндекс.Денег (автомат)"
-	-git push -q
 
 fetch:
 	-git pull -q
@@ -31,7 +33,6 @@ update-dl-counts:
 update-schedule:
 	python tools/update-schedule.py
 	-git commit -q input/schedule.txt input/schedule.ical -m "Обновление расписания эфиров (автомат)"
-	-git push -q
 
 clean:
 	find . -name '*.pyc' -delete
