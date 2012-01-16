@@ -22,7 +22,7 @@ REPLACE = (
 key_file = os.path.expanduser("~/.config/yandexmoney-tmradio.key")
 if not os.path.exists(key_file):
     print >> sys.stderr, "Key file not found, not updating transactions."
-    exit(0)
+    exit(1)
 
 output = export_history_csv(key_file)
 for k, v in REPLACE:
