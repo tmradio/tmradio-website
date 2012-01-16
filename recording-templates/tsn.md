@@ -7,3 +7,7 @@ duration: %(duration)u
 labels: podcast, tsn, queue
 ---
 Описание отсутствует.
+
+Дополнительные ссылки:
+
+- [Лог чата](http://files.tmradio.net/audio/dump/%(file_base).log)
