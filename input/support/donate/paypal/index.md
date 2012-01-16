@@ -8,10 +8,10 @@ title: Финансовая поддержка
 Выберите удобный для вас способ поддержки:
 
 <ul id="donationtypes">
-<li><a href="/support/donate/" accesskey="y" title="Яндекс.Деньги"><img src="/files/yandex-money-88x31.png" src="Яндекс.Деньги"/></a></li>
-<li class="current"><img src="/files/paypal-88x31.png" src="PayPal"/></li>
-<li><a href="/support/donate/bitcoin/" accesskey="b" title="BitCoin"><img src="/files/bitcoin-88x31.png" src="BitCoin"/></a></li>
-<li><a href="https://flattr.com/profile/tmradio" accesskey="f" title="Flattr"><img src="/files/flattr-88x31.png" src="Flattr"/></a></li>
+<li><a href="/support/donate/" accesskey="y" title="Яндекс.Деньги"><img src="/files/yandex-money-88x31.png" alt="Яндекс.Деньги"/></a></li>
+<li class="current"><img src="/files/paypal-88x31.png" alt="PayPal"/></li>
+<li><a href="/support/donate/bitcoin/" accesskey="b" title="BitCoin"><img src="/files/bitcoin-88x31.png" alt="BitCoin"/></a></li>
+<li><a href="https://flattr.com/profile/tmradio" accesskey="f" title="Flattr"><img src="/files/flattr-88x31.png" alt="Flattr"/></a></li>
 </ul>
 
 Сумму пожертвования можно будет ввести после нажатия на кнопку.
