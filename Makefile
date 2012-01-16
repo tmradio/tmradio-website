@@ -16,18 +16,22 @@ commit:
 update-money:
 	python tools/update-money.py > /tmp/yandex-money.csv
 	mv /tmp/yandex-money.csv input/support/donate/yandex/history.csv
+	-git commit -q input/support/donate/yandex/history.csv -m "Обновление истории Яндекс.Денег (автомат)"
+	-git push -q
 
 fetch:
 	-git pull -q
 
 serve:
-	poole.py --serve
+	python poole.py --serve
 
 update-dl-counts:
 	python poolemonkey/feeds.py tmradio/tsn tmradio/all tmradio/prokino tmradio/mcast tmradio/podcast tmradio/live sosonews umonkey/podcast umonkey > input/dlstats.csv
 
 update-schedule:
 	python tools/update-schedule.py
+	-git commit -q input/schedule.txt input/schedule.ical -m "Обновление расписания эфиров (автомат)"
+	-git push -q
 
 clean:
 	find . -name '*.pyc' -delete

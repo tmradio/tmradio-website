@@ -357,3 +357,30 @@ code {
 textarea.text {
 	height: 100px;
 }
+
+
+/**
+ * Donation type form.
+ */
+#donationtypes {
+	margin: .5em 0;
+	padding: 0;
+	list-style-type: none;
+	background: transparent url(/files/ddd-hr.png) repeat-x bottom;
+}
+#donationtypes img {
+	border: none;
+	width: 88px;
+	height: 31px;
+}
+#donationtypes li {
+	display: inline-block;
+	margin-right: 50px;
+	padding: 4px;
+}
+#donationtypes li.current {
+	border-left: solid 1px #ddd;
+	border-top: solid 1px #ddd;
+	border-right: solid 1px #ddd;
+	background-color: white;
+}
