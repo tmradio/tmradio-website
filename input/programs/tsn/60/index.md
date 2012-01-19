@@ -51,6 +51,7 @@ labels: podcast, tsn, umonkey, dugwin
 
 Пожертвования:
 
+- Дмитрий Паскаль
 - iPtrX
 - gagarintl
 - inartlife
