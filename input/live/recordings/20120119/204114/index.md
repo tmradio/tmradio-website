@@ -1,4 +1,4 @@
-title: ТСН №60 от %s (прешоу)
+title: ТСН №60 от 19.01.12 (прешоу)
 date: 2012-01-19 20:41:14
 illustration: http://files.tmradio.net/audio/dump/20120119-204114-live.png
 file: http://files.tmradio.net/audio/dump/20120119-204114-live.mp3
