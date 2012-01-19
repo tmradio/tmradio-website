@@ -1,13 +1,13 @@
 title: ТСН №62 от %s
-date: 2012-01-12 21:06:16
-illustration: http://files.tmradio.net/audio/dump/20120112-210616-live.png
-file: http://files.tmradio.net/audio/dump/20120112-210616-live.mp3
-filesize: 105524544
-duration: 6595
+date: 2011-09-29 22:08:44
+illustration: http://files.tmradio.net/audio/dump/20110929-220844-live.png
+file: http://files.tmradio.net/audio/dump/20110929-220844-live.mp3
+filesize: 60709584
+duration: 3794
 labels: podcast, tsn, queue
 ---
 Описание отсутствует.
 
 Дополнительные ссылки:
 
-- [Лог чата](http://files.tmradio.net/audio/dump/20120112-210616-live.log)
+- [Лог чата](http://files.tmradio.net/audio/dump/20110929-220844-live.log)

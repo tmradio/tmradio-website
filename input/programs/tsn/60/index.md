@@ -1,13 +1,13 @@
 title: ТСН №60 от %s
-date: 2011-12-29 21:06:43
-illustration: http://files.tmradio.net/audio/dump/20111229-210643-live.png
-file: http://files.tmradio.net/audio/dump/20111229-210643-live.mp3
-filesize: 116760720
-duration: 7298
+date: 2011-09-22 21:05:46
+illustration: http://files.tmradio.net/audio/dump/20110922-210546-live.png
+file: http://files.tmradio.net/audio/dump/20110922-210546-live.mp3
+filesize: 59869264
+duration: 0
 labels: podcast, tsn, queue
 ---
 Описание отсутствует.
 
 Дополнительные ссылки:
 
-- [Лог чата](http://files.tmradio.net/audio/dump/20111229-210643-live.log)
+- [Лог чата](http://files.tmradio.net/audio/dump/20110922-210546-live.log)
