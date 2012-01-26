@@ -1,4 +1,4 @@
-title: ТСН №61 от %s (прешоу)
+title: ТСН №61 от 26.01.2012 (прешоу)
 date: 2012-01-26 20:40:38
 illustration: http://files.tmradio.net/audio/dump/20120126-204038-live.png
 file: http://files.tmradio.net/audio/dump/20120126-204038-live.mp3

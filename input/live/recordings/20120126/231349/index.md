@@ -1,4 +1,4 @@
-title: ТСН №64 от %s (послешоу)
+title: ТСН №64 от 26.01.2012 (послешоу)
 date: 2012-01-26 23:13:49
 illustration: http://files.tmradio.net/audio/dump/20120126-231349-live.png
 file: http://files.tmradio.net/audio/dump/20120126-231349-live.mp3

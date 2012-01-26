@@ -1,4 +1,4 @@
-title: ТСН №%(next_tsn)s от %(date_long)%s (послешоу)
+title: ТСН №%(next_tsn)s от %(date_long)s (послешоу)
 date: %(date_time)s
 illustration: http://files.tmradio.net/audio/dump/%(file_base)s.png
 file: http://files.tmradio.net/audio/dump/%(file_name)s
