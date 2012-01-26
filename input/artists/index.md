@@ -32,4 +32,4 @@ info@tmradio.net (можно через [форму обратной связи]
 [fstat]: http://files.tmradio.net/listeners/listeners.csv
 [sstat]: http://files.tmradio.net/listeners/totals.csv
 [graphs]: /graph.html
-[feedback]: /feedback.html
+[feedback]: /feedback/

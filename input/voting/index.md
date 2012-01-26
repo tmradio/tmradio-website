@@ -27,6 +27,6 @@ title: Голосование за музыку
 
 ![скриншот](/voting/screenshot.png)
 
-[fb]: /feedback.html
+[fb]: /feedback/
 [client]: http://app.tmradio.net/
 [Jabber]: http://jabberworld.info/Карта_Wiki

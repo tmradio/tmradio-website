@@ -21,4 +21,4 @@ PS: если вы знаете другие источники свободно�
 
 [1]: http://www.last.fm/
 [2]: http://www.jamendo.com/
-[3]: /feedback.html
+[3]: /feedback/

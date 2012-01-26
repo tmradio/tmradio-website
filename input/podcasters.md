@@ -10,4 +10,4 @@ mpos: 11
 [присылайте][2] нам ссылку на RSS-ленту.
 
 [1]: /programs/mcast/
-[2]: /feedback.html
+[2]: /feedback/

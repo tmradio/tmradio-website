@@ -7,7 +7,7 @@ title: Часто задаваемые вопросы
 - Мы предоставляем [кучу статистики](/about/stats/).
 - Мы открыты для [всякого сотрудничества](/support/).
 
-[feedback]: /feedback.html
+[feedback]: /feedback/
 [jabber]: /voting/
 [lstat]: http://files.tmradio.net/listeners/listeners.csv
 [site]: /about/site/
