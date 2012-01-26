@@ -11,7 +11,8 @@ labels: podcast, tsn, umonkey, partyzan, steeker, paskal, oksana, vslotin, tramp
 Бобошко](/guests/steeker/), [Дмитрий Паскаль](/guests/paskal/), [Владимир
 Слотин](/guests/vslotin/).
 
-{{format_shownotes("""
+Основные новости:
+
 - Ракета-носитель "Союз-ФГ" с кораблем "Союз ТМА-22" запущена к МКС
   http://www.argumenti.ru/science/online/2011/11/137080
 - Путинские сказки или к 2010 году вам обещали.
@@ -26,9 +27,9 @@ labels: podcast, tsn, umonkey, partyzan, steeker, paskal, oksana, vslotin, tramp
   http://www.kolesa.ru/news/2011/10/26/v_habarovske_ekzameny_po_vozhdeniyu_budet_prinimat_avtomatika
 - Пенсионерка из Челябинска просила у чиновников новое жилье, а те решили отобрать внука
   http://news2.ru/story/329672/
-""")}}
 
-{{format_shownotes("""
+Музыкаж
+
 - БИ-2, «Достучаться до небес»
   http://music.yandex.ru/track/2786195/album/299050
 - Агата Кристи, «Легион»
@@ -37,7 +38,6 @@ labels: podcast, tsn, umonkey, partyzan, steeker, paskal, oksana, vslotin, tramp
   http://www.lastfm.ru/music/Talco/_/Tutti+Assolti
 - Pornophonique, «Rock'n'roll Hall of Fame»
   http://www.lastfm.ru/music/pornophonique/_/Rock'n'roll+Hall+Of+Fame
-""", u"Музыка")}}
 
 Книги:
 

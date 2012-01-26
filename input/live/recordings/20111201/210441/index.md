@@ -10,7 +10,8 @@ title: ТСН №53 от 01.12.2011
 [Дмитрий Паскаль](/guests/paskal/), [Хасан Атаман](/guests/argbrontsterop/) и
 [Джерри Блоггер](/guests/blogger/).
 
-{{format_shownotes("""
+Основные новости:
+
 - О выборах в Осетии
   http://www.gazeta.ru/news/lastnews/2011/12/01/n_2117762.shtml
 - Про мигрантов и дефицит рабочей силы
@@ -21,7 +22,6 @@ title: ТСН №53 от 01.12.2011
   http://rln.fm/2011/11/gosduma-prinyala-zaon-o-liberalizacii-uk-rf/
 - Героиновые наркоманы доживают до 60 лет
   http://cadu3m.livejournal.com/297066.html?mode=reply
-""")}}
 
 Музыка:
 

@@ -8,7 +8,6 @@ labels: podcast, tsn, umonkey, krt3k, trampuln
 ---
 Эфир провели Хекс и krt3k.  Звонил Олег (TrampUln).
 
-{{format_shownotes("""
 - Путин и мужик
   http://www.youtube.com/watch?v=L5wu0j1dtvA
 - При аварии разбить стекло… кирпичом!
@@ -27,7 +26,6 @@ labels: podcast, tsn, umonkey, krt3k, trampuln
   http://txt.newsru.com/russia/26dec2011/borovkova.html
 - Онищенко не рекомендует напрямую контактировать с птичьим помётом
   http://top.rbc.ru/society/26/12/2011/631777.shtml
-""")}}
 
 Музыка:
 

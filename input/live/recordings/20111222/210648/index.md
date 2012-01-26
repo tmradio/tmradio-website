@@ -8,7 +8,8 @@ labels: podcast, tsn, umonkey, partyzan, argbrontsterop
 ---
 Эфир провели Хекс и Партизан, звонил Хасан Атаман.
 
-{{format_shownotes("""
+Основные новости:
+
 - Соглашение ЕС с Украиной не подписано из-за Тимошенко
   http://www.bbc.co.uk/russian/international/2011/12/111219_eu_ukraine_no_agreement.shtml
 - В Гондурасе отметят конец света
@@ -30,7 +31,6 @@ labels: podcast, tsn, umonkey, partyzan, argbrontsterop
   http://lenta.ru/news/2011/11/23/nopolizei/
 - Google огласила новый список закрываемых проектов
   http://googleblog.blogspot.com/2011/11/more-spring-cleaning-out-of-season.html
-""")}}
 
 Музыка:
 

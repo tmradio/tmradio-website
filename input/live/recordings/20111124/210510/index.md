@@ -9,7 +9,8 @@ title: ТСН №52 от 24.11.2011
 Эфир провели [Хекс](/guests/umonkey/) и [Семеон](/guests/steeker/), звонили
 [TrampUln](/guests/trampuln/) и [Хасан Атаман](/guests/argbrontsterop/).
 
-{{format_shownotes("""
+Основные новости:
+
 - Комментарий про космонавтику
   http://www.tmradio.net/#comment-367670552
 - Открытое письмо сотрудника КБ Лавочкина
@@ -30,13 +31,12 @@ title: ТСН №52 от 24.11.2011
   http://www.specletter.com/obcshestvo/2011-11-17/vlast-pered-vyborami-kinet-kost-a-posle-vyborov-prosto-kinet.html
 - На вдову и сыновей рокера, убивших в своей квартире бандита, завели уголовное дело
   http://txt.newsru.com/crime/24nov2011/rockergirnykcase.html
-""")}}
 
-{{format_shownotes("""
+Музыка:
+
 - Gorky Park, «Moscow Calling»
   http://www.lastfm.ru/music/Gorky+Park/Moscow+Calling/Moscow+Calling
 - Heifervescent, «100 Miles or More»
   http://www.lastfm.ru/music/Heifervescent/_/100+Miles+or+More
 - David Rovics, «Crashing Down»
   http://www.lastfm.ru/music/David+Rovics/_/Crashing+Down
-""", u"Музыка")}}

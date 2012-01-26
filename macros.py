@@ -316,3 +316,37 @@ def format_shownotes(text, title=None):
             output += u"- [%s](%s)\n" % (title, link)
 
     return output
+
+
+def _format_shownote_block(text):
+    lines = []
+
+    for line in text.split("\n"):
+        if line.startswith("-"):
+            lines.append(line)
+        elif not lines:
+            return text
+        elif not lines[-1].startswith("- "):
+            return text
+        elif not "://" in line:
+            return text
+        elif not line.startswith("  "):
+            return text
+        else:
+            lines[-1] = "- [%s](%s)" % (lines[-1][2:], line.strip())
+
+    return "\n".join(lines)
+
+
+def _format_shownotes(text):
+    blocks = []
+    for block in text.split("\n\n"):
+        blocks.append(_format_shownote_block(block))
+    return "\n\n".join(blocks)
+
+
+def hook_preconvert_shownotes():
+    for page in pages:
+        if "podcast" not in getattr(page, "labels", ""):
+            continue
+        page.source = _format_shownotes(page.source)

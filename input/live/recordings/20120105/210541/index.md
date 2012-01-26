@@ -6,7 +6,8 @@ illustration: http://files.tmradio.net/audio/dump/20120105-210541-live.png
 duration: 7680
 labels: podcast, tsn, umonkey, partyzan, trampuln
 ---
-{{format_shownotes("""
+Основные новости:
+
 - Самые красочные новогодние шоу мира
   http://txt.newsru.com/world/01jan2012/bestfireworks.html
 - Туву продолжает трясти
@@ -21,7 +22,6 @@ labels: podcast, tsn, umonkey, partyzan, trampuln
   http://echo.msk.ru/news/845489-echo.html
 - В Таджикистане религиозные фанатики зарезали Деда Мороза
   http://top.rbc.ru/incidents/02/01/2012/632543.shtml?print
-""")}}
 
 Музыка:
 

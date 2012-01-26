@@ -8,7 +8,8 @@ labels: podcast, tsn, umonkey, dugwin
 ---
 Выпуск провели Дуг и Хекс.
 
-{{format_shownotes("""
+Основные новости:
+
 - Китай требует от блогеров регистрации с реальными именами
   http://www.bbc.co.uk/russian/society/2012/01/120118_china_microblogs.shtml
 - Единоросс-миллиардер внес в Думу поправки об отмене банковской тайны для чиновников и депутатов
@@ -43,7 +44,6 @@ labels: podcast, tsn, umonkey, dugwin
   http://www.dugwin.net/blog/00199.html
 - Мобильный этикет
   http://www.dugwin.net/blog/00256.html
-""")}}
 
 Дополнительные ссылки:
 

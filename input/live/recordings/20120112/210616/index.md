@@ -8,7 +8,8 @@ labels: podcast, tsn, umonkey, partyzan, trampuln, tsn
 ---
 Эфир провели Хекс и Партизан, звонил Олег (Trump).
 
-{{format_shownotes("""
+Основные новости:
+
 - В Сеть попал список несмертельного оружия Пентагона
   http://txt.newsru.com/world/05jan2012/nonlethalweapons.html
 - В Тегеране убит специалист по ядерной программе Ирана
@@ -29,7 +30,6 @@ labels: podcast, tsn, umonkey, partyzan, trampuln, tsn
   http://tech.slashdot.org/story/11/12/21/0420228/coders-develop-ways-to-defeat-sopa-censorship
 - Прокурор потребовал казнить Мубарака
   http://lenta.ru/news/2012/01/05/mubarak/
-""")}}
 
 Музыка:
 
