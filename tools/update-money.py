@@ -2,6 +2,7 @@
 
 import os
 import sys
+import urllib
 
 from yandexmoney import export_history_csv
 
@@ -24,7 +25,11 @@ if not os.path.exists(key_file):
     print >> sys.stderr, "Key file not found, not updating transactions."
     exit(1)
 
-output = export_history_csv(key_file)
+try:
+    output = export_history_csv(key_file)
+except urllib.URLError, e:
+    exit(0)
+
 for k, v in REPLACE:
     output = output.replace(k, v)
 print output.encode("utf-8")
