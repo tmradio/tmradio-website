@@ -11,3 +11,5 @@ labels: podcast, tsn, queue
 Дополнительные ссылки:
 
 - [Лог чата](http://files.tmradio.net/audio/dump/%(file_base)s.log)
+
+Телефон горячей линии для комментариев: **+7.911.700.3831**.
