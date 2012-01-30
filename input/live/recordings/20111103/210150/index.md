@@ -3,11 +3,11 @@ duration: 3721
 file: http://files.tmradio.net/audio/dump/20111103-210150-live.mp3
 filesize: 120191568
 illustration: http://files.tmradio.net/audio/dump/20111103-210150-live.png
-labels: podcast, tsn, umonkey, partyzan, argbrontsterop, steeker, paskal, trampuln
+labels: podcast, tsn, umonkey, partyzan, argbrontsterop, steeker, paskal, trump
 title: ТСН №49 от 03.11.2011
 ---
-Участники: Хекс, Партизан, Хасан Атаман, Семеон Бобошко, Олег Козинцев, Дмитрий
-Паскаль.
+Участники: Хекс, Партизан, Хасан Атаман, [Семеон Бобошко](/guests/semeon/),
+[Олег Козинцев](/guests/trump/), [Дмитрий Паскаль](/guests/paskal/).
 
 Основные новости:
 

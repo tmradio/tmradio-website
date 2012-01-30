@@ -3,11 +3,11 @@ duration: 7776
 file: http://files.tmradio.net/audio/dump/20111124-210510-live.mp3
 filesize: 124422800
 illustration: http://files.tmradio.net/audio/dump/20111124-210510-live.png
-labels: podcast, tsn, umonkey, steeker, argbrontsterop, trampuln
+labels: podcast, tsn, umonkey, steeker, argbrontsterop, trump
 title: ТСН №52 от 24.11.2011
 ---
 Эфир провели [Хекс](/guests/umonkey/) и [Семеон](/guests/steeker/), звонили
-[TrampUln](/guests/trampuln/) и [Хасан Атаман](/guests/argbrontsterop/).
+[trump](/guests/trump/) и [Хасан Атаман](/guests/argbrontsterop/).
 
 Основные новости:
 

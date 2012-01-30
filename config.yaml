@@ -72,6 +72,10 @@ authors:
   fullname: "Дмитрий Паскаль"
   profile: "/guests/paskal/"
   email: info@tmradio.net
+- name: trump
+  fullname: "Олег Козинцев"
+  profile: "/guests/trump/"
+  email: o.kozintsev@googlemail.com
 
 sections:
 - tsn

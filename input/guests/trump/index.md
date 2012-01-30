@@ -1,4 +1,4 @@
-title: Олег Козинцев
+title: Олег Козинцев (Trump)
 rss: trampuln
 rsstitle: Гости: Олег Козинцев
 labels: guests
@@ -8,4 +8,4 @@ labels: guests
 
 ## Программы с его участием
 
-{{ pagelist(pages, limit=None, label='TrampUln') }}
+{{ pagelist(pages, limit=None, label='trump') }}

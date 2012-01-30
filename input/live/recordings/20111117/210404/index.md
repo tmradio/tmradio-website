@@ -4,10 +4,10 @@ file: http://files.tmradio.net/audio/dump/20111117-210404-live.mp3
 filesize: 180673632
 illustration: http://files.tmradio.net/audio/dump/20111117-210404-live.png
 duration: 11292
-labels: podcast, tsn, umonkey, partyzan, steeker, paskal, oksana, vslotin, trampuln
+labels: podcast, tsn, umonkey, partyzan, steeker, paskal, oksana, vslotin, trump
 ---
 Эфир провели [Хекс](/guests/umonkey/) и [Партизан](/guests/partyzan/).  Звонили:
-[TrampUln](/guests/trampuln/), [Оксана](/guests/oksana/), [Семеон
+[trump](/guests/trump/), [Оксана](/guests/oksana/), [Семеон
 Бобошко](/guests/steeker/), [Дмитрий Паскаль](/guests/paskal/), [Владимир
 Слотин](/guests/vslotin/).
 
