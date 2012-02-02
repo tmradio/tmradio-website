@@ -6,7 +6,16 @@ build:
 	mkdir -p output
 	rm -rf output/*
 	cat javascript/*.js > input/scripts.js
-	python poole.py --build > build.log
+	python scripts/poole.py --build | tee build.log
+
+build-quiet:
+	rm -rf output/*
+	test -d output || mkdir -p output
+	cat javascript/*.js > input/scripts.js
+	python scripts/poole.py --build > build.log
+
+debug:
+	python scripts/poole.py --build
 
 commit:
 	-git add -A

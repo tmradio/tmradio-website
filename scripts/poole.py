@@ -49,8 +49,6 @@ except ImportError:
           "http://www.freewisdom.org/projects/python-markdown/Installation")
     sys.exit(1)
 
-OUTPUT_DIR = 'output' # TODO: move to options()
-
 # =============================================================================
 # init site
 # =============================================================================
@@ -250,7 +248,7 @@ pre {
 """
 }
 
-def init(project):
+def init(project, opts):
     """Initialize a site project."""
 
     if not opx(project):
@@ -261,7 +259,7 @@ def init(project):
         sys.exit(1)
 
     os.mkdir(opj(project, "input"))
-    os.mkdir(opj(project, "output"))
+    os.mkdir(opj(project, opts.output_dir))
 
     for fname, content in EXAMPLE_FILES.items():
         with open(opj(project, fname), 'w') as fp:
@@ -342,6 +340,34 @@ class Page(dict):
                 return self[name]
             raise e
 
+def prepare_output(macmod):
+    if hasattr(macmod, "prepare_output"):
+        return macmod.prepare_output()
+
+    print "Using built-in prepare."
+
+    project = macmod.project
+    dir_in = macmod.input
+    dir_out = macmod.output
+
+    # prepare output directory
+    project_path = os.path.realpath(project)
+    for fod in glob.glob(opj(dir_out, "*")):
+        # don't remove the sources
+        """
+        real_fod = os.path.realpath(fod)
+        if real_fod == project_path or real_fod.startswith(project_path):
+            print real_fod, project_path
+            continue
+        """
+        if os.path.isdir(fod):
+            print "-dir", fod
+            shutil.rmtree(fod)
+        else:
+            os.remove(fod)
+    if not opx(dir_out):
+        os.mkdir(dir_out)
+
 # -----------------------------------------------------------------------------
 
 def build(project, opts):
@@ -417,7 +443,7 @@ def build(project, opts):
     # -------------------------------------------------------------------------
 
     dir_in = opj(project, "input")
-    dir_out = opj(project, OUTPUT_DIR)
+    dir_out = opj(project, opts.output_dir)
     page_html = opj(project, "page.html")
 
     # check required files and folders
@@ -426,23 +452,6 @@ def build(project, opts):
             print("error  : %s does not exist, looks like project has not been "
                   "initialized, abort" % pelem)
             sys.exit(1)
-
-    # prepare output directory
-    project_path = os.path.realpath(project)
-    for fod in glob.glob(opj(dir_out, "*")):
-        # don't remove the sources
-        real_fod = os.path.realpath(fod)
-        if real_fod == project_path or real_fod.startswith(project_path + os.path.sep):
-            continue
-        # don't remove version control
-        if os.path.basename(fod) in ('.git', '.hg', '.svn'):
-            continue
-        if os.path.isdir(fod):
-            shutil.rmtree(fod)
-        else:
-            os.remove(fod)
-    if not opx(dir_out):
-        os.mkdir(dir_out)
 
     # macro module
     class nomod: pass # dummy module, something we can set attributes on
@@ -457,11 +466,18 @@ def build(project, opts):
         if not attr.startswith("_"):
             macros[attr] = getattr(macmod, attr)
 
+    prepare_output(macmod)
+
+    pages = []
+
+    for _fn in dir(macmod):
+        if _fn.startswith("init_"):
+            getattr(macmod, _fn)(pages)
+
     # -------------------------------------------------------------------------
     # process input files
     # -------------------------------------------------------------------------
 
-    pages = []
     page_global = macros.get("page", {})
     for cwd, dirs, files in os.walk(dir_in.decode(opts.filename_enc)):
         cwd_site = cwd[len(dir_in):].lstrip(os.path.sep)
@@ -469,7 +485,9 @@ def build(project, opts):
             if re.search(opts.ignore, opj(cwd_site, sdir)):
                 dirs.remove(sdir)
             else:
-                os.mkdir(opj(dir_out, cwd_site, sdir))
+                tmp = opj(dir_out, cwd_site, sdir)
+                if not os.path.exists(tmp):
+                    os.mkdir(tmp)
         for f in files:
             if re.search(opts.ignore, opj(cwd_site, f)):
                 pass
@@ -479,8 +497,9 @@ def build(project, opts):
             else:
                 shutil.copy(opj(cwd, f), opj(dir_out, cwd_site))
 
+    pages.sort(key=lambda p: int(p.get("sval", "0")))
+
     macros["pages"] = pages
-    pages.sort(key=lambda p: p.get('fname')) # FIXME: some pages are lost without this, WTF?!
     macmod.pages = pages
 
     # -------------------------------------------------------------------------
@@ -495,13 +514,9 @@ def build(project, opts):
     # convert pages (markdown to HTML)
     # -------------------------------------------------------------------------
 
-    got = []
-    for page in pages:
+    for page in sorted(pages, key=lambda p: p["url"]):
+
         print("info   : convert %s" % page.fname)
-        if page.fname in got:
-            print >>sys.stderr, "ERROR  : %s appears twice" % page.fname
-            continue
-        got.append(page.fname)
 
         # replace expressions and statements in page source
         macmod.page = page
@@ -527,9 +542,9 @@ def build(project, opts):
     with codecs.open(opj(project, "page.html"), 'r', opts.input_enc) as fp:
         skeleton = fp.read()
 
-    pages.sort(key=lambda p: int(p.get("sval", "0")))
+    hooks = [a for a in dir(macmod) if a.startswith("hook_html_")]
 
-    for page in pages:
+    for page in sorted(pages, key=lambda p: p["url"]):
 
         print("info   : render %s" % page.url)
 
@@ -546,6 +561,10 @@ def build(project, opts):
         # make relative links absolute
         out = regx_rurl.sub(repl_rurl, out)
 
+        # apply final hooks
+        for fn in hooks:
+            out = getattr(macmod, fn)(out, page)
+
         # write HTML page
         fname = page.fname.replace(dir_in, dir_out)
         fname = re.sub(MKD_PATT, ".html", fname)
@@ -558,16 +577,16 @@ def build(project, opts):
 # serve site
 # =============================================================================
 
-def serve(project, port):
+def serve(project, opts):
     """Temporary serve a site project."""
 
-    root = opj(project, "output")
+    root = opj(project, opts.output_dir)
     if not os.listdir(project):
         print("error  : output dir is empty (build project first!), abort")
         sys.exit(1)
 
     os.chdir(root)
-    server = HTTPServer(('', port), SimpleHTTPRequestHandler)
+    server = HTTPServer(('', opts.port), SimpleHTTPRequestHandler)
     server.serve_forever()
 
 # =============================================================================
@@ -605,6 +624,8 @@ def options():
                   help="encoding of output pages (default: utf-8)")
     og.add_option("", "--filename-enc", default="utf-8", metavar="ENC",
                   help="encoding of file names (default: utf-8)")
+    og.add_option("", "--output-dir", default="output", metavar="DIR",
+                  help="output directory (default: ./output)")
     op.add_option_group(og)
 
     og = optparse.OptionGroup(op, "Serve options")
@@ -631,12 +652,14 @@ def main():
 
     opts = options()
 
+    sys.path.insert(0, os.getcwd())
+
     if opts.init:
-        init(opts.project)
+        init(opts.project, opts)
     if opts.build:
         build(opts.project, opts)
     if opts.serve:
-        serve(opts.project, opts.port)
+        serve(opts.project, opts)
 
 if __name__ == '__main__':
 

@@ -13,12 +13,7 @@ import time
 import urllib
 import urlparse
 
-from poolemonkey import init
-from poolemonkey.pagelist import get_page_labels, filter_pages, show as pagelist
-from poolemonkey.util import strip_url
-
-
-init(globals())
+from scripts.macros import *
 
 
 def format_duration(value):
@@ -269,7 +264,7 @@ def navigate(page, pages):
     if not _player:
         return ""
 
-    links = Navigation(pages).get_page(page)
+    links = get_navigation(page)
     if not links:
         return ""
 
@@ -350,3 +345,53 @@ def hook_preconvert_shownotes():
         if "podcast" not in getattr(page, "labels", ""):
             continue
         page.source = _format_shownotes(page.source)
+
+
+def play_file(url, downloadable=True):
+    from urllib import quote
+    html = u'<object type="application/x-shockwave-flash" data="/files/player.swf" width="200" height="20"><param name="movie" value="/files/player.swf"/><param name="bgcolor" value="#eeeeee"/><param name="FlashVars" value="mp3=%s&amp;buttoncolor=000000&amp;slidercolor=000000&amp;loadingcolor=808080"/></object>' % quote(url)
+    if downloadable:
+        html += u" или <a href='%s'>скачать файл</a>" % url
+    return u"<div class='player'>%s</div>" % html
+
+
+def filter_pages(pages, limit=None, label=None, order_by="date", reverse_order=True, **kwargs):
+    """Returns pages that satisfy the specified criteries.  Pages without the
+    'date' field or with the 'draft' label are never shown."""
+    result = []
+
+    for page in pages:
+        if order_by not in page:
+            continue
+        labels = get_page_labels(page)
+        if "draft" in labels or "queue" in labels:
+            continue
+        if label is not None and label not in labels:
+            continue
+        result.append(page)
+
+    result.sort(key=lambda p: (p.get(order_by), p.get("title")), reverse=reverse_order)
+
+    if limit is not None:
+        result = result[:limit]
+
+    return result
+
+
+def _page_has_comments(page):
+    labels = get_config("comment_labels", [])
+    if not labels:
+        return False
+    if not set(get_page_labels(page)) & set(labels):
+        return False
+    return True
+
+
+def comment_form(page):
+    if not get_config("disqus_id"):
+        return ""
+
+    if not _page_has_comments(page):
+        return ""
+
+    return '<div id="disqus_thread"></div>'

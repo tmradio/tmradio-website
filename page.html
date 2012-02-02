@@ -8,8 +8,6 @@
     <meta name="keywords" content="{{ page.get('labels', 'радио, свободная музыка, подкастинг') }}"/>
     <title>{{ page.get('title', 'tmradio.net') }}</title>
     <link rel="stylesheet" type="text/css" href="/screen.css?12" media="screen, projection"/>
-    {{ universal_edit_button(page) }}
-    {{ get_head_nav_links(page) }}
     <!--
     <link rel="stylesheet" type="text/css" href="/handheld.css" media="handheld"/>
     -->
@@ -21,7 +19,6 @@
     <link rel="alternate" type="application/rss+xml" title="Про кино (подкаст)" href="http://rss.tmradio.net/tmradio/prokino"/>
     <script type="text/javascript">var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-18456281-1']); _gaq.push(['_trackPageview']); (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();</script>
     <script type="text/javascript" src="/scripts.js" charset="UTF-8"></script>
-    {{ poolemonkey_headers(page) }}
   </head>
   <body{{ page_classes(page) }}>
     <div id="header">
@@ -114,7 +111,6 @@
         {{ navigate(page, pages) }}
         {{ illustration(page) }}
         {{ __content__ }}
-        {{ buttons(page) }}
         {{ comment_form(page) }}
       </div>
     </div><!-- #content -->
@@ -135,11 +131,7 @@
       <div id="twitter">
         <iframe class="twitter" src="http://files.tmradio.net/twitter.html"></iframe>
       </div>
-      <div class="ueb">
-        <a href="{{ universal_edit_button(page, True) }}" title="Перейти на GitHub для редактирования страницы, не забудь залогиниться!" target="_blank">Редактировать страницу</a>
-      </div>
     </div><!-- #sidebar -->
-    {{ poolemonkey_footers(page) }}
 
 <!-- Yandex.Metrika counter -->
 <div style="display:none;"><script type="text/javascript">

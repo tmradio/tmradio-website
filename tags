@@ -14,6 +14,7 @@ hakimovis	config.yaml	1
 hate	config.yaml	1
 hotline	input/hotline/index.md	1
 indeyets	config.yaml	1
+interview	config.yaml	1
 iptrx	config.yaml	1
 jerry_blogger	config.yaml	1
 krt3k	config.yaml	1
@@ -26,6 +27,7 @@ paskal	config.yaml	1
 podcast	input/podcast/index.md	1
 programs	config.yaml	1
 prokino	input/programs/prokino/index.md	1
+queue	config.yaml	1
 rimmer	config.yaml	1
 rustray	config.yaml	1
 sckrat	config.yaml	1
@@ -37,7 +39,7 @@ stauros	config.yaml	1
 steeker	config.yaml	1
 suddenly	input/programs/suddenly/index.md	1
 tech	config.yaml	1
-trampuln	config.yaml	1
+trump	config.yaml	1
 tsn	input/programs/tsn/index.md	1
 tsn-dry	input/programs/tsn-dry/index.md	1
 umonkey	input/guests/umonkey/index.md	1
