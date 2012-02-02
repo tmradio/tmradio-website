@@ -8,6 +8,8 @@ labels: podcast, tsn, umonkey, partyzan
 ---
 Основные темы:
 
+- Украинский язык официально признан смешным
+  http://www.youtube.com/watch?v=bvcupwf8gwU
 - Оппозиционные партии Украины сплотились перед выборами
   http://www.bbc.co.uk/russian/international/2012/01/120122_ukraine_united_opposition.shtml
 - Путин. Россия: национальный вопрос
