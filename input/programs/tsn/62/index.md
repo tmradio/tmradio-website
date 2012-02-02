@@ -1,10 +1,10 @@
-title: ТСН №62 от 19.01.2012
-date: 2012-01-19 21:05:10
-illustration: http://files.tmradio.net/audio/dump/20120119-210510-live.png
-file: http://files.tmradio.net/audio/dump/20120119-210510-live.mp3
-filesize: 139709728
-duration: 7361
-labels: podcast, tsn, queue, umonkey, partyzan
+title: ТСН №62 от 02.02.2012
+date: 2012-02-02 21:05:10
+illustration: http://files.tmradio.net/audio/dump/20120202-210557-live.png
+file: http://files.tmradio.net/audio/dump/20120202-210557-live.mp3
+filesize: 116970474
+duration: 7313
+labels: podcast, tsn, umonkey, partyzan
 ---
 Эфир провели Хекс и Партизан.
 
@@ -51,8 +51,9 @@ labels: podcast, tsn, queue, umonkey, partyzan
 - ФСКН: выращивание конопли позволит создать много рабочих мест
   http://www.interfax.ru/news.asp?id=228466
 
-Дополнительные ссылки:
+Музыка:
 
-- [Лог чата](http://files.tmradio.net/audio/dump/20120119-210510-live.log)
+- Smixx, Developers
+- БИ-2, Мой друг
 
 Телефон горячей линии для комментариев: **+7.911.700.3831**.
