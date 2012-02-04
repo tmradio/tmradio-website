@@ -155,7 +155,7 @@ def page_meta(page):
         parts.append(time.strftime("%Y.%m.%d", get_page_date(page)))
 
     author = get_page_author(page)
-    if author is not None:
+    if author is not None and "date" in page:
         if author.get("url"):
             parts.append(u"автор: <a rel='author' href='%s'>%s</a>" % (_escape_xml(author["url"]), _escape_xml(author["name"])))
         else:
