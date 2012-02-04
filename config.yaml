@@ -5,6 +5,29 @@ flattr_name: tmradio
 language: ru_RU
 ueb_pattern: "https://github.com/tmradio/tmradio-website/edit/master/%s"
 
+
+# Описание RSS-каналов.
+feeds:
+- name: rss.xml
+  title: "Тоже мне радио"
+  description: "Все обновления сайта tmradio.net"
+- name: podcast.xml
+  title: "Подкасты"
+  description: "Микроподкасты на tmradio.net"
+  labels: [podcast]
+- name: live.xml
+  title: "Прямые эфиры"
+  description: "Все прямые включения на tmradio.net"
+- name: hotline.xml
+  title: "Горячая линия"
+  description: "Сообщения с горячей линии"
+  labels: [hotline]
+- name: tsn.xml
+  title: "Так себе новости"
+  description: "Так себе новости на Тоже мне радио"
+  labels: [tsn]
+
+
 buttons:
   labels: [podcast, blog]
   prefix: "Поделиться:"
@@ -29,21 +52,22 @@ buttons:
 authors:
 - name: микроша
   email: info@tmradio.net
-  profile: "http://twitter.com/tmradio"
+  website: "http://twitter.com/tmradio"
+  avatar: "http://a2.twimg.com/profile_images/1535580971/62494941_normal.jpg"
 - name: umonkey
   email: hex@umonkey.net
-  profile: "https://profiles.google.com/justin.forest/about"
+  website: "http://umonkey.net/"
   fullname: "Хекс"
 - name: dugwin
   email: dugwin@gmail.com
-  profile: "http://www.dugwin.net/"
+  website: "http://www.dugwin.net/"
   fullname: "dugwin j. goines"
 - name: partyzan
   email: rubyis@yandex.ru
-  profile: /guests/partyzan/
+  avatar: "http://a0.twimg.com/profile_images/1213968238/avvatar_normal.jpg"
 - name: sckrat
   email: sckrat.lipetsk@gmail.com
-  profile: "http://sckrat.ru/"
+  website: "http://sckrat.ru/"
   flattr_name: SckraT_
 - name: rustray
   email: info@tmradio.net
@@ -52,12 +76,13 @@ authors:
   profile: "http://about.me/nikonor"
 - name: hakimovis
   email: hakimovis@gmail.com
-  profile: "https://twitter.com/hakimovis"
+  website: "https://twitter.com/hakimovis"
   fullname: "Ирик Хакимов"
 - name: argbrontsterop
   email: argbrontsterop@gmail.com
-  profile: "https://twitter.com/argbrontsterop"
+  website: "https://twitter.com/argbrontsterop"
   fullname: "Хасан Атаман"
+  avatar: "https://twimg0-a.akamaihd.net/profile_images/669489147/He_s_RED_normal.jpg"
 - name: 505796
   email: 505796@bk.ru
   fullname: "Сапунов Виталий Витальевич"
@@ -70,12 +95,18 @@ authors:
   profile: "/guests/iptrx/"
 - name: paskal
   fullname: "Дмитрий Паскаль"
-  profile: "/guests/paskal/"
   email: info@tmradio.net
+  avatar: "https://twimg0-a.akamaihd.net/profile_images/1150762784/e6d1f3a3efd104176cbb2644d58eab410c09ec6d_reasonably_small"
 - name: trump
   fullname: "Олег Козинцев"
-  profile: "/guests/trump/"
   email: o.kozintsev@googlemail.com
+  avatar: "https://twimg0-a.akamaihd.net/profile_images/1572159272/z_a2c51f91_normal.jpg"
+- name: steeker
+  fullname: "Семеон Бобошко"
+  email: OnlySemeon@gmail.com
+- name: dreamin
+  title: "Сергей Король"
+  website: "http://ctrl-c-writer.ru/"
 
 sections:
 - tsn
