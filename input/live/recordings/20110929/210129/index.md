@@ -3,7 +3,7 @@ duration: 4031
 file: http://files.tmradio.net/audio/dump/20110929-210129-live.mp3
 filesize: 64497584
 illustration: http://files.tmradio.net/audio/dump/20110929-210129-live.png
-labels: podcast, tsn, umonkey, dugwin, partyzan
+labels: live-good, live, tsn, umonkey, dugwin, partyzan
 title: ТСН №44 от 29.09.2011
 ---
 Основные темы:

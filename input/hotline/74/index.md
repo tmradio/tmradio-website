@@ -1,5 +1,5 @@
 title: О саге «Песнь льда и пламени»
-labels: partyzan, mcast
+labels: partyzan, mcast, podcast
 filesize: 8981622
 date: 2011-05-22 10:06:35
 author: partyzan

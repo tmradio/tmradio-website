@@ -1,6 +1,6 @@
 duration: 201
 title: О книге «Облачная демократия»
-labels: partyzan, mcast
+labels: partyzan, mcast, podcast
 date: 2011-06-08 22:52
 author: partyzan
 file: http://files.tmradio.net/audio/incoming/mcasts/partyzan/cloud_democracy.mp3

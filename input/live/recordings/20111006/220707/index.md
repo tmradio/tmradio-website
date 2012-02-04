@@ -3,8 +3,8 @@ duration: 1262
 file: http://files.tmradio.net/audio/dump/20111006-220707-live.mp3
 filesize: 76395904
 illustration: http://files.tmradio.net/audio/dump/20111006-220707-live.png
-labels: podcast
-title: Запись прямого эфира от 06.10.11, 22:07
+labels: live, umonkey, dugwin, iptrx
+title: ТСН №5 от 06.10.11, 22:07 (послешоу)
 ---
 Запись эфира после [ТСН №45](/live/recordings/20111006/210124/).
 

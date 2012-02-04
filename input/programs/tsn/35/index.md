@@ -3,7 +3,7 @@ date: 2011-07-28 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-35.mp3
 filesize: 97202487
 duration: 6611
-labels: umonkey, dugwin, tsn, новости, podcast
+labels: live-good, live, umonkey, dugwin, tsn, новости
 ---
 Основные новости:
 

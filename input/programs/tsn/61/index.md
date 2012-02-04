@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/20120126-210608-live.png
 file: http://files.tmradio.net/audio/dump/20120126-210608-live.mp3
 filesize: 122390320
 duration: 7649
-labels: podcast, tsn, umonkey, partyzan
+labels: live-good, live, tsn, umonkey, partyzan
 ---
 Основные темы:
 

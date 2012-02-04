@@ -3,7 +3,7 @@ duration: 7200
 file: http://files.tmradio.net/audio/dump/20111110-210350-live.mp3
 filesize: 115098800
 illustration: http://files.tmradio.net/audio/dump/20111110-210350-live.png
-labels: podcast, tsn, umonkey, argbrontsterop, steeker
+labels: live-good, live, tsn, umonkey, argbrontsterop, steeker
 title: ТСН №50 от 10.11.2011
 ---
 Эфир провели Хекс и Хасан Атаман.

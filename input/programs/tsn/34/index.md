@@ -3,7 +3,7 @@ date: 2011-07-21 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-34.mp3
 filesize: 127397596
 duration: 6882
-labels: dugwin, tsn, новости, podcast
+labels: live-good, live, dugwin, tsn, новости
 ---
 Основные новости:
 

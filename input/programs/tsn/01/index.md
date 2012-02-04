@@ -3,7 +3,7 @@ date: 2010-12-02 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-01.mp3
 filesize: 56453333
 duration: 3528
-labels: umonkey, dugwin, tsn, новости, podcast, Путин, Кинг, визовый режим, Собянин, пенсионеры, Лукашенко, Сколково
+labels: live-good, live-good, live, umonkey, dugwin, tsn, новости, Путин, Кинг, визовый режим, Собянин, пенсионеры, Лукашенко, Сколково
 ---
 Основные новости:
 

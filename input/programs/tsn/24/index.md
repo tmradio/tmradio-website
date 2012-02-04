@@ -3,7 +3,7 @@ date: 2011-05-12 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-24.mp3
 filesize: 82717863
 duration: 6892
-labels: umonkey, dugwin, tsn, новости, podcast, Греция, евро, Яндекс, IPO, Варламов, США, оружие, амнистия, Comodo, антивирусы, Ирак, Хусейн, FDA, Грызлов, медицина, Китай, Япония, экранопланы, Google, автопилот, шенген, Дания
+labels: live-good, live, umonkey, dugwin, tsn, новости, Греция, евро, Яндекс, IPO, Варламов, США, оружие, амнистия, Comodo, антивирусы, Ирак, Хусейн, FDA, Грызлов, медицина, Китай, Япония, экранопланы, Google, автопилот, шенген, Дания
 ---
 Основные новости:
 

@@ -4,5 +4,6 @@ file: http://files.tmradio.net/audio/incoming/hotline/20110109-175449.mp3
 filesize: 164017
 labels: hotline, dugwin, podcast
 duration: 11
+author: dugwin
 ---
 Сообщение получено по GSM.

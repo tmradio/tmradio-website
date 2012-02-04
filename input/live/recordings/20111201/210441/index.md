@@ -3,7 +3,7 @@ duration: 7180
 file: http://files.tmradio.net/audio/dump/20111201-210441-live.mp3
 filesize: 114888992
 illustration: http://files.tmradio.net/audio/dump/20111201-210441-live.png
-labels: podcast, tsn, umonkey, partyzan, paskal, argbrontsterop, jerry_blogger
+labels: live-good, live, tsn, umonkey, partyzan, paskal, argbrontsterop, jerry_blogger
 title: ТСН №53 от 01.12.2011
 ---
 Эфир провели [Хекс](/guests/umonkey/) и [Партизан](/guests/partyzan/), звонили

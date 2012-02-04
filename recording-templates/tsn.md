@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/%(file_base)s.png
 file: http://files.tmradio.net/audio/dump/%(file_name)s
 filesize: %(file_size)u
 duration: %(duration)u
-labels: podcast, tsn, queue
+labels: tsn, live, live-good, queue
 ---
 Описание отсутствует.
 

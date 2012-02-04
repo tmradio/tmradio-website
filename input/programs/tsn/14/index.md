@@ -3,7 +3,7 @@ date: 2011-03-03 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-14.mp3
 filesize: 91030839
 duration: 7585
-labels: umonkey, dugwin, steeker, tsn, новости, podcast, Нургалиев, Онищенко, ЕдРо, Генштаб, казаки, НАТО, Ливия, США, РЖД, ГУВД, Колокольцев, Собянин, терроризм
+labels: live-good, live, umonkey, dugwin, steeker, tsn, новости, Нургалиев, Онищенко, ЕдРо, Генштаб, казаки, НАТО, Ливия, США, РЖД, ГУВД, Колокольцев, Собянин, терроризм
 ---
 Основные темы:
 

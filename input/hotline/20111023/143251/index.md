@@ -4,5 +4,6 @@ labels: podcast, hotline, dugwin
 file: http://files.tmradio.net/audio/incoming/hotline/2011-10-23-hotline-143251.mp3
 filesize: 394101
 duration: 36
+author: dugwin
 ---
 О количестве оппозиционно настроенных граждан.

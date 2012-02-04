@@ -3,7 +3,7 @@ duration: 3629
 file: http://files.tmradio.net/audio/dump/20111013-210315-live.mp3
 filesize: 117221872
 illustration: http://files.tmradio.net/audio/dump/20111013-210315-live.png
-labels: podcast, tsn, umonkey, partyzan
+labels: live-good, live, tsn, umonkey, partyzan
 title: ТСН №46 от 13.10.2011
 ---
 Основные новости:

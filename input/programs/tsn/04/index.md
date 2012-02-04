@@ -3,7 +3,7 @@ date: 2010-12-23 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-04.mp3
 filesize: 28092452
 duration: 3511
-labels: umonkey, dugwin, tsn, новости, podcast, Манежная площадь, травматическое оружие, Медведев, протесты, ЦРУ, WikiLeaks
+labels: live-good, live, umonkey, dugwin, tsn, новости, Манежная площадь, травматическое оружие, Медведев, протесты, ЦРУ, WikiLeaks
 ---
 Основные новости:
 

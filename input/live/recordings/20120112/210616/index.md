@@ -4,7 +4,7 @@ file: http://files.tmradio.net/audio/dump/20120112-210616-live.mp3
 illustration: http://files.tmradio.net/audio/dump/20120112-210616-live.png
 duration: 6595
 filesize: 105524544
-labels: podcast, tsn, umonkey, partyzan, trump, tsn
+labels: live-good, live, tsn, umonkey, partyzan, trump, tsn
 ---
 Эфир провели Хекс и Партизан, звонил Олег (Trump).
 

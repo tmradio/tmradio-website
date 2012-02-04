@@ -3,7 +3,7 @@ duration: 2359
 file: http://files.tmradio.net/audio/dump/20111006-210124-live.mp3
 filesize: 76217728
 illustration: http://files.tmradio.net/audio/dump/20111006-210124-live.png
-labels: podcast, tsn
+labels: live-good, live, tsn
 title: ТСН №45 от 06.10.2011
 ---
 Основные новости:

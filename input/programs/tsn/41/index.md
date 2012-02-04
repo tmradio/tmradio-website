@@ -3,7 +3,7 @@ title: ТСН №41 от 08.09.2011
 file: http://files.tmradio.net/audio/sosonews/sosonews-41.mp3
 filesize: 91938480
 duration: 5746
-labels: umonkey, tsn, новости, podcast, hakimovis, partyzan, zyklop
+labels: live-good, live, umonkey, tsn, новости, hakimovis, partyzan, zyklop
 ---
 Основные темы:
 

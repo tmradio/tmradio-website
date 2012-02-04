@@ -1,7 +1,7 @@
 date: 2011-09-15 21:00:00
 title: ТСН №42 от 15.09.2011
 #file: http://files.tmradio.net/audio/sosonews/sosonews-42.mp3
-labels: umonkey, tsn, новости, podcast, hakimovis, partyzan
+labels: live-good, live, umonkey, tsn, новости, hakimovis, partyzan
 ---
 Эфир провели Хекс и Партизан, звонили Хакимов и Дуг.
 

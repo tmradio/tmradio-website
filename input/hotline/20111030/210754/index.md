@@ -4,5 +4,6 @@ labels: podcast, hotline, umonkey
 file: http://files.tmradio.net/audio/incoming/hotline/2011-10-30-hotline-210754.mp3
 filesize: 1115581
 duration: 98
+author: umonkey
 ---
 О приоритетах для разных видов транспорта.

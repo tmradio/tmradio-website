@@ -4,5 +4,6 @@ labels: podcast, hotline, umonkey
 file: http://files.tmradio.net/audio/incoming/hotline/2011-09-12-hotline-201806.mp3
 filesize: 221715
 duration: 19
+author: umonkey
 ---
 О вопросах для группы Pornophonique.

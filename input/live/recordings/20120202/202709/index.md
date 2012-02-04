@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/20120202-202709-live.png
 file: http://files.tmradio.net/audio/dump/20120202-202709-live.mp3
 filesize: 37040768
 duration: 0
-labels: podcast
+labels: live, live-draft
 ---
 Описание отсутствует.
 

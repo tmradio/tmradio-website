@@ -4,7 +4,7 @@ file: http://files.tmradio.net/audio/dump/20111229-210643-live.mp3
 illustration: http://files.tmradio.net/audio/dump/20111229-210643-live.png
 duration: 7298
 filesize: 116760720
-labels: podcast, tsn, umonkey, krt3k, trump
+labels: live-good, live, tsn, umonkey, krt3k, trump
 ---
 Эфир провели Хекс и krt3k.  Звонил [Олег (Trump)](/guests/trump/).
 

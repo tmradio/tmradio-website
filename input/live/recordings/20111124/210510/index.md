@@ -3,7 +3,7 @@ duration: 7776
 file: http://files.tmradio.net/audio/dump/20111124-210510-live.mp3
 filesize: 124422800
 illustration: http://files.tmradio.net/audio/dump/20111124-210510-live.png
-labels: podcast, tsn, umonkey, steeker, argbrontsterop, trump
+labels: live-good, live, tsn, umonkey, steeker, argbrontsterop, trump
 title: ТСН №52 от 24.11.2011
 ---
 Эфир провели [Хекс](/guests/umonkey/) и [Семеон](/guests/steeker/), звонили

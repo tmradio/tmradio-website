@@ -3,7 +3,7 @@ title: ТСН №40 от 01.09.2011
 file: http://files.tmradio.net/audio/sosonews/sosonews-40.mp3
 filesize: 124440016
 duration: 6877
-labels: umonkey, dugwin, tsn, новости, podcast
+labels: live-good, live, umonkey, dugwin, tsn, новости
 ---
 Основные темы:
 

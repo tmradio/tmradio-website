@@ -3,7 +3,7 @@ title: ТСН №39 от 25.08.2011
 file: http://files.tmradio.net/audio/sosonews/sosonews-39.mp3
 filesize: 141800631
 duration: 7028
-labels: umonkey, tsn, новости, podcast
+labels: live-good, live, umonkey, tsn, новости
 summary: Запись прямого эфира ТСН от 25 августа.
 ---
 Основные темы:

@@ -3,7 +3,7 @@ title: ТСН №37 от 11.08.2011
 file: http://files.tmradio.net/audio/sosonews/sosonews-37.mp3
 filesize: 137374048
 duration: 7295
-labels: umonkey, dugwin, tsn, новости, podcast
+labels: live-good, live, umonkey, dugwin, tsn, новости
 ---
 Основные темы:
 

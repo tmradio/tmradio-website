@@ -3,7 +3,7 @@ date: 2011-06-02 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-27.mp3
 filesize: 88727290
 duration: 7393
-labels: umonkey, dugwin, asp_id, tsn, новости, podcast, ООН, наркотики, ГНК, Португалия, Голландия, малый бизнес, Гонконг, ВВП, Кремль, цензура, СМИ, США, золото, McDonald's, Google, NFC, лекции, либертарианство
+labels: live-good, live, umonkey, dugwin, asp_id, tsn, новости, ООН, наркотики, ГНК, Португалия, Голландия, малый бизнес, Гонконг, ВВП, Кремль, цензура, СМИ, США, золото, McDonald's, Google, NFC, лекции, либертарианство
 ---
 Основные новости:
 

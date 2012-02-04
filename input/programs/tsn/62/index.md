@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/20120202-210557-live.png
 file: http://files.tmradio.net/audio/dump/20120202-210557-live.mp3
 filesize: 116970474
 duration: 7313
-labels: podcast, tsn, umonkey, partyzan
+labels: live-good, tsn, umonkey, partyzan
 ---
 Эфир провели Хекс и Партизан.
 

@@ -3,7 +3,7 @@ date: 2011-01-13 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-07.mp3
 filesize: 42230837
 duration: 3519
-labels: umonkey, dugwin, tsn, новости, podcast, Мавроди, МММ, Хазин, Алексеева, Китай, Сарычев, налоги, Гиффордс, Тусон
+labels: live-good, live, umonkey, dugwin, tsn, новости, Мавроди, МММ, Хазин, Алексеева, Китай, Сарычев, налоги, Гиффордс, Тусон
 ---
 Основные новости:
 

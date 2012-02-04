@@ -4,7 +4,7 @@ file: http://files.tmradio.net/audio/dump/20111117-210404-live.mp3
 filesize: 180673632
 illustration: http://files.tmradio.net/audio/dump/20111117-210404-live.png
 duration: 11292
-labels: podcast, tsn, umonkey, partyzan, steeker, paskal, oksana, vslotin, trump
+labels: live-good, live, tsn, umonkey, partyzan, steeker, paskal, oksana, vslotin, trump
 ---
 Эфир провели [Хекс](/guests/umonkey/) и [Партизан](/guests/partyzan/).  Звонили:
 [trump](/guests/trump/), [Оксана](/guests/oksana/), [Семеон

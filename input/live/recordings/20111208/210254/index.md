@@ -3,7 +3,7 @@ duration: 8130
 file: http://files.tmradio.net/audio/dump/20111208-210254-live.mp3
 filesize: 130099744
 illustration: http://files.tmradio.net/audio/dump/20111208-210254-live.png
-labels: tsn, podcast, umonkey, partyzan, steeker, paskal, rimmer, slotin
+labels: live-good, live, tsn, umonkey, partyzan, steeker, paskal, rimmer, slotin
 title: ТСН №54 от 08.12.2011
 ---
 Эфир провели Хекс и Партизан, звонили: Семеон (Steeker), Дмитрий Паскаль, Слотин

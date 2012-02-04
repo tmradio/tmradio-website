@@ -3,7 +3,7 @@ duration: 6300
 file: http://files.tmradio.net/audio/dump/20111027-210251-live.mp3
 filesize: 100165216
 illustration: http://files.tmradio.net/audio/dump/20111027-210251-live.png
-labels: podcast, tsn, umonkey, hakimovis, argbrontsterop
+labels: live-good, live, tsn, umonkey, hakimovis, argbrontsterop
 title: ТСН №48 от 27.10.2011
 ---
 Основные новости:

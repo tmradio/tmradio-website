@@ -1,7 +1,8 @@
 duration: 425
 title: О группе Severed Fifth
 date: 2011-04-17 14:41
-labels: about, podcast, mcast
+author: umonkey
+labels: about, podcast, mcast, umonkey
 file: http://files.tmradio.net/audio/about/severed-fifth/severed-fifth.mp3
 filesize: 13009416
 ---

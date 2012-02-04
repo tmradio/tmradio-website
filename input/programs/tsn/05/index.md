@@ -3,7 +3,7 @@ date: 2010-12-30 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-05.mp3
 filesize: 27759130
 duration: 3469
-labels: umonkey, dugwin, tsn, новости, podcast, Ходорковский, Домодедово, МЧС, Медведев, Соколов, Манежная площадь
+labels: live-good, live, umonkey, dugwin, tsn, новости, Ходорковский, Домодедово, МЧС, Медведев, Соколов, Манежная площадь
 ---
 Основные новости:
 

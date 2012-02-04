@@ -4,7 +4,7 @@ file: http://files.tmradio.net/audio/dump/20111222-210648-live.mp3
 illustration: http://files.tmradio.net/audio/dump/20111222-210648-live.png
 duration: 7398
 filesize: 118359584
-labels: podcast, tsn, umonkey, partyzan, argbrontsterop
+labels: live-good, live, tsn, umonkey, partyzan, argbrontsterop
 ---
 Эфир провели Хекс и Партизан, звонил Хасан Атаман.
 

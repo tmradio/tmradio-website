@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/%(file_base)s.png
 file: http://files.tmradio.net/audio/dump/%(file_name)s
 filesize: %(file_size)u
 duration: %(duration)u
-labels: podcast
+labels: live, podcast
 ---
 Описание отсутствует.
 

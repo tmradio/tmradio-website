@@ -3,7 +3,7 @@ date: 2011-01-06 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-06.mp3
 filesize: 50361437
 duration: 4196
-labels: umonkey, dugwin, tsn, новости, podcast, Онищенко, гибель животных, ТУ-154
+labels: live-good, live, umonkey, dugwin, tsn, новости, Онищенко, гибель животных, ТУ-154
 ---
 Основные новости:
 

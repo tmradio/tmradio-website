@@ -4,7 +4,7 @@ file: http://files.tmradio.net/audio/dump/20120105-210541-live.mp3
 filesize: 122891504
 illustration: http://files.tmradio.net/audio/dump/20120105-210541-live.png
 duration: 7680
-labels: podcast, tsn, umonkey, partyzan, trump
+labels: live-good, live, tsn, umonkey, partyzan, trump
 ---
 Основные новости:
 

@@ -1,6 +1,6 @@
 title: ТСН №20 от 14.04.2011
 date: 2011-04-14 21:00
-labels: tsn, dugwin, umonkey, hakimovis, paskal, argbrontsterop, Медведев, обещания, транспорт, автобусы, Матвиенко, теракты, Россия, мигранты, прокуратура, МВД, Аслаханов, Франция, запреты, паранджа, ФСБ, Война, Яндекс, Free Talk Live, Free State Project, DDOS, The New Times, Пиратская Партия, Волк, Айсберг
+labels: live-good, live, tsn, dugwin, umonkey, hakimovis, paskal, argbrontsterop, Медведев, обещания, транспорт, автобусы, Матвиенко, теракты, Россия, мигранты, прокуратура, МВД, Аслаханов, Франция, запреты, паранджа, ФСБ, Война, Яндекс, Free Talk Live, Free State Project, DDOS, The New Times, Пиратская Партия, Волк, Айсберг
 file: http://files.tmradio.net/audio/sosonews/sosonews-20.mp3
 filesize: 61458378
 duration: 7682

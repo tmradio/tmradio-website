@@ -4,7 +4,8 @@ file: http://files.tmradio.net/audio/dump/20110924-000450-live.mp3
 filesize: 120825888
 duration: 3741
 illustration: http://files.tmradio.net/audio/dump/20110924-000450-live.png
-labels: podcast, dugwin, suddenly
+labels: live, dugwin, suddenly, live-good
+author: dugwin
 ---
 Запись прямого эфира от 24.09.2011.
 

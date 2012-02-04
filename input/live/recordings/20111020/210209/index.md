@@ -3,7 +3,7 @@ duration: 7487
 file: http://files.tmradio.net/audio/dump/20111020-210209-live.mp3
 filesize: 118832144
 illustration: http://files.tmradio.net/audio/dump/20111020-210209-live.png
-labels: podcast, tsn, umonkey, partyzan, steeker, argbrontsterop
+labels: live-good, live, tsn, umonkey, partyzan, steeker, argbrontsterop
 title: ТСН №47 от 20.10.2011
 ---
 Основные новости:

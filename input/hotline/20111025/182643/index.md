@@ -4,5 +4,6 @@ labels: podcast, hotline, umonkey
 file: http://files.tmradio.net/audio/incoming/hotline/2011-10-25-hotline-182643.mp3
 filesize: 433955
 duration: 38
+author: umonkey
 ---
 О детских садах, встроенных в дома.

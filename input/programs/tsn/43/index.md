@@ -3,7 +3,7 @@ title: ТСН №43 от 22.09.2011
 file: http://files.tmradio.net/audio/sosonews/sosonews-43.mp3
 filesize: 59869264
 duration: 3741
-labels: umonkey, tsn, новости, podcast
+labels: live-good, live, umonkey, tsn, новости
 illustration: http://files.tmradio.net/audio/sosonews/listeners/2011.09.22.png
 ---
 Основные темы:

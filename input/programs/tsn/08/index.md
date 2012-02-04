@@ -3,7 +3,7 @@ date: 2011-01-20 21:00
 file: http://files.tmradio.net/audio/sosonews/sosonews-08.mp3
 filesize: 42230837
 duration: 3445
-labels: dugwin, tsn, новости, podcast, в контакте, тунис, революция, Венедиктов, Авдеев, пиратство, Сурков, Сечин, Лужков
+labels: live-good, live, dugwin, tsn, новости, в контакте, тунис, революция, Венедиктов, Авдеев, пиратство, Сурков, Сечин, Лужков
 disqus_id: http://www.tmradio.net/audio/sosonews/sosonews-08.html
 ---
 Основные новости:
