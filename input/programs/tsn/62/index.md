@@ -50,6 +50,8 @@ labels: live-good, tsn, umonkey, partyzan
   http://www.ng.ru/economics/2012-01-27/1_rus_pole.html
 - ФСКН: выращивание конопли позволит создать много рабочих мест
   http://www.interfax.ru/news.asp?id=228466
+- Hobosti: украинский язык официально признали смешным
+  http://www.youtube.com/watch?v=bvcupwf8gwU
 
 Музыка:
 
