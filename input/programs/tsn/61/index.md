@@ -38,6 +38,8 @@ labels: live-good, live, tsn, umonkey, partyzan
   http://txt.newsru.com/russia/26jan2012/alabai.html
 - 10 способов манипулирования страной через СМИ
   http://inosmi.ru/world/20110517/169481135.html
+- Hobosti: украинский язык официально признали смешным
+  http://www.youtube.com/watch?v=bvcupwf8gwU
 
 Дополнительные ссылки:
 
