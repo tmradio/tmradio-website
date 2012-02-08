@@ -188,9 +188,13 @@ def get_page_labels(page):
 def strip_url(url):
     """Stripts the /index.html suffix if the URL is local, if the "strip_urls"
     config option is enabled."""
-    if get_config("strip_urls") and "://" not in url and url.endswith("/index.html"):
-        url = url[:-10]
-    return url
+    if not get_config("strip_urls"):
+        return url
+    if not url.endswith("/index.html"):
+        return url
+    if "://" in url and not url.startswith(get_config("base_url")):
+        return url
+    return url[:-10]
 
 
 def get_page_date(page):
@@ -235,7 +239,7 @@ def get_navigation(page):
     if not labels:
         return None  # current page has no labels
 
-    matching_pages = [p for p in pages if _is_page_visible(p) and labels[0] in get_page_labels(p)]
+    matching_pages = [p for p in pages if is_page_visible(p) and labels[0] in get_page_labels(p)]
     if not matching_pages:
         return None  # no other pages with this label (can't be)
 
@@ -277,7 +281,7 @@ def _full_url(url):
     return strip_url(base_url + url.lstrip("/"))
 
 
-def _is_page_visible(page):
+def is_page_visible(page):
     """Returns True is the page is OK to list."""
     labels = get_page_labels(page)
     if "draft" in labels or "queue" in labels:
@@ -434,17 +438,18 @@ def _add_para_anchors(text):
 
 __all__ = [
     "get_config",
+    "get_navigation",
     "get_page_author",
     "get_page_date",
     "get_page_labels",
     "get_page_url",
-    "get_navigation",
     "hook_html_meta_keywords",
     "hook_html_ueb",
     "hook_postconvert_anchors",
     "hook_postconvert_feeds",
     "hook_preconvert_sitemap_alt",
     "init_poole_extensions",
+    "is_page_visible",
     "page_classes",
     "page_meta",
     "pagelist",

@@ -4,6 +4,7 @@ disqus_id: tmradio
 flattr_name: tmradio
 language: ru_RU
 ueb_pattern: "https://github.com/tmradio/tmradio-website/edit/master/%s"
+strip_urls: yes
 
 
 # Описание RSS-каналов.
