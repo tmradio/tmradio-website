@@ -34,7 +34,7 @@ fetch:
 	-git pull -q
 
 serve:
-	python poole.py --serve
+	python scripts/poole.py --serve
 
 update-dl-counts:
 	python poolemonkey/feeds.py tmradio/tsn tmradio/all tmradio/prokino tmradio/mcast tmradio/podcast tmradio/live sosonews umonkey/podcast umonkey > input/dlstats.csv
@@ -47,7 +47,7 @@ clean:
 	find . -name '*.pyc' -delete
 
 process-hotline: fetch
-	python poole.py --build
+	python scripts/poole.py --build
 	-git add input/hotline
 	-git commit -q input/hotline -m "New hotline pages."
 	git push -q
