@@ -164,6 +164,8 @@ def get_yandex_money_stats():
     filename = "input/support/donate/yandex/history.csv"
     for line in file(filename, "rb").read().decode("utf-8").strip().split("\n"):
         parts = line.split(",", 2)
+        if len(parts) != 2:
+            continue
         parts[1] = float(parts[1])
         parts[0] = time.strftime("%d.%m.%y", time.strptime(parts[0], "%Y-%m-%dT%H:%M:%SZ"))
 
