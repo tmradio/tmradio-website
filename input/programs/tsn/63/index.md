@@ -1,5 +1,5 @@
-title: ТСН №63 от 19.01.2012
-date: 2012-01-19 21:05:10
+title: ТСН №63 от 09.02.2012
+date: 2012-02-09 21:04:26
 illustration: http://files.tmradio.net/audio/dump/20120209-210426-live.png
 file: http://files.tmradio.net/audio/dump/20120209-210426-live.mp3
 filesize: 126599232
