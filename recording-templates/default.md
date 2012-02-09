@@ -1,6 +1,6 @@
 title: Запись прямого эфира от %(date_short)s, %(time)s
 date: %(date_time)s
-illustration: http://files.tmradio.net/audio/dump/%(file_base).png
+illustration: http://files.tmradio.net/audio/dump/%(file_base)s.png
 file: http://files.tmradio.net/audio/dump/%(file_name)s
 filesize: %(file_size)u
 duration: %(duration)u
@@ -10,4 +10,4 @@ labels: live, queue
 
 Дополнительные ссылки:
 
-- [Лог чата](http://files.tmradio.net/audio/dump/%(file_base).log)
+- [Лог чата](http://files.tmradio.net/audio/dump/%(file_base)s.log)
