@@ -1,4 +1,4 @@
-title: ТСН №66 от 09.02.2012 (прешоу)
+title: ТСН №63 от 09.02.2012 (прешоу)
 date: 2012-02-09 20:32:36
 illustration: http://files.tmradio.net/audio/dump/20120209-203236-live.png
 file: http://files.tmradio.net/audio/dump/20120209-203236-live.mp3
