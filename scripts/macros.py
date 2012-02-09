@@ -154,18 +154,18 @@ def page_meta(page):
     if "date" in page:
         parts.append(time.strftime("%Y.%m.%d", get_page_date(page)))
 
-    author = get_page_author(page)
-    if author is not None and "date" in page:
-        if author.get("url"):
-            parts.append(u"автор: <a rel='author' href='%s'>%s</a>" % (_escape_xml(author["url"]), _escape_xml(author["name"])))
-        else:
-            parts.append(u"автор: %s" % _escape_xml(author["name"]))
+        author = get_page_author(page)
+        if author is not None:
+            if author.get("url"):
+                parts.append(u"автор: <a rel='author' href='%s'>%s</a>" % (_escape_xml(author["url"]), _escape_xml(author["name"])))
+            else:
+                parts.append(u"автор: %s" % _escape_xml(author["name"]))
 
-    labels = get_page_labels(page)
-    if labels:
-        labels = [_get_label_info(l) for l in labels]
-        printable = [_format_label(l) for l in sorted(labels, key=lambda l: l[1].lower())]
-        parts.append(u"метки: %s" % u", ".join(printable))
+        labels = get_page_labels(page)
+        if labels:
+            labels = [_get_label_info(l) for l in labels]
+            printable = [_format_label(l) for l in sorted(labels, key=lambda l: l[1].lower())]
+            parts.append(u"метки: %s" % u", ".join(printable))
 
     if not parts:
         return ""
