@@ -2,7 +2,7 @@
 
 import os
 import sys
-import urllib
+import urllib2
 
 from yandexmoney import export_history_csv
 
@@ -27,7 +27,7 @@ if not os.path.exists(key_file):
 
 try:
     output = export_history_csv(key_file)
-except urllib.URLError, e:
+except urllib2.URLError, e:
     exit(0)
 
 for k, v in REPLACE:
