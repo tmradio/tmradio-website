@@ -349,7 +349,10 @@ def _write_feed(feed, pages):
     if push is not None:
         xml += u"<atom:link rel='hub' href='%s'/>\n" % _escape_xml(push)
 
-    for page in sorted(pages, key=lambda p: p.get("date"), reverse=True):
+    limit = feed.get("limit", 20)
+
+    real_pages = sorted(pages, key=lambda p: p.get("date"), reverse=True)
+    for page in real_pages[:limit]:
         xml += _get_rss_item(page)
 
     xml += u"</channel>\n"
