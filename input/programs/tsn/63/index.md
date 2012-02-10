@@ -6,8 +6,13 @@ filesize: 126599232
 duration: 7912
 labels: tsn, live, live-good, umonkey, steeker
 ---
-Эфир провели [Хекс](/guests/umonkey/) и [Стикер](/guests/steeker/), звонил
-Андрей(?) из Чебоксар.
+Участники:
+
+- Хекс (ведущий)
+  /guests/umonkey/
+- Стикер (ведущий)
+  /guests/steeker/
+- Андрей из Чебоксар
 
 Основные новости:
 
@@ -32,7 +37,8 @@ labels: tsn, live, live-good, umonkey, steeker
 
 Дополнительные ссылки:
 
-- [Лог чата](http://files.tmradio.net/audio/dump/20120119-210510-live.log)
+- Лог чата
+  http://files.tmradio.net/audio/dump/20120209-210426-live.log
 
 Музыка:
 
