@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/20120209-210426-live.png
 file: http://files.tmradio.net/audio/dump/20120209-210426-live.mp3
 filesize: 126599232
 duration: 7912
-labels: tsn, live, live-good, umonkey, steeker
+labels: tsn, live, live-good, umonkey, steeker, melon
 ---
 Участники:
 
@@ -12,7 +12,8 @@ labels: tsn, live, live-good, umonkey, steeker
   /guests/umonkey/
 - Стикер (ведущий)
   /guests/steeker/
-- Андрей из Чебоксар
+- Андрей (Черкассы, Украина)
+  /guests/melon/
 
 Основные новости:
 
