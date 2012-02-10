@@ -15,7 +15,7 @@ feeds:
 - name: podcast.xml
   title: "Подкасты"
   description: "Подкасты на tmradio.net"
-  labels: [podcast]
+  labels: [podcast, tsn, live-good]
 - name: mcast.xml
   title: "Микроподкасты"
   description: "Микроподкасты на tmradio.net"
