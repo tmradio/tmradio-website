@@ -383,6 +383,10 @@ def _get_rss_item(page):
     if get_config("rss_with_bodies") != False:
         xml += u"\t<description>%s</description>\n" % _escape_xml(_fix_rss_item_description(page.html, page))
 
+    author = get_page_author(page)
+    if author is not None:
+        xml += u"\t<author>%s</author>\n" % author.get("email", "alice@example.com")
+
     xml += u"</item>\n"
     return xml
 

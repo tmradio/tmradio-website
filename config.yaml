@@ -14,8 +14,13 @@ feeds:
   description: "Все обновления сайта tmradio.net"
 - name: podcast.xml
   title: "Подкасты"
-  description: "Микроподкасты на tmradio.net"
+  description: "Подкасты на tmradio.net"
   labels: [podcast]
+- name: mcast.xml
+  title: "Микроподкасты"
+  description: "Микроподкасты на tmradio.net"
+  labels: [mcast]
+  limit: 65535
 - name: live.xml
   title: "Прямые эфиры"
   description: "Все прямые включения на tmradio.net"
