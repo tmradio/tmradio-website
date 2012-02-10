@@ -28,7 +28,7 @@ feeds:
   title: "Горячая линия"
   description: "Сообщения с горячей линии"
   labels: [hotline]
-- name: tsn.xml
+- name: programs/tsn/index.xml
   title: "Так себе новости"
   description: "Так себе новости на Тоже мне радио"
   labels: [tsn]
