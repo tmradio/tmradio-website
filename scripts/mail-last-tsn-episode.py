@@ -7,7 +7,7 @@ import subprocess
 import time
 
 
-MAILTO = "hex@umonkey.net"
+MAILTO = "sosonews@googlegroups.com"
 
 
 def get_pages():
