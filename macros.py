@@ -326,7 +326,7 @@ def _format_shownote_block(text):
             return text
         elif not lines[-1].startswith("- "):
             return text
-        elif not "://" in line:
+        elif not "://" in line and not line.startswith("  /"):
             return text
         elif not line.startswith("  "):
             return text
@@ -345,7 +345,8 @@ def _format_shownotes(text):
 
 def hook_preconvert_shownotes():
     for page in pages:
-        if "podcast" not in getattr(page, "labels", ""):
+        labels = get_page_labels(page)
+        if not set(labels) & set(["podcast", "tsn"]):
             continue
         page.source = _format_shownotes(page.source)
 
