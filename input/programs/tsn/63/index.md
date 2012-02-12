@@ -12,7 +12,7 @@ labels: tsn, live, live-good, umonkey, steeker, melon
   /guests/umonkey/
 - Стикер (ведущий)
   /guests/steeker/
-- Андрей (Черкассы, Украина)
+- Александр (Черкассы, Украина)
   /guests/melon/
 
 Основные новости:
