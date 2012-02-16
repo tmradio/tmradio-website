@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/20120216-210603-live.png
 file: http://files.tmradio.net/audio/dump/20120216-210603-live.mp3
 filesize: 121088848
 duration: 7568
-labels: tsn, live, live-good, queue
+labels: tsn, live, live-good, umonkey, dugwin, partyzan, argbrontsterop
 ---
 Эфир провели [Хекс](/guests/umonkey/) и [Партизан](/guests/partyzan/), звонили
 [Хасан](/guests/argbrontsterop/) и [Дуг](/guests/dugwin/).
