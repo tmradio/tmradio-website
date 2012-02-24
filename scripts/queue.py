@@ -17,7 +17,15 @@ using cron:
 import os
 import random
 import re
+import subprocess
 import time
+
+
+def run(command):
+    p = subprocess.Popen(command, stdout=subprocess.PIPE, stdin=subprocess.PIPE,
+        stderr=subprocess.PIPE)
+    out, err = p.communicate()
+    return out, err, p.returncode
 
 
 def parse_page(filename):
@@ -84,6 +92,12 @@ def publish_random_page(pages):
 
     filename = random.choice(pages.keys())
     file(filename, "wb").write(pages[filename])
+    if os.path.exists(".hg"):
+        run(["hg", "commit", filename, "-m", "Pushing out of queue."])
+        run(["hg", "push"])
+    elif os.path.exists(".git"):
+        run(["git", "commit", filename, "-m", "Pushing out of queue."])
+        run(["git", "push"])
     print "Published %s" % filename
 
 
