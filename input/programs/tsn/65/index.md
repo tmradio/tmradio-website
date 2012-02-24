@@ -7,7 +7,8 @@ duration: 7266
 labels: tsn, live, live-good, umonkey, argbrontsterop, dugwin, pechalen
 ---
 Выпуск провели [Хекс](/guests/umonkey/) и [Хасан](/guests/argbrontsterop),
-звонили [Pechalen](/guests/pechalen/) и [Дуг](/guests/dugwin/).
+звонили [Trump](/guests/trump/), [Pechalen](/guests/pechalen/) и
+[Дуг](/guests/dugwin/).
 
 Основные темы:
 
