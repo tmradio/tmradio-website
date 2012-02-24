@@ -14,6 +14,9 @@ build-quiet:
 	cat javascript/*.js > input/scripts.js
 	python scripts/poole.py --build > build.log
 
+queue:
+	python scripts/queue.py
+
 debug:
 	python scripts/poole.py --build
 
