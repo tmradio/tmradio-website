@@ -4,7 +4,7 @@ from xml.sax.saxutils import escape
 import datetime
 import email.utils
 import glob
-import simplejson as json
+import json
 import mimetypes
 import os.path
 import re
