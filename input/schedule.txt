@@ -21,4 +21,5 @@
 2012-02-16 21:00 ТСН №64: @umonkey, @russian_rubyist
 2012-02-23 21:00 ТСН №65: @umonkey, @argbrontsterop
 2012-03-01 21:00 ТСН №66: @umonkey, @russian_rubyist
-2012-03-08 21:00 ТСН №67: @umonkey, @russian_rubyist
+2012-03-08 21:00 ТСН №67: @dugwin, @russian_rubyist
+2012-03-15 21:00 ТСН №68: @umonkey, @russian_rubyist
