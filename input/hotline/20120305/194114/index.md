@@ -7,4 +7,4 @@ duration: 91
 ---
 Звонок с акции протеста на Исаакиевской площади.
 
-http://www.youtube.com/watch?v=qaCblS8ztS8&feature=youtu.be
+http://youtu.be/19Fd40gLOU8
