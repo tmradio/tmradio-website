@@ -6,7 +6,7 @@ build:
 	mkdir -p output
 	rm -rf output/*
 	cat javascript/*.js > input/scripts.js
-	python scripts/poole.py --build | tee build.log
+	python -u scripts/poole.py --build | tee build.log
 
 build-quiet:
 	rm -rf output/*
