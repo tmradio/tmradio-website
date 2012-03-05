@@ -23,10 +23,15 @@ def get_video_id_from_url(url):
 
 
 def hook_html_youtube(html, page):
-    for m in re.finditer("<p>(http://(www\.)?(youtube\.com|youtu\.be)/[^<]+)</p>", html):
+    for m in re.finditer("<p>(http://(www\.)?youtube\.com/[^<]+)</p>", html):
         video_id = get_video_id_from_url(m.group(1))
         if video_id is not None:
             html = html.replace(m.group(0), PATTERN % video_id)
+
+    for m in re.finditer("<p>http://youtu\.be/([^<]+)</p>", html):
+        video_id = m.group(1)
+        html = html.replace(m.group(0), PATTERN % video_id)
+
     return html
 
 
