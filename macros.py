@@ -15,6 +15,7 @@ import urlparse
 
 from scripts.macros import *
 from scripts.disqus import *
+from scripts.youtube import *
 
 
 def format_duration(value):
