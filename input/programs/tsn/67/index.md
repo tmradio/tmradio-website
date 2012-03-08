@@ -22,10 +22,10 @@ labels: tsn, live, live-good, dugwin, partyzan
   http://txt.newsru.com/finance/07mar2012/lutovsk.html
 - Проводить ЕГЭ предложили при поддержке МВД, ФСБ и армии
   http://txt.newsru.com/russia/07mar2012/ogo.html
-- Канадца арестовали за то, что его 4-летняя дочь нарисовала мужчину с пистолетом
-  http://kp.ru/daily/25844.4/2815483/
 - Ведущая новостей спорта ушла с НТВ по собственному желанию
   http://www.newsru.com/sport/03mar2012/deznova_print.html
+- Канадца арестовали за то, что его 4-летняя дочь нарисовала мужчину с пистолетом
+  http://kp.ru/daily/25844.4/2815483/
 
 Дополнительные ссылки:
 
