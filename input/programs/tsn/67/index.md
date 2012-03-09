@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/20120308-210615-live.png
 file: http://files.tmradio.net/audio/dump/20120308-210615-live.mp3
 filesize: 134779920
 duration: 6723
-labels: tsn, live, live-good, queue
+labels: tsn, live, live-good
 ---
 Описание отсутствует.
 
