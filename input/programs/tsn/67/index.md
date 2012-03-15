@@ -1,5 +1,5 @@
 title: ТСН №67 от 08.03.2012
-date: 2012-08-01 21:05:05
+date: 2012-03-08 21:05:05
 illustration: http://files.tmradio.net/audio/dump/20120308-210615-live.png
 file: http://files.tmradio.net/audio/dump/20120308-210615-live.mp3
 filesize: 134779920
