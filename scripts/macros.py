@@ -380,6 +380,11 @@ def _get_rss_item(page):
         mime_type = mimetypes.guess_type(_filename)[0]
         xml += u"\t<enclosure url='%s' type='%s' length='%s'/>\n" % (page["file"], mime_type, page.get("filesize", "0"))
 
+    if "illustration" in page:
+        _filename = page["illustration"].split("/")[-1]
+        mime_type = mimetypes.guess_type(_filename)[0]
+        xml += u"\t<enclosure url='%s' type='%s' length='%s'/>\n" % (page["illustration"], mime_type, 0)
+
     if get_config("rss_with_bodies") != False:
         xml += u"\t<description>%s</description>\n" % _escape_xml(_fix_rss_item_description(page.html, page))
 
