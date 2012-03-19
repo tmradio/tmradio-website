@@ -1,7 +1,7 @@
 title: Розов, Меганезия
 author: umonkey
 date: 2012-02-12 21:38
-labels: books, podcast, mcast, blog
+labels: books, podcast, mcast
 file: http://files.umonkey.net/audio/mcast/books/rozov-meganezia.mp3
 filesize: 4445027
 duration: 245
