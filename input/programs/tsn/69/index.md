@@ -6,7 +6,7 @@ filesize: 110970512
 duration: 6935
 labels: tsn, live, live-good, umonkey, argbrontsterop
 ---
-Эфир провели Хекс и Хасан.
+Эфир провели [Хекс](/guests/umonkey/) и [Хасан](/guests/argbrontsterop/).
 
 Основные темы:
 
