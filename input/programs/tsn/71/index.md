@@ -6,7 +6,7 @@ filesize: 119024528
 duration: 7438
 labels: tsn, live, live-good, umonkey, partyzan
 ---
-Описание отсутствует.
+Основные темы:
 
 - В России создаётся добровольная оплачиваемая армия резервистов-контрактников
   http://www.rg.ru/2012/04/03/rezerv.html
