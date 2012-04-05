@@ -1,9 +1,11 @@
 #!/usr/bin/env python
 # encoding=utf-8
 
+import glob
 import os
 import re
 import subprocess
+import sys
 import time
 
 
@@ -27,6 +29,12 @@ def get_last_episode():
             return fn, data
 
 
+def get_last_episode():
+    filename = sorted(glob.glob("input/programs/tsn/*/index.md"))[-1]
+    with file(filename, "rb") as f:
+        return filename, f.read()
+
+
 def mail_episode(fn, data):
     mp3s = re.findall("^file: (.*)", data, re.M)
     if not mp3s:
@@ -42,13 +50,16 @@ def mail_episode(fn, data):
     message += "Обсуждение:\n%s\n\n" % url
     message += body
 
-    p = subprocess.Popen(["mail", "-s", title, MAILTO],
-        stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    out, err = p.communicate(message)
+    if "-n" in sys.argv:
+        print message
+    else:
+        p = subprocess.Popen(["mail", "-s", title, MAILTO],
+            stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        out, err = p.communicate(message)
 
-    if p.returncode != 0:
-        print "Could not send mail: %s" % err
-        exit(1)
+        if p.returncode != 0:
+            print "Could not send mail: %s" % err
+            exit(1)
 
 
 def main():

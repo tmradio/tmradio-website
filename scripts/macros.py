@@ -334,7 +334,7 @@ def _write_feed(feed, pages):
     rss_url = _full_url(feed["name"])
 
     xml = u"<?xml version='1.0' encoding='UTF-8'?>\n"
-    xml += u"<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>\n"
+    xml += u"<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' xmlns:media='http://search.yahoo.com/mrss/'>\n"
     xml += u"<channel>\n"
     xml += u"<atom:link href='%s' rel='self' type='application/rss+xml'/>\n" % rss_url
     if "language" in feed:
@@ -344,6 +344,11 @@ def _write_feed(feed, pages):
     xml += u"<description>%s</description>\n" % _escape_xml(feed.get("description", "No description").strip())
     xml += u"<title>%s</title>\n" % _escape_xml(feed.get("title", "No title").strip())
     xml += u"<link>%s</link>\n" % _full_url(feed.get("link", ""))
+
+    image = feed.get("image")
+    if image:
+        xml += u"<media:thumbnail url='%s'/>\n" % image
+        xml += u"<itunes:image href='%s'/>\n" % image
 
     push = get_config("rss_push")
     if push is not None:
@@ -379,11 +384,6 @@ def _get_rss_item(page):
         _filename = page["file"].split("/")[-1]
         mime_type = mimetypes.guess_type(_filename)[0]
         xml += u"\t<enclosure url='%s' type='%s' length='%s'/>\n" % (page["file"], mime_type, page.get("filesize", "0"))
-
-    if "illustration" in page:
-        _filename = page["illustration"].split("/")[-1]
-        mime_type = mimetypes.guess_type(_filename)[0]
-        xml += u"\t<enclosure url='%s' type='%s' length='%s'/>\n" % (page["illustration"], mime_type, 0)
 
     if get_config("rss_with_bodies") != False:
         xml += u"\t<description>%s</description>\n" % _escape_xml(_fix_rss_item_description(page.html, page))

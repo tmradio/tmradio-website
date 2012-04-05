@@ -31,6 +31,7 @@ feeds:
 - name: programs/tsn/index.xml
   title: "Так себе новости"
   description: "Так себе новости на Тоже мне радио"
+  image: http://files.tmradio.net/podcast_logo.jpg
   labels: [tsn]
 
 
