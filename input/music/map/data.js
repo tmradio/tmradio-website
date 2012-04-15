@@ -274,13 +274,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.412126000000001, 
-    16.932597999999999
-   ], 
-   "html": "<p><strong>Controlled Collapse</strong><br/>U Bazyla, Pozna\u0144<br/>14.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3171974+Monster+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     51.762439999999998, 
     19.501899999999999
    ], 
@@ -334,13 +327,6 @@ var map_data = {
     5.1162460000000003
    ], 
    "html": "<p><strong>Controlled Collapse</strong><br/>Binnenstad, Utrecht<br/>27.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3104410+Summer+Darkness+2012+-+10th+anniversary%21\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.087192000000002, 
-    5.1216939999999997
-   ], 
-   "html": "<p><strong>Controlled Collapse</strong><br/>Tivoli Oudegracht, Utrecht<br/>27.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3184602+Summer+Darkness+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -823,7 +809,7 @@ var map_data = {
     50.088082, 
     14.424821
    ], 
-   "html": "<p><strong>pg.lost</strong><br/>Chapeau Rouge, Praha<br/>17.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3192310+pg.lost+at+Chapeau+Rouge+on+17+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>pg.lost</strong><br/>Chapeau Rouge, Praha<br/>17.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3192310+pg.lost+%40+Chapeau+Rouge%2C+Prague\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -876,13 +862,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.412126000000001, 
-    16.932597999999999
-   ], 
-   "html": "<p><strong>Reactor7x</strong><br/>U Bazyla, Pozna\u0144<br/>14.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3171974+Monster+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     52.360059999999997, 
     4.9207229999999997
    ], 
@@ -894,13 +873,6 @@ var map_data = {
     24.169495000000001
    ], 
    "html": "<p><strong>Special</strong><br/>Meln\u0101 Piektdiena, R\u012bga<br/>28.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3258628+Synesthesia\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.511136999999998, 
-    13.441350999999999
-   ], 
-   "html": "<p><strong>Steffi</strong><br/>Berghain/Panorama Bar, Berlin<br/>14.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3253553+Klubnacht\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1037,6 +1009,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.566666699999999, 
+    9.25
+   ], 
+   "html": "<p><strong>To Leave A Trace</strong><br/>Freakstock, Borgentreich<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3260598+Freakstock\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.957006, 
     30.343188000000001
    ], 
@@ -1048,13 +1027,6 @@ var map_data = {
     37.564399999999999
    ], 
    "html": "<p><strong>Zorge</strong><br/>16 Tons, Moscow<br/>08.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3245949+Zorge+at+16+Tons+on+8+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.784765, 
-    37.560043
-   ], 
-   "html": "<p><strong>\u0410\u0440\u0438\u044f</strong><br/>Arena Moscow, <br/>14.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3162224+%D0%90%D1%80%D0%B8%D1%8F+at+Arena+Moscow+on+14+April+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
