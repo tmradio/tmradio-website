@@ -274,6 +274,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    40.794618, 
+    -73.920713000000006
+   ], 
+   "html": "<p><strong>Chromeo</strong><br/>Randall's Island, New York<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3207847+The+Governors+Ball+Music+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.762439999999998, 
     19.501899999999999
    ], 
@@ -505,6 +512,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    59.934010999999998, 
+    30.366228
+   ], 
+   "html": "<p><strong>Kirov</strong><br/>\u0426\u043e\u043a\u043e\u043b\u044c, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>20.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3261870+Rollercoaster+at+%D0%A6%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C+on+20+April+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     56.648017000000003, 
     23.720967999999999
    ], 
@@ -561,13 +575,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.766590999999998, 
-    37.592936999999999
-   ], 
-   "html": "<p><strong>nobody.one</strong><br/>\u04112, <br/>15.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3161819+%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE+%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     54.947035, 
     39.028379999999999
    ], 
@@ -600,6 +607,13 @@ var map_data = {
     30.323827999999999
    ], 
    "html": "<p><strong>Non Cadenza</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>26.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3141718+The+Brand+New+Heavies+at+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82+on+26+April+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.721479000000002, 
+    37.590634000000001
+   ], 
+   "html": "<p><strong>Non Cadenza</strong><br/>\u0422\u0435\u0430\u0442\u0440 \u0421\u0442\u0430\u0441\u0430 \u041d\u0430\u043c\u0438\u043d\u0430 (\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0442\u0435\u0430\u0442\u0440), <br/>09.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3246400+Zavtra\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -757,13 +771,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    48.210675999999999, 
-    16.339020000000001
-   ], 
-   "html": "<p><strong>Our Ceasing Voice</strong><br/>rhiz, Wien<br/>15.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3124028+If+These+Trees+Could+Talk+at+rhiz+on+15+April+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     47.267935999999999, 
     11.402265
    ], 
@@ -831,6 +838,13 @@ var map_data = {
     23.5833333
    ], 
    "html": "<p><strong>pg.lost</strong><br/>Ryma, Alba Iulia<br/>17.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2043873+Dark+Bombastic+Evening+4\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.441744999999997, 
+    30.516449999999999
+   ], 
+   "html": "<p><strong>Pur:Pur</strong><br/>\u041f\u0440\u0435\u0437\u0438\u0434\u0438\u0443\u043c \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432 \u0423\u043a\u0440\u0430\u0438\u043d\u044b, \u041a\u0438\u0435\u0432, Kiev<br/>21.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3261784+Initiumfest\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -988,6 +1002,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    48.462654000000001, 
+    35.044086
+   ], 
+   "html": "<p><strong>The Best Pessimist</strong><br/>\u0410\u0440\u0442-\u0446\u0435\u043d\u0442\u0440 \"\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430\", \u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a, Dnipropetrovsk<br/>04.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3261516+The+American+Dollar+at+%D0%90%D1%80%D1%82-%D1%86%D0%B5%D0%BD%D1%82%D1%80+%22%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0%22+on+4+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    48.462654000000001, 
+    35.044086
+   ], 
+   "html": "<p><strong>The Best Pessimist</strong><br/>\u0410\u0440\u0442-\u0446\u0435\u043d\u0442\u0440 \"\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430\", \u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a, Dnipropetrovsk<br/>04.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3261515+The+American+Dollar+at+%D0%90%D1%80%D1%82-%D1%86%D0%B5%D0%BD%D1%82%D1%80+%22%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0%22+on+4+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     38.745449999999998, 
     -9.1313410000000008
    ], 
@@ -1006,6 +1034,13 @@ var map_data = {
     23.5833333
    ], 
    "html": "<p><strong>Theodor Bastard</strong><br/>Ryma, Alba Iulia<br/>17.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2043873+Dark+Bombastic+Evening+4\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.734738, 
+    26.240417000000001
+   ], 
+   "html": "<p><strong>Theodor Bastard</strong><br/>Zaraso sala, Zarasai<br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3222588+M%C4%97nuo+Juodaragis+XV\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
