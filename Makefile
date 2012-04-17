@@ -29,8 +29,8 @@ push:
 	-git push -q
 
 update-money:
-	python tools/update-money.py > /tmp/yandex-money.csv
-	mv /tmp/yandex-money.csv input/support/donate/yandex/history.csv
+	python tools/update-money.py > .git/yandex-money.csv
+	mv .git/yandex-money.csv input/support/donate/yandex/history.csv
 	-git commit -m "Обновление истории Яндекс.Денег (автомат)" input/support/donate/yandex/history.csv >/dev/null
 
 fetch:
