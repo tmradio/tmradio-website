@@ -8,6 +8,13 @@ var map_data = {
  "markers": [
   {
    "ll": [
+    59.950308999999997, 
+    30.292054
+   ], 
+   "html": "<p><strong>7\u0411</strong><br/>\u0414\u0421 \u042e\u0431\u0438\u043b\u0435\u0439\u043d\u044b\u0439, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>19.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3261673+pro.%D0%A0%D0%9E%D0%9A\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.761631000000001, 
     37.550839000000003
    ], 
@@ -222,6 +229,13 @@ var map_data = {
     24.976665000000001
    ], 
    "html": "<p><strong>Caribou</strong><br/>Suvilahti, Helsinki<br/>08.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3128107+Flow+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    36.713048000000001, 
+    -6.0440699999999996
+   ], 
+   "html": "<p><strong>Caribou</strong><br/>Circuito de Jerez, Jerez de la Frontera (C\u00e1diz)<br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3201519+Creamfields+Andaluc%C3%ADa+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -554,31 +568,17 @@ var map_data = {
   }, 
   {
    "ll": [
+    59.950308999999997, 
+    30.292054
+   ], 
+   "html": "<p><strong>Lumen</strong><br/>\u0414\u0421 \u042e\u0431\u0438\u043b\u0435\u0439\u043d\u044b\u0439, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>11.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3264162+%D0%A4%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9+%D1%80%D0%BE%D0%BA+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8+%C2%AB%D0%92%D0%97%D0%9B%D0%95%D0%A2%C2%BB+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     45.466666699999998, 
     7.8666666999999997
    ], 
    "html": "<p><strong>Lumen</strong><br/>Chiaverano, <br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3147270+A+Night+Like+This+festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.159939000000001, 
-    61.414073000000002
-   ], 
-   "html": "<p><strong>Mujuice</strong><br/>MadFlat Bar, \u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a<br/>08.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3254689+Mujuice+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.906886, 
-    30.307623
-   ], 
-   "html": "<p><strong>Mujuice</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>18.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3195938+Mujuice+at+%D0%97%D0%B0%D0%BB+%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+on+18+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    54.947035, 
-    39.028379999999999
-   ], 
-   "html": "<p><strong>nobody.one</strong><br/>\u0414\u043e\u043c \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u044b, \u0420\u044f\u0437\u0430\u043d\u044c<br/>17.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3241653+nobody.one+at+%D0%94%D0%BE%D0%BC+%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+on+17+April+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -722,6 +722,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    36.713048000000001, 
+    -6.0440699999999996
+   ], 
+   "html": "<p><strong>Orbital</strong><br/>Circuito de Jerez, Jerez de la Frontera (C\u00e1diz)<br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3201519+Creamfields+Andaluc%C3%ADa+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     53.015555599999999, 
     -7.1527778
    ], 
@@ -747,6 +754,13 @@ var map_data = {
     -2.4666667000000002
    ], 
    "html": "<p><strong>Orbital</strong><br/>53 Degrees, Preston<br/>07.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3257816+Orbital+at+53+Degrees+on+7+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.382080999999999, 
+    -1.4657150000000001
+   ], 
+   "html": "<p><strong>Orbital</strong><br/>O2 Academy, Sheffield<br/>08.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3264422+Orbital+at+O2+Academy+on+8+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1226,13 +1240,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    49.999088, 
-    36.232247999999998
-   ], 
-   "html": "<p><strong>\u041f\u0438\u043a\u043d\u0438\u043a</strong><br/>\u0425\u0410\u0422\u041e\u0411, \u0425\u0430\u0440\u044c\u043a\u043e\u0432, Kharkiv<br/>18.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3187865+%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA+at+%D0%A5%D0%90%D0%A2%D0%9E%D0%91+on+18+April+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     46.466666699999998, 
     30.733333300000002
    ], 
@@ -1257,7 +1264,7 @@ var map_data = {
     55.764288000000001, 
     37.564399999999999
    ], 
-   "html": "<p><strong>\u0423\u043d\u0434\u0435\u0440\u0432\u0443\u0434</strong><br/>16 Tons, Moscow<br/>28.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3262837+%D0%A3%D0%BD%D0%B4%D0%B5%D1%80%D0%B2%D1%83%D0%B4+at+16+Tons+on+28+April+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>\u0423\u043d\u0434\u0435\u0440\u0432\u0443\u0434</strong><br/>16 Tons, Moscow<br/>28.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3247834+%D0%A3%D0%BD%D0%B4%D0%B5%D1%80%D0%B2%D1%83%D0%B4\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
