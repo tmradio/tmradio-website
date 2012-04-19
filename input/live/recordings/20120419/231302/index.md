@@ -4,9 +4,9 @@ illustration: http://files.tmradio.net/audio/dump/20120419-231302-live.png
 file: http://files.tmradio.net/audio/dump/20120419-231302-live.mp3
 filesize: 95031200
 duration: 5939
-labels: live, queue
+labels: live, umonkey, partyzan, dugwin, steeker, iptrx
 ---
-Описание отсутствует.
+Участвовали Хекс, Дуг и Партизан, звонили Семеон и iPtrX.
 
 Дополнительные ссылки:
 
