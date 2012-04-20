@@ -519,6 +519,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    55.865884000000001, 
+    -4.2643579999999996
+   ], 
+   "html": "<p><strong>Hoodie Allen</strong><br/>O2 ABC, Glasgow<br/>07.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3265724+Hoodie+Allen+at+O2+ABC+on+7+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.529358000000002, 
+    -0.080990999999999994
+   ], 
+   "html": "<p><strong>Hoodie Allen</strong><br/>O2 Academy 2 Islington, London<br/>10.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3265467+Hoodie+Allen+at+O2+Academy+2+Islington+on+10+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.767296000000002, 
     37.618569000000001
    ], 
@@ -586,13 +600,6 @@ var map_data = {
     7.8666666999999997
    ], 
    "html": "<p><strong>Lumen</strong><br/>Chiaverano, <br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3147270+A+Night+Like+This+festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    46.481048999999999, 
-    30.740410000000001
-   ], 
-   "html": "<p><strong>Non Cadenza</strong><br/>\u041a\u043b\u0443\u0431 Bernardazzi (\u0432 \u0437\u0434\u0430\u043d\u0438\u0438 \u0444\u0438\u043b\u0430\u0440\u043c\u043e\u043d\u0438\u0438), \u041e\u0434\u0435\u0441\u0441\u0430<br/>19.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3242325+%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -726,6 +733,13 @@ var map_data = {
     -0.116518
    ], 
    "html": "<p><strong>Orbital</strong><br/>London Pleasure Gardens, London<br/>06.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3186496+Bloc+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.316666699999999, 
+    4.9333333000000001
+   ], 
+   "html": "<p><strong>Orbital</strong><br/>Grote Kaai, Lokeren<br/>03.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3226335+Lokerse+Feesten+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
