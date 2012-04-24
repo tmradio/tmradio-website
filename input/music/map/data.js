@@ -29,6 +29,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    55.766590999999998, 
+    37.592936999999999
+   ], 
+   "html": "<p><strong>Blondrock</strong><br/>\u04112, <br/>26.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3269514+%D0%A0%D0%BE%D0%BA-%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     58.8333333, 
     15.9166667
    ], 
@@ -288,6 +295,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    34.063806, 
+    -118.235646
+   ], 
+   "html": "<p><strong>Chromeo</strong><br/>Los Angeles State Historic Park, Los Angeles, CA<br/>03.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3173615+Hard+Summer+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     50.086077000000003, 
     14.455336000000001
    ], 
@@ -446,13 +460,6 @@ var map_data = {
     -74.001311999999999
    ], 
    "html": "<p><strong>El-P</strong><br/>Santos Party House, New York<br/>21.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3265351+El-P+at+Santos+Party+House+on+21+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    39.151040000000002, 
-    -84.432693999999998
-   ], 
-   "html": "<p><strong>Ewan Dobson</strong><br/>20th Century Theater, Cincinnati<br/>29.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3164020+Candyrat+Guitar+Night\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -929,13 +936,6 @@ var map_data = {
     12.437599000000001
    ], 
    "html": "<p><strong>Steffi</strong><br/>Ferropolis, Gr\u00e4fenhainichen<br/>13.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2031980+MELT%21+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    37.371606, 
-    -4.9611960000000002
-   ], 
-   "html": "<p><strong>Talco</strong><br/>Sala Palo Palo, Marinaleda (Sevilla)<br/>24.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3258660+Talco+at+Sala+Palo+Palo+on+24+April+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
