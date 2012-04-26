@@ -4,9 +4,9 @@ date: 2012-04-26 21:02:51
 file: http://files.tmradio.net/audio/dump/20120426-210251-live.mp3
 filesize: 154005488
 duration: 7384
-labels: tsn, live, live-good, queue
+labels: tsn, live, live-good
 ---
-Текст читали dug, Slava Zvyagincev, hex, звонил Хасан Атаман
+Эфир провели: dug, Slava Zvyagincev, hex, звонил Хасан Атаман
 
 Основные темы:
 
