@@ -320,7 +320,7 @@ def format_shownotes(text, title=None):
 def _format_shownote_block(text):
     lines = []
 
-    for line in text.split("\n"):
+    for line in text.rstrip().split("\n"):
         if line.startswith("-"):
             lines.append(line)
         elif not lines:
