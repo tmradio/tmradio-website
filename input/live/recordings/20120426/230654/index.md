@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/20120426-230654-live.png
 file: http://files.tmradio.net/audio/dump/20120426-230654-live.mp3
 filesize: 29486288
 duration: 1449
-labels: live, queue
+labels: live
 ---
 Описание отсутствует.
 
