@@ -617,6 +617,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    41.885416999999997, 
+    -87.661743000000001
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Bottom Lounge, Chicago, IL<br/>06.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3274540+El-P+at+Bottom+Lounge+on+6+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     43.643504999999998, 
     -79.402314000000004
    ], 
@@ -789,13 +796,6 @@ var map_data = {
     7.8666666999999997
    ], 
    "html": "<p><strong>Lumen</strong><br/>Chiaverano, <br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3147270+A+Night+Like+This+festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.297117999999998, 
-    18.951194000000001
-   ], 
-   "html": "<p><strong>Messer Chups</strong><br/>Restauracja Klub Muzyczny Szuflada 15, Chorz\u00f3w<br/>29.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3201429+Before+Festiwal+Film%C3%B3w+Kultowych%3A+MESSER+CHUPS\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1030,13 +1030,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    47.491723999999998, 
-    19.067671000000001
-   ], 
-   "html": "<p><strong>Our Ceasing Voice</strong><br/>A38, Budapest<br/>29.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3229440+K%C3%A9pzelt+V%C3%A1ros+-+H%C3%A9lium+lemezbemutat%C3%B3%2C+Our+Ceasing+Voice+%28A%29\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     51.899017999999998, 
     -8.4701020000000007
    ], 
@@ -1173,7 +1166,7 @@ var map_data = {
     59.929158000000001, 
     30.359296000000001
    ], 
-   "html": "<p><strong>Skafandr</strong><br/>Fish Fabrique Nouvelle, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>19.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3270228+SKAFANDR\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Skafandr</strong><br/>Fish Fabrique Nouvelle, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>19.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3270228+Skafandr+at+Fish+Fabrique+Nouvelle+on+19+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1195,6 +1188,13 @@ var map_data = {
     -0.56287799999999999
    ], 
    "html": "<p><strong>Steffi</strong><br/>I.BOAT, Bordeaux<br/>30.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3245564+JENNIFER+CARDINI+invite+STEFFI+%28PANORAMA+BAR+-+BERLIN%29+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.511136999999998, 
+    13.441350999999999
+   ], 
+   "html": "<p><strong>Steffi</strong><br/>Berghain/Panorama Bar, Berlin<br/>19.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3274745+Klubnacht\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1468,13 +1468,6 @@ var map_data = {
     10.677250000000001
    ], 
    "html": "<p><strong>Vladimir Harkonnen</strong><br/>TreibsAND, L\u00fcbeck<br/>12.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3268644+Night+Fever\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.957006, 
-    30.343188000000001
-   ], 
-   "html": "<p><strong>Zorge</strong><br/>\u0426\u041a\u0417 \"\u0410\u0432\u0440\u043e\u0440\u0430\", \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>29.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3233762+Zorge+at+%D0%A6%D0%9A%D0%97+%22%D0%90%D0%B2%D1%80%D0%BE%D1%80%D0%B0%22+on+29+April+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
