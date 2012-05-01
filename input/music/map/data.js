@@ -1184,13 +1184,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    44.870894999999997, 
-    -0.56287799999999999
-   ], 
-   "html": "<p><strong>Steffi</strong><br/>I.BOAT, Bordeaux<br/>30.04.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3245564+JENNIFER+CARDINI+invite+STEFFI+%28PANORAMA+BAR+-+BERLIN%29+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     52.511136999999998, 
     13.441350999999999
    ], 
@@ -1331,13 +1324,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    51.471380000000003, 
-    7.3239299999999998
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Matrix, Bochum<br/>01.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3195219+European+Eclipse+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     51.456460999999997, 
     -0.97459200000000001
    ], 
@@ -1454,6 +1440,13 @@ var map_data = {
     7.6381860000000001
    ], 
    "html": "<p><strong>Vildhjarta</strong><br/>Sputnikhalle, M\u00fcnster<br/>18.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3259139+Veil+of+Maya+at+Sputnikhalle+on+18+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    41.939275000000002, 
+    -87.699742999999998
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>Mojoe's, Joliet, IL<br/>28.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3275766+Shockwave+Festival+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
