@@ -4,11 +4,25 @@ date: 2012-05-03 21:07:57
 file: http://files.tmradio.net/audio/dump/sosonews75.mp3
 filesize: 108851199
 duration: 6803
-labels: tsn, live, live-good, dugwin, partyzan, queue
+labels: tsn, live, live-good, dugwin, partyzan
 ---
 
 Часть ссылок добавится в ближайшее время.
 
+- Взрывы в Днепропетровске: погибших нет, 8 человек в реанимации
+  http://kp.ua/daily/270412/335642/
+- В Интернет попали фотографии синяков Тимошенко
+  http://podrobnosti.ua/podrobnosti/2012/04/27/834192.html
+- Янукович. Писатель и гражданин
+  http://kp.ua/daily/190412/334392/
+- Пхеньян начал "электронное наступление" против Южной Кореи
+  http://www.newsru.com/world/03may2012/gps.html
+- В парламенте будут меньше пить
+  http://www.bbc.co.uk/russian/multimedia/2012/05/120502_bbseva_parliament_drinking.shtml
+- Сумской мэр обвинил предпринимателей в ненависти к городу
+  http://www.dancor.sumy.ua/news/newsline/77896
+- В Грузии восстановлен средневековый город-крепость
+  http://www.diletant.ru/news/63097/
 - Власти Москвы приступают к демонтажу проводов на крышах домов города.
   http://www.kommersant.ru/doc/1924894
 - Варламов сходит с дистанции на пост мэра Омска
