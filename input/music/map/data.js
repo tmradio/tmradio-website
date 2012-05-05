@@ -8,13 +8,6 @@ var map_data = {
  "markers": [
   {
    "ll": [
-    59.950308999999997, 
-    30.292054
-   ], 
-   "html": "<p><strong>7\u0411</strong><br/>\u0414\u0421 \u042e\u0431\u0438\u043b\u0435\u0439\u043d\u044b\u0439, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>19.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3261673+pro.%D0%A0%D0%9E%D0%9A\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     45.332811, 
     14.452263
    ], 
@@ -708,13 +701,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    -37.812446999999999, 
-    144.96861200000001
-   ], 
-   "html": "<p><strong>Hellraiser</strong><br/>Roxanne Parlour, Melbourne<br/>04.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3268525+Resurrection\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     34.062496000000003, 
     -118.348874
    ], 
@@ -771,10 +757,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    56.951228999999998, 
-    24.110464
+    54.685957000000002, 
+    25.279506000000001
    ], 
-   "html": "<p><strong>Kirov</strong><br/>Nabaklab, R\u012bga<br/>04.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3262859+Kirov\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Kirov</strong><br/>Pogo Baras, Vilnius<br/>05.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3279642+Kirov\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1065,13 +1051,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    58.593688, 
-    16.178766
-   ], 
-   "html": "<p><strong>pg.lost</strong><br/>Dynamo, Norrk\u00f6ping<br/>04.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3272115+pg.lost+at+Dynamo+on+4+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     53.544376999999997, 
     9.9478500000000007
    ], 
@@ -1125,13 +1104,6 @@ var map_data = {
     -0.023362000000000001
    ], 
    "html": "<p><strong>Pig</strong><br/>Birds Nest, Deptford<br/>01.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3270714+Regimes+last+show\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.285620999999999, 
-    19.144089999999998
-   ], 
-   "html": "<p><strong>Radogost</strong><br/>Skatepark, Pszczyna<br/>05.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3267621+13+Fest+Pless\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1370,13 +1342,6 @@ var map_data = {
     9.25
    ], 
    "html": "<p><strong>To Leave A Trace</strong><br/>Freakstock, Borgentreich<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3260598+Freakstock\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    54.970280000000002, 
-    -1.617839
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>O2  Academy 2, Newcastle upon Tyne<br/>05.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3194926+Veil+of+Maya\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1622,6 +1587,13 @@ var map_data = {
     27.596917000000001
    ], 
    "html": "<p><strong>\u0411\u0430\u0440\u0442\u043e</strong><br/>\u042e\u043b\u0430, \u041c\u0438\u043d\u0441\u043a<br/>19.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3267267+%D0%91%D0%B0%D1%80%D1%82%D0%BE\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    48.462654000000001, 
+    35.044086
+   ], 
+   "html": "<p><strong>\u0411\u0430\u0440\u0442\u043e</strong><br/>\u0410\u0440\u0442-\u0446\u0435\u043d\u0442\u0440 \"\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430\", \u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a, Dnipropetrovsk<br/>27.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3279444+%D0%91%D0%B0%D1%80%D1%82%D0%BE+at+%D0%90%D1%80%D1%82-%D1%86%D0%B5%D0%BD%D1%82%D1%80+%22%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0%22+on+27+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
