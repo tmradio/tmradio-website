@@ -743,24 +743,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.193925999999998, 
-    -1.7031670000000001
-   ], 
-   "html": "<p><strong>Ewan Dobson</strong><br/>Cox's Yard, Stratford upon Avon<br/>09.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3227211+Candyrat+tour+at+Cox%27s\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.823273, 
     37.389907999999998
    ], 
    "html": "<p><strong>Gorky Park</strong><br/>Crocus City Hall, Moscow<br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3234570+Gorky+Park+at+Crocus+City+Hall+on+18+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    34.062496000000003, 
-    -118.348874
-   ], 
-   "html": "<p><strong>Hoodie Allen</strong><br/>El Rey Theatre, Los Angeles<br/>09.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3259128+Hoodie+Allen+at+El+Rey+Theatre+on+9+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -869,13 +855,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    53.544376999999997, 
-    9.9478500000000007
-   ], 
-   "html": "<p><strong>Messer Chups</strong><br/>Hafenklang, Hamburg<br/>09.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3273246+Messer+Chups+at+Hafenklang+on+9+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     41.912860999999999, 
     12.536034000000001
    ], 
@@ -900,7 +879,7 @@ var map_data = {
     45.087201999999998, 
     7.6683279999999998
    ], 
-   "html": "<p><strong>Orbital</strong><br/>Parco Dora, Torino<br/>07.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3245504+Traffic+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Orbital</strong><br/>Parco Dora, Torino<br/>07.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3245504+Traffic+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1324,6 +1303,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    41.949917999999997, 
+    -87.658831000000006
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Metro, Chicago<br/>14.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3283833+Hot+Stove+Cool+Music:+A+Concert+Benefiting+Chicago+Cubs+Charities+at+Metro+on+14+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     -31.953254999999999, 
     115.782326
    ], 
@@ -1384,13 +1370,6 @@ var map_data = {
     9.25
    ], 
    "html": "<p><strong>To Leave A Trace</strong><br/>Freakstock, Borgentreich<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3260598+Freakstock\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.923431999999998, 
-    -1.4771030000000001
-   ], 
-   "html": "<p><strong>Uberbyte</strong><br/>Assembly Rooms, Derby<br/>29.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/1781707+Suspiria+Live+Presents\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
