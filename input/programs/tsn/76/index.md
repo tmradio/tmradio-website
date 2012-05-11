@@ -4,9 +4,20 @@ date: 2012-05-10 21:03:56
 file: http://files.tmradio.net/audio/dump/20120510-210356-live.mp3
 filesize: 147225472
 duration: 7353
-labels: tsn, live, live-good, queue
+labels: tsn, live, live-good, queue, dugwin
 ---
-Описание отсутствует.
+Выпуск провёл Дуг.
+
+Основные новости:
+
+- Медведев успел поручить сделать конституционный закон о митингах
+  http://txt.newsru.com/russia/07may2012/medvedev.html
+- Кадыров уволил Мингаева с должности замполпреда Чечни после скандала
+  http://vz.ru/news/2012/5/5/577590.html
+- Эксперимент с открытым ношением калашникова по улице
+  http://tsybankov.livejournal.com/8563.html
+- Rutracker удалил  комментарии с просьбой пожертвования
+  http://slon.ru/fast/future/piraty-zapretili-rezhisseru-prosit-milostynyu-784812.xhtml
 
 Дополнительные ссылки:
 
