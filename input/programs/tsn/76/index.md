@@ -4,7 +4,7 @@ date: 2012-05-10 21:03:56
 file: http://files.tmradio.net/audio/dump/20120510-210356-live.mp3
 filesize: 147225472
 duration: 7353
-labels: tsn, live, live-good, queue, dugwin
+labels: tsn, live, live-good, dugwin
 ---
 Выпуск провёл Дуг.
 
