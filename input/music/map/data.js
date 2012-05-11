@@ -8,13 +8,6 @@ var map_data = {
  "markers": [
   {
    "ll": [
-    45.332811, 
-    14.452263
-   ], 
-   "html": "<p><strong>Adam Freeland</strong><br/>Hartera, Rijeka<br/>19.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3230936+Hartera+8\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.761631000000001, 
     37.550839000000003
    ], 
@@ -498,13 +491,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    59.914977, 
-    10.736691
-   ], 
-   "html": "<p><strong>David Rovics</strong><br/>Humla, Oslo<br/>10.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3227564+David+Rovics+at+Humla+on+10+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.037666999999999, 
     22.005766000000001
    ], 
@@ -684,6 +670,13 @@ var map_data = {
     -118.26013500000001
    ], 
    "html": "<p><strong>El-P</strong><br/>Echoplex, Los Angeles<br/>28.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3271060+El-P+at+Echoplex+on+28+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    37.787582999999998, 
+    -122.421665
+   ], 
+   "html": "<p><strong>El-P</strong><br/>The Regency Ballroom, San Francisco CA<br/>29.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3285580+Mr.+Muthafuckin%27+eXquire+at+The+Regency+Ballroom+on+29+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -869,6 +862,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    40.739899999999999, 
+    -73.984910999999997
+   ], 
+   "html": "<p><strong>minusbaby</strong><br/>Gramercy Theatre, New York, NY<br/>25.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3250141+Blip+Festival+NYC+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    40.713334000000003, 
+    -73.958791000000005
+   ], 
+   "html": "<p><strong>minusbaby</strong><br/>The Trash Bar, Brooklyn, NY<br/>29.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3284753+EINDBAAS+NYC:+minusbaby,+Men+of+Mega,+deadbeatblast,+RoccoW,+An0va,+Rioteer\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     35.600000000000001, 
     140.1166667
    ], 
@@ -880,6 +887,13 @@ var map_data = {
     7.6683279999999998
    ], 
    "html": "<p><strong>Orbital</strong><br/>Parco Dora, Torino<br/>07.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3245504+Traffic+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    37.97889, 
+    23.729710000000001
+   ], 
+   "html": "<p><strong>Orbital</strong><br/>TBA, Athens<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3285231+orbital\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1296,6 +1310,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    41.074069999999999, 
+    -85.147829999999999
+   ], 
+   "html": "<p><strong>the leonard washingtons</strong><br/>The Brass Rail, Fort Wayne<br/>24.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3285457+Unlikely+Alibi+at+The+Brass+Rail+on+24+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     38.745449999999998, 
     -9.1313410000000008
    ], 
@@ -1370,20 +1391,6 @@ var map_data = {
     9.25
    ], 
    "html": "<p><strong>To Leave A Trace</strong><br/>Freakstock, Borgentreich<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3260598+Freakstock\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    48.833326, 
-    2.379248
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Batofar, Paris<br/>10.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3196459+Veil+of+Maya+at+Batofar+on+10+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    47.398691999999997, 
-    8.0636969999999994
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Kiff, Aarau<br/>11.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3201096+Veil+of+Maya+at+Kiff+on+11+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
