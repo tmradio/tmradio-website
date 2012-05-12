@@ -4,7 +4,7 @@ date: 2012-05-03 21:07:57
 file: http://files.tmradio.net/audio/dump/20120503-210757-live.mp3
 filesize: 55462160
 duration: 3477
-labels: tsn, live, live-good, queue
+labels: tsn, live, live-good
 ---
 Описание отсутствует.
 
