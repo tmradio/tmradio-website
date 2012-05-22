@@ -568,13 +568,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    40.717609000000003, 
-    -74.001311999999999
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Santos Party House, New York<br/>21.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3265351+El-P+at+Santos+Party+House+on+21+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     51.593935000000002, 
     -0.130076
    ], 
@@ -635,6 +628,13 @@ var map_data = {
     -122.31955600000001
    ], 
    "html": "<p><strong>El-P</strong><br/>Neumos, Seattle<br/>01.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3271069+El-P+at+Neumos+on+1+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    44.981622999999999, 
+    -93.272211999999996
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Fine Line Music Cafe, Minneapolis<br/>05.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3293904+El-P+at+Fine+Line+Music+Cafe+on+5+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1495,7 +1495,7 @@ var map_data = {
     42.893093999999998, 
     -78.871578999999997
    ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Town Ballroom, Buffalo NY<br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3277325+The+Shockwave+Music+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Vildhjarta</strong><br/>Town Ballroom, Buffalo, NY<br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3277325+The+Shockwave+Music+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
