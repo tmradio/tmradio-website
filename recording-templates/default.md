@@ -11,3 +11,4 @@ labels: live, queue
 Дополнительные ссылки:
 
 - [Лог чата](http://files.tmradio.net/audio/dump/%(file_base)s.log)
+- [Запись с пониженным битрейтом](http://files.tmradio.net/audio/dump/%(file_base)s-lofi.ogg)
