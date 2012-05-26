@@ -428,13 +428,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    6.2484640000000002, 
-    -75.561072999999993
-   ], 
-   "html": "<p><strong>Diablo Swing Orchestra</strong><br/>Teatro Matacandelas, Medell\u00edn<br/>25.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3181803+Diablo+Swing+Orchestra+at+Teatro+Matacandelas+on+25+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     4.6173580000000003, 
     -74.095166000000006
    ], 
@@ -488,13 +481,6 @@ var map_data = {
     16.906689
    ], 
    "html": "<p><strong>Discoballs</strong><br/>Li\u0161\u010d\u00ed stezka u Moravsk\u00e9 T\u0159ebov\u00e9, Moravsk\u00e1 T\u0159ebov\u00e1<br/>02.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3235568+Pod+Parou+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.43873, 
-    30.545134999999998
-   ], 
-   "html": "<p><strong>Distemper</strong><br/>\"Club To Be First\", \u041a\u0438\u0435\u0432<br/>26.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3286291+26.05.+DISTEMPER+%D0%A1%D0%9D%D0%9E%D0%92%D0%90+%D0%92+%D0%9A%D0%98%D0%95%D0%92%D0%95!\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -806,13 +792,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    41.926831999999997, 
-    -87.648784000000006
-   ], 
-   "html": "<p><strong>LAKE R\u25b2DIO</strong><br/>the Tonic Room, Chicago, IL<br/>25.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3295743+LAKE+R%E2%96%B2DIO+at+the+Tonic+Room+on+25+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     42.733165999999997, 
     -84.513554999999997
    ], 
@@ -1072,13 +1051,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.812536999999999, 
-    19.112206
-   ], 
-   "html": "<p><strong>Radogost</strong><br/>Galeria Teatr from Poland, Cz\u0119stochowa<br/>25.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3246304+RADIO+REVOLTA+Festival+Vol.5+pami%C4%99ci+%C5%81.Zadylaka+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     49.718763000000003, 
     18.811786000000001
    ], 
@@ -1181,13 +1153,6 @@ var map_data = {
     0.34999999999999998
    ], 
    "html": "<p><strong>Supernova</strong><br/>Desierto de los Monegros, Fraga<br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3196164+Monegros+Desert+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    51.616110999999997, 
-    6.865278
-   ], 
-   "html": "<p><strong>Talco</strong><br/>Flugplatz Schwarze Heide, H\u00fcnxe<br/>26.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3170824+Ruhrpott+Rodeo+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1625,13 +1590,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.759650999999998, 
-    37.608604
-   ], 
-   "html": "<p><strong>\u041a\u0440\u0435\u043c\u0430\u0442\u043e\u0440\u0438\u0439</strong><br/>\u043a\u043b\u0443\u0431 \"\u0421\u043e\u044e\u0437 \u041a\u043e\u043c\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u043e\u0432\", \u041c\u043e\u0441\u043a\u0432\u0430<br/>25.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3296462+%D0%9A%D1%80%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B9+at+%D0%BA%D0%BB%D1%83%D0%B1+%22%D0%A1%D0%BE%D1%8E%D0%B7+%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%BE%D0%B2%22+on+25+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.783245999999998, 
     37.626424999999998
    ], 
@@ -1699,13 +1657,6 @@ var map_data = {
     30.323046000000001
    ], 
    "html": "<p><strong>\u041b\u044f\u043f\u0438\u0441 \u0422\u0440\u0443\u0431\u0435\u0446\u043a\u043e\u0439</strong><br/>\u0413\u043b\u0430\u0432Club, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>05.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3295922+%D0%9B%D1%8F%D0%BF%D0%B8%D1%81+%D0%A2%D1%80%D1%83%D0%B1%D0%B5%D1%86%D0%BA%D0%BE%D0%B9+at+%D0%93%D0%BB%D0%B0%D0%B2Club+on+5+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.764288000000001, 
-    37.564399999999999
-   ], 
-   "html": "<p><strong>\u041c\u0430\u0440\u0430</strong><br/>16 Tons, <br/>25.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3293561+%D0%9C%D0%B0%D1%80%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
