@@ -428,13 +428,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    4.6173580000000003, 
-    -74.095166000000006
-   ], 
-   "html": "<p><strong>Diablo Swing Orchestra</strong><br/>Teatro Metro Bogota, Bogot\u00e1<br/>27.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/2017792+Diablo+Swing+Orchestra+at+Teatro+Metro+Bogota+on+27+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     -23.551459000000001, 
     -46.650818000000001
    ], 
@@ -753,7 +746,7 @@ var map_data = {
     55.731406, 
     37.603406999999997
    ], 
-   "html": "<p><strong>Kirov</strong><br/>\u041f\u0430\u0440\u043a \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432 \"\u041c\u0443\u0437\u0435\u043e\u043d\", Moscow<br/>29.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3181154+Museon+Open+Air+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Kirov</strong><br/>\u041f\u0430\u0440\u043a \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432 \"\u041c\u0443\u0437\u0435\u043e\u043d\", Moscow<br/>29.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3181154+Waves+Fest+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1303,10 +1296,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.143171000000002, 
-    21.039287999999999
+    52.239621999999997, 
+    21.017379999999999
    ], 
-   "html": "<p><strong>To Leave A Trace</strong><br/>TBA, Warszawa<br/>20.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3290006+To+Leave+A+Trace+IN+DECKS+(Warsaw,+Poland)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>To Leave A Trace</strong><br/>Klub InDecks, Warszawa<br/>20.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3293912+20.06-Wwa-To+Leave+A+Trace-formydemons-NGH-TINT\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1471,13 +1464,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    48.462654000000001, 
-    35.044086
-   ], 
-   "html": "<p><strong>\u0411\u0430\u0440\u0442\u043e</strong><br/>\u0410\u0440\u0442-\u0446\u0435\u043d\u0442\u0440 \"\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430\", \u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a, Dnipropetrovsk<br/>27.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3279444+%D0%91%D0%B0%D1%80%D1%82%D0%BE+at+%D0%90%D1%80%D1%82-%D1%86%D0%B5%D0%BD%D1%82%D1%80+%22%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0%22+on+27+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     56.951228999999998, 
     24.110464
    ], 
@@ -1562,6 +1548,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    59.853566000000001, 
+    30.302975
+   ], 
+   "html": "<p><strong>\u0411\u0440\u0430\u0432\u043e</strong><br/>Jagger, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>01.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3298658+%D0%91%D1%80%D0%B0%D0%B2%D0%BE+at+Jagger+on+1+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     45.128225, 
     36.905625000000001
    ], 
@@ -1573,6 +1566,13 @@ var map_data = {
     30.323827999999999
    ], 
    "html": "<p><strong>\u0411\u0440\u0430\u0432\u043e</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3281238+%D0%91%D1%80%D0%B0%D0%B2%D0%BE+at+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82+on+12+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.784765, 
+    37.560043
+   ], 
+   "html": "<p><strong>\u0411\u0440\u0430\u0432\u043e</strong><br/>Arena Moscow, <br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3298656+%D0%91%D1%80%D0%B0%D0%B2%D0%BE+at+Arena+Moscow+on+17+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
