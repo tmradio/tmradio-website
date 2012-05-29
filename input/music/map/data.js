@@ -99,10 +99,17 @@ var map_data = {
   }, 
   {
    "ll": [
-    41.994968, 
-    -71.210676000000007
+    55.784765, 
+    37.560043
    ], 
-   "html": "<p><strong>Caribou</strong><br/>Comcast Center, Mansfield<br/>29.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3221987+Radiohead+at+Comcast+Center+on+29+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Brainstorm</strong><br/>Arena Moscow, <br/>20.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300065+Brainstorm+at+Arena+Moscow+on+20+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.913995999999997, 
+    30.323827999999999
+   ], 
+   "html": "<p><strong>Brainstorm</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>27.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299963+Brainstorm+at+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82+on+27+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -806,6 +813,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    48.882632000000001, 
+    2.3396059999999999
+   ], 
+   "html": "<p><strong>Malakwa</strong><br/>Divan du Monde, Paris<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299977+THE+LAST+CUMSHOT+TOUR\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     41.912860999999999, 
     12.536034000000001
    ], 
@@ -1107,6 +1121,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    52.948101000000001, 
+    -1.1493979999999999
+   ], 
+   "html": "<p><strong>Slim</strong><br/>Jongleurs, Nottingham<br/>13.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299967+Friday+night+comedy\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.948101000000001, 
+    -1.1493979999999999
+   ], 
+   "html": "<p><strong>Slim</strong><br/>Jongleurs, Nottingham<br/>14.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299960+Saturday+night+comedy\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     47.501145999999999, 
     19.103815999999998
    ], 
@@ -1131,7 +1159,7 @@ var map_data = {
     52.511136999999998, 
     13.441350999999999
    ], 
-   "html": "<p><strong>Steffi</strong><br/>Berghain/Panorama Bar, Berlin<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3258515+CSD+Nacht\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Steffi</strong><br/>Berghain/Panorama Bar, Berlin<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3258515+CSD-Klubnacht\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
