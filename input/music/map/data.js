@@ -29,20 +29,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.816666699999999, 
-    11.4833333
-   ], 
-   "html": "<p><strong>Brainstorm</strong><br/>Flugplatz, Dessau<br/>31.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2044063+Metalfest+Ost-Open+Air+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    48.273291, 
-    13.196942999999999
-   ], 
-   "html": "<p><strong>Brainstorm</strong><br/>Schlo\u00df Mamling, Mining am Inn<br/>31.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2044112+Metalfest+Open+Air+Austria+2012+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     51.033333300000002, 
     18.649999999999999
    ], 
@@ -110,13 +96,6 @@ var map_data = {
     30.323827999999999
    ], 
    "html": "<p><strong>Brainstorm</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>27.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299963+Brainstorm+at+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82+on+27+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    40.733747000000001, 
-    -74.170267999999993
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>Prudential Center, Newark, NJ<br/>31.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3222046+Radiohead+at+Prudential+Center+on+31+May+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -435,13 +414,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    -34.625359000000003, 
-    -58.387186
-   ], 
-   "html": "<p><strong>Diablo Swing Orchestra</strong><br/>Salon Reducci, Constituci\u00f3n, Buenos Aires<br/>30.05.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3198831+Diablo+Swing+Orchestra+en+Argentina\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     19.406355999999999, 
     -99.126007000000001
    ], 
@@ -565,6 +537,13 @@ var map_data = {
     -96.769814999999994
    ], 
    "html": "<p><strong>El-P</strong><br/>Granada Theater, Dallas<br/>21.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3273237+El-P+at+Granada+Theater+on+21+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    32.830840000000002, 
+    -96.769814999999994
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Granada Theater, Dallas<br/>21.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3301635+El-P\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -694,6 +673,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.479166999999997, 
+    7.2134070000000001
+   ], 
+   "html": "<p><strong>Entertainment For The Braindead</strong><br/>ROTTSTR 5 Theater, Bochum<br/>10.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3302126+Entertainment+For+The+Braindead+-+support:+Wool\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.538891, 
+    30.484819000000002
+   ], 
+   "html": "<p><strong>Gorky Park</strong><br/>Docker Pub, \u041a\u0438\u0435\u0432<br/>16.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3301718+Gorky+Park+at+Docker+Pub+on+16+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.823273, 
     37.389907999999998
    ], 
@@ -810,13 +803,6 @@ var map_data = {
     -84.513554999999997
    ], 
    "html": "<p><strong>LAKE R\u25b2DIO</strong><br/>Mac's Bar, Lansing<br/>17.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3252209+BL%E2%96%B2CK+M%E2%96%B2SS+%E2%80%A0+SUND%E2%96%B2Y\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    48.882632000000001, 
-    2.3396059999999999
-   ], 
-   "html": "<p><strong>Malakwa</strong><br/>Divan du Monde, Paris<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299977+THE+LAST+CUMSHOT+TOUR\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1048,13 +1034,6 @@ var map_data = {
     35.25
    ], 
    "html": "<p><strong>Pur:Pur</strong><br/>Koktebel Jazz Festival, \u041a\u043e\u043a\u0442\u0435\u0431\u0435\u043b\u044c, Koktebel<br/>30.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3165610+Koktebel+Jazz+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    49.718763000000003, 
-    18.811786000000001
-   ], 
-   "html": "<p><strong>Radogost</strong><br/>Rynek, Ustro\u0144<br/>30.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1986849+No+Name+VI\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1328,13 +1307,6 @@ var map_data = {
     9.25
    ], 
    "html": "<p><strong>To Leave A Trace</strong><br/>Freakstock, Borgentreich<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3260598+Freakstock\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.923431999999998, 
-    -1.4771030000000001
-   ], 
-   "html": "<p><strong>Uberbyte</strong><br/>Assembly Rooms, Derby<br/>29.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/1781707+Suspiria+Live+Presents\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
