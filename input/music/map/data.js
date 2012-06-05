@@ -211,13 +211,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.581859999999999, 
-    9.3072370000000006
-   ], 
-   "html": "<p><strong>Brainstorm</strong><br/>Stadio Brianteo, Monza<br/>05.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2080379+Metalfest+Open+Air+Italia+2012+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.142290000000003, 
     7.7321799999999996
    ], 
@@ -271,13 +264,6 @@ var map_data = {
     30.323827999999999
    ], 
    "html": "<p><strong>Brainstorm</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>27.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299963+Brainstorm+at+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82+on+27+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    39.052081999999999, 
-    -84.416861999999995
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>Riverbend Music Center, Cincinnati<br/>05.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3220720+Radiohead+at+Riverbend+Music+Center+on+5+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -890,6 +876,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    55.595134999999999, 
+    13.012915
+   ], 
+   "html": "<p><strong>Frankie Rose</strong><br/>Debaser, Malm\u00f6<br/>14.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3306067+Frankie+Rose+at+Debaser+on+14+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     52.500709999999998, 
     13.44482
    ], 
@@ -1131,7 +1124,14 @@ var map_data = {
     45.466666699999998, 
     7.8666666999999997
    ], 
-   "html": "<p><strong>Lumen</strong><br/>Chiaverano, <br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3147270+A+Night+Like+This+festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Lumen</strong><br/>Chiaverano, <br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3147270+A+Night+Like+This+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    44.496229, 
+    11.351041
+   ], 
+   "html": "<p><strong>Messer Chups</strong><br/>La Scuderia, Piazza Verdi, Bologna<br/>21.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3306198+MESSER+CHUPS+live\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1597,10 +1597,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    38.983333299999998, 
-    -3.9333333000000001
+    41.396853, 
+    2.191255
    ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Razzmatazz 2, Barcelona<br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3297353+Stones+Grow+Her+Name+World+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Sonata Arctica</strong><br/>Razzmatazz, Barcelona<br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3297353+Stones+Grow+Her+Name+World+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2238,6 +2238,13 @@ var map_data = {
     60.594997999999997
    ], 
    "html": "<p><strong>\u042e-\u041f\u0438\u0442\u0435\u0440</strong><br/>\u041a\u0420\u041a \"\u0423\u0440\u0430\u043b\u0435\u0446\", \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3281683+%D0%A6%D0%9E%D0%99+%D0%96%D0%98%D0%92!\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.951940999999998, 
+    30.285036000000002
+   ], 
+   "html": "<p><strong>\u042e-\u041f\u0438\u0442\u0435\u0440</strong><br/>\u0421\u0442\u0430\u0434\u0438\u043e\u043d \"\u041f\u0435\u0442\u0440\u043e\u0432\u0441\u043a\u0438\u0439\", \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>12.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3299325+%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D0%BC+%D0%BD%D0%B5%D0%B1%D0%BE+%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%BE%D0%B9\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }
  ]
 };
