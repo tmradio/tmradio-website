@@ -197,31 +197,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    47.806959999999997, 
-    13.058890999999999
-   ], 
-   "html": "<p><strong>Bonfire</strong><br/>Rockhouse, Salzburg<br/>06.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3280725+Classic+Metal+Summit+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     58.8333333, 
     15.9166667
    ], 
    "html": "<p><strong>Bonfire</strong><br/>Rejmyre, <br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3107962+Skogsr%C3%B6jet+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.142290000000003, 
-    7.7321799999999996
-   ], 
-   "html": "<p><strong>Brainstorm</strong><br/>Freilichtb\u00fchne Loreley, Sankt Goarshausen<br/>07.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2043803+Metalfest+West-Open+Air+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    47.527292000000003, 
-    7.694064
-   ], 
-   "html": "<p><strong>Brainstorm</strong><br/>Z7 Konzertfabrik Pratteln, Pratteln<br/>07.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3222301+Metalfest+Open+Air+Helvetia+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -974,13 +953,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.480733000000001, 
-    -1.8945000000000001
-   ], 
-   "html": "<p><strong>Hoodie Allen</strong><br/>O2 Academy 3 Birmingham, Birmingham<br/>06.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3263173+Hoodie+Allen+at+O2+Academy+3+Birmingham+on+6+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.865884000000001, 
     -4.2643579999999996
    ], 
@@ -1174,13 +1146,6 @@ var map_data = {
     37.592936999999999
    ], 
    "html": "<p><strong>Non Cadenza</strong><br/>\u04112, <br/>14.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3279623+Non+Cadenza+at+%D0%912+on+14+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    45.049999999999997, 
-    7.6666667000000004
-   ], 
-   "html": "<p><strong>Orbital</strong><br/>Piazza San Carlo, Torino<br/>07.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3245504+Traffic+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1649,7 +1614,7 @@ var map_data = {
     52.360059999999997, 
     4.9207229999999997
    ], 
-   "html": "<p><strong>SP</strong><br/>Oosterpark, Amsterdam<br/>22.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3247775+Appelsap\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>SP</strong><br/>Oosterpark, Amsterdam<br/>22.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3247775+Appelsap+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1870,6 +1835,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    43.655763999999998, 
+    -79.380675999999994
+   ], 
+   "html": "<p><strong>Trouble Andrew</strong><br/>Yonge & Dundas Square, Toronto<br/>14.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3263124+NXNE+Presents:+Bad+Religion\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     40.677630999999998, 
     -74.008475000000004
    ], 
@@ -2007,6 +1979,13 @@ var map_data = {
     15.913681
    ], 
    "html": "<p><strong>Vildhjarta</strong><br/>Vojensk\u00e1 pevnost Josefov, Jarom\u011b\u0159-Josefov<br/>08.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2026413+Brutal+Assault+XVII\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.949089999999998, 
+    6.9100900000000003
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>Live Music Hall, K\u00f6ln<br/>19.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3104644+Euroblast+Festival+Vol.8+-+The+Sound+Of+Infinity\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
