@@ -4,9 +4,9 @@ date: 2012-06-07 21:03:56
 file: http://files.tmradio.net/audio/dump/20120607-210356-live.mp3
 filesize: 84266288
 duration: 4137
-labels: tsn, live, live-good, queue, dugwin
+labels: tsn, live, live-good, dugwin
 ---
-Эфир провёл Дуг.
+Эфир провёл Дуг, звонил с новостями о ДТП в Твери Steeker.
 
 - Немного про новый закон о митингах
   http://txt.newsru.com/russia/06jun2012/twitterzak.html
@@ -22,6 +22,12 @@ labels: tsn, live, live-good, queue, dugwin
   http://www.novayagazeta.ru/politics/52819.html
 - tmradio на softpedia.com
   http://mac.softpedia.com/get/Internet-Utilities/tmplayer.shtml
+- Трамвай в Перми
+  http://youtu.be/J8zDXY16QaM
+- Трамвай в Твери
+  http://www.youtube.com/watch?v=l534V4fcpq4
+- Ещё ДТП
+  http://www.youtube.com/watch?v=FIz02Hjg3AY&feature=related
 
 
 Дополнительные ссылки:
