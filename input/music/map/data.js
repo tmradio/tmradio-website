@@ -204,13 +204,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    49.756608999999997, 
-    13.354163
-   ], 
-   "html": "<p><strong>Brainstorm</strong><br/>Lochot\u00ednsk\u00fd amfite\u00e1tr, Plze\u0148<br/>08.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2045646+Metalfest+Open+Air+2012+Czech+Republic\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.721479000000002, 
     37.590634000000001
    ], 
@@ -953,13 +946,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.865884000000001, 
-    -4.2643579999999996
-   ], 
-   "html": "<p><strong>Hoodie Allen</strong><br/>O2 ABC, Glasgow<br/>07.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3265724+Hoodie+Allen+at+O2+ABC+on+7+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     53.464044000000001, 
     -2.2506300000000001
    ], 
@@ -1065,6 +1051,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    40.740023999999998, 
+    -73.997797000000006
+   ], 
+   "html": "<p><strong>Kristin Hersh</strong><br/>Rubin Museum of Art, New York, NY<br/>08.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3309070+Kristin+Hersh+at+Rubin+Museum+of+Art+on+8+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     42.733165999999997, 
     -84.513554999999997
    ], 
@@ -1090,6 +1083,13 @@ var map_data = {
     7.8666666999999997
    ], 
    "html": "<p><strong>Lumen</strong><br/>Chiaverano, <br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3147270+A+Night+Like+This+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.913995999999997, 
+    30.323827999999999
+   ], 
+   "html": "<p><strong>Lumen</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>16.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3308518+LUMEN.+%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE+%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D0%B0.\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1152,7 +1152,7 @@ var map_data = {
     37.97889, 
     23.729710000000001
    ], 
-   "html": "<p><strong>Orbital</strong><br/>TBA, Athens<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3285231+orbital\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Orbital</strong><br/>TBA, Athens<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3285231+Orbital+at+TBA+on+23+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1429,13 +1429,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    61.498489999999997, 
-    23.776693000000002
-   ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Pakkahuone, Tampere<br/>08.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3255079+Sauna+Open+Airin+lohtul%C3%B6ylyt\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     60.186349, 
     24.976665000000001
    ], 
@@ -1502,7 +1495,7 @@ var map_data = {
     52.48462, 
     13.39132
    ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>C-Club, Berlin<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300610+Soanat+Arctica+in+Berlin\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Sonata Arctica</strong><br/>C-Club, Berlin<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300610+Sonata+Arctica+in+Berlin\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1601,6 +1594,13 @@ var map_data = {
     9.1826120000000007
    ], 
    "html": "<p><strong>Sonata Arctica</strong><br/>Alcatraz, Milano<br/>22.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3297730+SONATA+ARCTICA+-+%22Stones+Grow+Her+Name+World+Tour+2012%22+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    48.145614000000002, 
+    11.520153000000001
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Backstage, M\u00fcnchen<br/>27.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3308828+Stones+Grow+Her+Name+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
