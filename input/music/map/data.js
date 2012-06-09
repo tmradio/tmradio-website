@@ -204,13 +204,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.721479000000002, 
-    37.590634000000001
-   ], 
-   "html": "<p><strong>Brainstorm</strong><br/>\u0422\u0435\u0430\u0442\u0440 \u0421\u0442\u0430\u0441\u0430 \u041d\u0430\u043c\u0438\u043d\u0430 (\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0442\u0435\u0430\u0442\u0440), <br/>09.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3246400+Zavtra\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.977466, 
     30.271526999999999
    ], 
@@ -946,13 +939,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    53.464044000000001, 
-    -2.2506300000000001
-   ], 
-   "html": "<p><strong>Hoodie Allen</strong><br/>Academy 3, Manchester<br/>08.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3278330+Hoodie+Allen+at+Academy+3+on+8+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     51.534458999999998, 
     -0.1066
    ], 
@@ -971,13 +957,6 @@ var map_data = {
     -3.1666666999999999
    ], 
    "html": "<p><strong>I'm From Barcelona</strong><br/>Manoir de Keroual, Brest<br/>16.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3248816+Astropolis\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.411358999999997, 
-    4.9078039999999996
-   ], 
-   "html": "<p><strong>Inner Terrestrials</strong><br/>Villa Friekens, Amsterdam<br/>08.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3307042+BECAUSE+WE+REFUSE+TO+DIE+QUIETLY!!!\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1051,13 +1030,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    40.740023999999998, 
-    -73.997797000000006
-   ], 
-   "html": "<p><strong>Kristin Hersh</strong><br/>Rubin Museum of Art, New York, NY<br/>08.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3309070+Kristin+Hersh+at+Rubin+Museum+of+Art+on+8+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     42.733165999999997, 
     -84.513554999999997
    ], 
@@ -1090,6 +1062,13 @@ var map_data = {
     30.323827999999999
    ], 
    "html": "<p><strong>Lumen</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>16.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3308518+LUMEN.+%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE+%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D0%B0.\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    48.882632000000001, 
+    2.3396059999999999
+   ], 
+   "html": "<p><strong>Malakwa</strong><br/>Divan du Monde, Paris<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299977+THE+LAST+CUMSHOT+TOUR\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
