@@ -197,6 +197,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    40.106689000000003, 
+    -88.223506999999998
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Canopy Club, Urbana, IL<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3282242+Pygmalion+Music+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     58.8333333, 
     15.9166667
    ], 
@@ -299,6 +306,13 @@ var map_data = {
     13.544017
    ], 
    "html": "<p><strong>Caribou</strong><br/>Kindl B\u00fchne Wuhlheide, Berlin<br/>07.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3132349+Radiohead+at+Kindl+B%C3%BChne+Wuhlheide+on+7+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.525388, 
+    13.398382
+   ], 
+   "html": "<p><strong>Caribou</strong><br/>About Blank, Berlin<br/>07.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3312341+Get+Deep+with+Dan+Snaith+aka+Caribou,+Floating+Points+and+Many+More+at+:--about+blank\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -848,6 +862,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    55.872410000000002, 
+    -4.2731960000000004
+   ], 
+   "html": "<p><strong>Frankie Rose</strong><br/>Captain's Rest, Glasgow<br/>23.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3311686+Frankie+Rose+at+Captain's+Rest+on+23+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     53.810082000000001, 
     -1.5698300000000001
    ], 
@@ -995,6 +1016,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    50.081417000000002, 
+    14.425300999999999
+   ], 
+   "html": "<p><strong>KMFDM</strong><br/>Lucerna Music Bar, Praha<br/>09.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3312002+KMFDM+at+Lucerna+Music+Bar+on+9+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.934010999999998, 
     30.366228
    ], 
@@ -1086,13 +1114,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    37.97889, 
-    23.729710000000001
-   ], 
-   "html": "<p><strong>Orbital</strong><br/>TBA, Athens<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3285231+Orbital+at+TBA+on+23+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     44.818611099999998, 
     20.4680556
    ], 
@@ -1181,13 +1202,6 @@ var map_data = {
     13.403259
    ], 
    "html": "<p><strong>Orbital</strong><br/>Flughafen Tempelhof, Berlin<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3176952+Berlin+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    19.408300000000001, 
-    -99.092680999999999
-   ], 
-   "html": "<p><strong>Orbital</strong><br/>Aut\u00f3dromo Hermanos Rodr\u00edguez, Ciudad de M\u00e9xico<br/>13.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3279463+Festival+Corona+Capital+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1709,13 +1723,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    19.408300000000001, 
-    -99.092680999999999
-   ], 
-   "html": "<p><strong>The Gathering</strong><br/>Aut\u00f3dromo Hermanos Rodr\u00edguez, Ciudad de M\u00e9xico<br/>13.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3279463+Festival+Corona+Capital+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     41.949917999999997, 
     -87.658831000000006
    ], 
@@ -1755,6 +1762,13 @@ var map_data = {
     174.77394100000001
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Vector Arena, Auckland<br/>04.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3278674+Smashing+Pumpkins+Oceania+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.927110999999996, 
+    30.322496000000001
+   ], 
+   "html": "<p><strong>The-Pulsar</strong><br/>\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0439 \u043a\u043b\u0443\u0431 DA:DA, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>15.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3304051+Black+Room+Fest+4\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1958,6 +1972,13 @@ var map_data = {
     35.25
    ], 
    "html": "<p><strong>Zorge</strong><br/>Koktebel Jazz Festival, \u041a\u043e\u043a\u0442\u0435\u0431\u0435\u043b\u044c, Koktebel<br/>30.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3165610+Koktebel+Jazz+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.764288000000001, 
+    37.564399999999999
+   ], 
+   "html": "<p><strong>\u0411\u0438-2</strong><br/>16 Tons, <br/>09.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3291179+%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82+%D0%BB%D0%B5%D1%82%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
