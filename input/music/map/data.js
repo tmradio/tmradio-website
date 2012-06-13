@@ -204,6 +204,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    50.352114, 
+    15.913681
+   ], 
+   "html": "<p><strong>Bonfire</strong><br/>Vojensk\u00e1 pevnost Josefov, Jarom\u011b\u0159-Josefov<br/>29.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3215254+Rock+Rebellion+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     58.8333333, 
     15.9166667
    ], 
@@ -229,13 +236,6 @@ var map_data = {
     30.323827999999999
    ], 
    "html": "<p><strong>Brainstorm</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>27.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299963+Brainstorm+at+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82+on+27+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    39.941859999999998, 
-    -75.129335999999995
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>Susquehanna Bank Center, Camden<br/>13.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3221890+Radiohead+at+Susquehanna+Bank+Center+on+13+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -673,6 +673,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    49.280425999999999, 
+    -123.10106
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Fortune Sound Club, Vancouver, BC<br/>02.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3312907+El-P+at+Fortune+Sound+Club+on+2+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     44.981622999999999, 
     -93.272211999999996
    ], 
@@ -739,7 +746,7 @@ var map_data = {
     40.71942, 
     -73.961678000000006
    ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>Music Hall of Williamsburg, Brooklyn<br/>15.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3291593+Brooklynvegan+Northside+Showcase:+Caveman+-+Frankie+Rose\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Frankie Rose</strong><br/>Music Hall of Williamsburg, Brooklyn<br/>15.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3291593+Northside+Festival+2012+-+BrooklynVegan+Showcase\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -774,7 +781,7 @@ var map_data = {
     45.771523000000002, 
     4.8346739999999997
    ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>La Triperie, Lyon<br/>05.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3261667+Frankie+Rose+at+La+Triperie+on+5+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Frankie Rose</strong><br/>La Triperie, Lyon<br/>05.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3261667+Frankie+Rose+(au+Transbordeur+-+Pas+%C3%A0+la+Triperie)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -925,13 +932,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.042149000000002, 
-    38.980640000000001
-   ], 
-   "html": "<p><strong>Gorky Park</strong><br/>\u041f\u0443\u0448\u043a\u0438\u043d\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440<br/>12.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3303560+%D0%94%D0%B5%D0%BD%D1%8C+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8+%D0%B2+%D0%B3.+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.538891, 
     30.484819000000002
    ], 
@@ -1027,6 +1027,13 @@ var map_data = {
     30.366228
    ], 
    "html": "<p><strong>KOSMOPOP2</strong><br/>\u0426\u043e\u043a\u043e\u043b\u044c, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>21.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3295124+VRUMZSSSR+at+%D0%A6%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C+on+21+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    37.766587999999999, 
+    -122.430391
+   ], 
+   "html": "<p><strong>Kristin Hersh</strong><br/>Cafe Du Nord, 2170 Market St., San Francisco, CA, 94114<br/>26.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3313029+Kristin+Hersh+at+Cafe+Du+Nord+on+26+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1446,7 +1453,7 @@ var map_data = {
     52.48462, 
     13.39132
    ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>C-Club, Berlin<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300610+Sonata+Arctica+in+Berlin\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Sonata Arctica</strong><br/>C-Club, Berlin<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300610+Sonata+Arctica+at+C-Club+on+4+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1783,13 +1790,6 @@ var map_data = {
     26.240417000000001
    ], 
    "html": "<p><strong>Theodor Bastard</strong><br/>Zaraso sala, Zarasai<br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3222588+M%C4%97nuo+Juodaragis+XV\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    53.931178000000003, 
-    27.606763999999998
-   ], 
-   "html": "<p><strong>To Leave A Trace</strong><br/>\u0413\u0440\u0430\u0444\u0444\u0438\u0442\u0438, Minsk<br/>12.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3289602+To+Leave+A+Trace+at+%D0%93%D1%80%D0%B0%D1%84%D1%84%D0%B8%D1%82%D0%B8+on+12+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
