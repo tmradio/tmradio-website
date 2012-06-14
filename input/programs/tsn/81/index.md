@@ -9,12 +9,11 @@ labels: tsn, live, live-good, queue
 
 Эфир провели dugwin и партизан, звонил @w1nt3rmut3
 
+- Дмитрий Медведев в программе Познера
+  http://www.1tv.ru/sprojects_edition/si5756/fi16171
 
 - Интервью с министром образования и науки Дмитрием Ливановым
   http://echo.msk.ru/programs/beseda/896640-echo/
-
-- Дмитрий Медведев в программе Познера
-  http://www.1tv.ru/sprojects_edition/si5756/fi16171
 
 - Путин приказал установить уголовную ответственность за нарушения правил регистрации.
   http://txt.newsru.com/russia/13jun2012/pureg.html
