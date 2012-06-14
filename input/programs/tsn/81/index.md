@@ -4,7 +4,7 @@ date: 2012-06-14 21:01:10
 file: http://files.tmradio.net/audio/dump/20120614-210110-live.mp3
 filesize: 98914399
 duration: 6182
-labels: tsn, live, live-good, queue
+labels: tsn, live, live-good, dugwin, partizan
 ---
 
 Эфир провели dugwin и партизан, звонил @w1nt3rmut3
