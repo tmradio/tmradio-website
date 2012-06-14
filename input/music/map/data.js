@@ -1037,6 +1037,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    34.067427000000002, 
+    -118.27207
+   ], 
+   "html": "<p><strong>Kristin Hersh</strong><br/>Bootleg Theater, Los Angeles<br/>28.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3313990+Kristin+Hersh+at+Bootleg+Theater+on+28+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     42.733165999999997, 
     -84.513554999999997
    ], 
@@ -1328,13 +1335,6 @@ var map_data = {
     8.2921859999999992
    ], 
    "html": "<p><strong>Redman</strong><br/>Festivalgel\u00e4nde, Wohlen<br/>21.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3122334+Touch+the+Air\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    34.089602999999997, 
-    -117.290758
-   ], 
-   "html": "<p><strong>Redman</strong><br/>National Orange Show Events Center, San Bernardino<br/>18.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3289303+Rock+the+Bells+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1660,6 +1660,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    34.051501999999999, 
+    -118.25139299999999
+   ], 
+   "html": "<p><strong>The Entrance Band</strong><br/>California Plaza, Los Angeles<br/>06.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3313991+The+Entrance+Band+at+California+Plaza+on+6+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     34.089336000000003, 
     -118.268552
    ], 
@@ -1972,6 +1979,20 @@ var map_data = {
     35.25
    ], 
    "html": "<p><strong>Zorge</strong><br/>Koktebel Jazz Festival, \u041a\u043e\u043a\u0442\u0435\u0431\u0435\u043b\u044c, Koktebel<br/>30.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3165610+Koktebel+Jazz+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.906886, 
+    30.307623
+   ], 
+   "html": "<p><strong>Zorge</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>28.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3314198+Zorge+(ex.+Tequilajazzz)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    56.852803999999999, 
+    60.614339000000001
+   ], 
+   "html": "<p><strong>\u0411\u0438-2</strong><br/>TBA, Ekaterinburg<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3295478+Red+Rocks\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
