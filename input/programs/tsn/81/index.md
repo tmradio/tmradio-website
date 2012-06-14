@@ -1,9 +1,9 @@
 title: ТСН №81 от 14.06.2012
-date: 2012-06-14 21:58:10
+date: 2012-06-14 21:01:10
 #illustration: http://files.tmradio.net/audio/dump/20120614-215810-live.png
-file: http://files.tmradio.net/audio/dump/20120614-215810-live.mp3
-filesize: 55656048
-duration: 2984
+file: http://files.tmradio.net/audio/dump/20120614-210110-live.mp3
+filesize: 98914399
+duration: 6182
 labels: tsn, live, live-good, queue
 ---
 
