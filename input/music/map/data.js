@@ -15,13 +15,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.865884000000001, 
-    -4.2643579999999996
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>O2 ABC, Glasgow<br/>16.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3207294+Best+Coast+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     53.475521999999998, 
     -2.2377699999999998
    ], 
@@ -243,13 +236,6 @@ var map_data = {
     30.323827999999999
    ], 
    "html": "<p><strong>Brainstorm</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>27.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299963+Brainstorm+at+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82+on+27+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    43.747196000000002, 
-    -79.475139999999996
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>Downsview Park, Toronto<br/>16.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3221937+Radiohead+at+Downsview+Park+on+16+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -554,6 +540,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    53.544376999999997, 
+    9.9478500000000007
+   ], 
+   "html": "<p><strong>Distemper</strong><br/>Hafenklang, Hamburg<br/>10.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3315767+Distemper+at+Hafenklang+on+10+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     49.394120000000001, 
     14.693987
    ], 
@@ -740,13 +733,6 @@ var map_data = {
     -76.986573000000007
    ], 
    "html": "<p><strong>El-P</strong><br/>Rock and Roll Hotel, Washington DC<br/>15.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3271589+El-P+at+Rock+and+Roll+Hotel+on+15+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    40.71942, 
-    -73.961678000000006
-   ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>Music Hall of Williamsburg, Brooklyn<br/>15.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3291593+Northside+Festival+2012+-+BrooklynVegan+Showcase\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1268,13 +1254,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    51.471086, 
-    -0.11199000000000001
-   ], 
-   "html": "<p><strong>Paradox</strong><br/>Jamm, Brixton, London<br/>15.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3291502+Bass+Heaven\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     58.586436999999997, 
     16.185611000000002
    ], 
@@ -1646,6 +1625,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    49.502333, 
+    10.417604000000001
+   ], 
+   "html": "<p><strong>Talco</strong><br/>Bad Windsheim, 91438 Bad Windsheim<br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3315717+Weinturm+Open-Air\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     56.784649000000002, 
     60.634942000000002
    ], 
@@ -1772,13 +1758,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    59.927110999999996, 
-    30.322496000000001
-   ], 
-   "html": "<p><strong>The-Pulsar</strong><br/>\u043a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u044b\u0439 \u043a\u043b\u0443\u0431 DA:DA, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>15.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3304051+Black+Room+Fest+4\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     46.066666699999999, 
     23.5833333
    ], 
@@ -1811,6 +1790,13 @@ var map_data = {
     -74.008475000000004
    ], 
    "html": "<p><strong>Trouble Andrew</strong><br/>Red Hook Park, Brooklyn, NY<br/>19.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3268782+Das+Racist+at+Red+Hook+Park+on+19+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.984296000000001, 
+    5.9055900000000001
+   ], 
+   "html": "<p><strong>Unreal</strong><br/>Willemeen, Arnhem<br/>30.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3315467+Summerjam+2012+by+Forms+and+Strike+Back\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
