@@ -15,13 +15,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    53.475521999999998, 
-    -2.2377699999999998
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>The Ritz, Manchester<br/>17.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3196108+Best+Coast+at+The+Ritz+on+17+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     52.480733000000001, 
     -1.8945000000000001
    ], 
@@ -194,6 +187,13 @@ var map_data = {
     -88.223506999999998
    ], 
    "html": "<p><strong>Best Coast</strong><br/>Canopy Club, Urbana, IL<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3282242+Pygmalion+Music+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    19.408300000000001, 
+    -99.092680999999999
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Aut\u00f3dromo Hermanos Rodr\u00edguez, Ciudad de M\u00e9xico<br/>13.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3307845+Festival+Corona+Capital+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1048,6 +1048,13 @@ var map_data = {
     -114.083876
    ], 
    "html": "<p><strong>Left Spine Down</strong><br/>Dickens Pub, Calgary<br/>01.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3306682+Terminus\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    49.277512999999999, 
+    -123.06607099999999
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>WISE Hall, Vancouver<br/>06.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3316041+SNFU+at+WISE+Hall+on+6+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
