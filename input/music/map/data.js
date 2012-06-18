@@ -46,7 +46,7 @@ var map_data = {
     39.358817000000002, 
     -74.460973999999993
    ], 
-   "html": "<p><strong>Best Coast</strong><br/>Bader Field, Atlantic City<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3192916+Orion+Music+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Best Coast</strong><br/>Bader Field, Atlantic City<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3192916+Orion+Music+-+More+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -187,13 +187,6 @@ var map_data = {
     -88.223506999999998
    ], 
    "html": "<p><strong>Best Coast</strong><br/>Canopy Club, Urbana, IL<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3282242+Pygmalion+Music+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    19.408300000000001, 
-    -99.092680999999999
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Aut\u00f3dromo Hermanos Rodr\u00edguez, Ciudad de M\u00e9xico<br/>13.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3307845+Festival+Corona+Capital+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -848,6 +841,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.050358000000003, 
+    3.7236790000000002
+   ], 
+   "html": "<p><strong>Frankie Rose</strong><br/>De Kouter, Gent<br/>19.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3316815+Boomtown+Dag+3\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     53.470232000000003, 
     -2.23698
    ], 
@@ -929,13 +929,6 @@ var map_data = {
     37.389907999999998
    ], 
    "html": "<p><strong>Gorky Park</strong><br/>Crocus City Hall, <br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3234570+Gorky+Park+at+Crocus+City+Hall+on+18+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.312596999999997, 
-    4.9433870000000004
-   ], 
-   "html": "<p><strong>Hoodie Allen</strong><br/>Heineken Music Hall, Amsterdam<br/>27.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3237464+CAUSE\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1027,20 +1020,6 @@ var map_data = {
     -118.27207
    ], 
    "html": "<p><strong>Kristin Hersh</strong><br/>Bootleg Theater, Los Angeles<br/>28.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3313990+Kristin+Hersh+at+Bootleg+Theater+on+28+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    42.733165999999997, 
-    -84.513554999999997
-   ], 
-   "html": "<p><strong>LAKE R\u25b2DIO</strong><br/>Mac's Bar, Lansing<br/>17.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3252825+%E2%80%A0+BL%E2%96%B2CK+%E2%99%A6+M%E2%96%B2SS+%E2%80%A0+SUND%E2%96%B2Y+wsg+LAKE+R%E2%96%B2DIO\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    42.733165999999997, 
-    -84.513554999999997
-   ], 
-   "html": "<p><strong>LAKE R\u25b2DIO</strong><br/>Mac's Bar, Lansing<br/>17.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3252209+BL%E2%96%B2CK+M%E2%96%B2SS+%E2%80%A0+SUND%E2%96%B2Y\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1289,6 +1268,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    59.94023, 
+    30.327444
+   ], 
+   "html": "<p><strong>Pur:Pur</strong><br/>Mod, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>23.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3316987+%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D0%B0+%22%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5+%D0%91.%22\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     44.950000000000003, 
     35.25
    ], 
@@ -1303,17 +1289,17 @@ var map_data = {
   }, 
   {
    "ll": [
-    48.895569000000002, 
-    2.3924020000000001
-   ], 
-   "html": "<p><strong>Redman</strong><br/>Cabaret Sauvage, Paris<br/>20.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3304256+Big+Daddy+Kane+at+Cabaret+Sauvage+on+20+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     48.895344999999999, 
     2.3921679999999999
    ], 
    "html": "<p><strong>Redman</strong><br/>Le Cabaret Sauvage, Paris<br/>20.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3307270+Redman+at+Le+Cabaret+Sauvage+on+20+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    48.895569000000002, 
+    2.3924020000000001
+   ], 
+   "html": "<p><strong>Redman</strong><br/>Cabaret Sauvage, Paris<br/>20.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3304256+Big+Daddy+Kane+at+Cabaret+Sauvage+on+20+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2112,6 +2098,13 @@ var map_data = {
     30.323046000000001
    ], 
    "html": "<p><strong>\u041b\u044f\u043f\u0438\u0441 \u0422\u0440\u0443\u0431\u0435\u0446\u043a\u043e\u0439</strong><br/>\u0413\u043b\u0430\u0432Club, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>05.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3295922+%D0%9B%D1%8F%D0%BF%D0%B8%D1%81+%D0%A2%D1%80%D1%83%D0%B1%D0%B5%D1%86%D0%BA%D0%BE%D0%B9+at+%D0%93%D0%BB%D0%B0%D0%B2Club+on+5+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.784765, 
+    37.560043
+   ], 
+   "html": "<p><strong>\u041b\u044f\u043f\u0438\u0441 \u0422\u0440\u0443\u0431\u0435\u0446\u043a\u043e\u0439</strong><br/>Arena Moscow, <br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3316922+%D0%9B%D1%8F%D0%BF%D0%B8%D1%81+%D0%A2%D1%80%D1%83%D0%B1%D0%B5%D1%86%D0%BA%D0%BE%D0%B9+at+Arena+Moscow+on+12+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
