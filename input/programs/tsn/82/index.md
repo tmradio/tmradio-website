@@ -6,6 +6,7 @@ filesize: 111945682
 duration: 5577
 labels: tsn, live, live-good, dugwin, partyzan, queue
 ---
+Текст читали dugwin и partyzan
 
 - В Британии проходит первая за 40 лет забастовка врачей
   http://www.bbc.co.uk/russian/society/2012/06/120621_britain_healthcare_boycott.shtml
