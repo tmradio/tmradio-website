@@ -4,7 +4,7 @@ date: 2012-06-21 21:06:03
 file: http://files.tmradio.net/audio/dump/20120621-210603-live.mp3
 filesize: 111945682
 duration: 5577
-labels: tsn, live, live-good, dugwin, partyzan, queue
+labels: tsn, live, live-good, dugwin, partyzan
 ---
 Текст читали dugwin и partyzan
 
