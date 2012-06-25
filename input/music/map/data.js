@@ -155,6 +155,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    50.854692, 
+    4.3663059999999998
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Botanique, Brussels<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322034+Best+Coast+at+Botanique+on+22+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     40.106689000000003, 
     -88.223506999999998
    ], 
@@ -449,6 +456,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    52.529739999999997, 
+    13.39659
+   ], 
+   "html": "<p><strong>Distemper</strong><br/>Schokoladen, Berlin<br/>08.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322611+Distemper+(sunday+matinee)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     53.544376999999997, 
     9.9478500000000007
    ], 
@@ -610,6 +624,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    52.481943880123197, 
+    -1.8965148925781199
+   ], 
+   "html": "<p><strong>El-P</strong><br/>The Rainbow Warehouse, Birmingham<br/>15.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322602+El-P+at+The+Rainbow+Warehouse+on+15+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.365214000000002, 
+    4.8812699999999998
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Melkweg, Amsterdam<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322289+El-P+at+Melkweg+on+22+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     48.868347999999997, 
     2.392217
    ], 
@@ -617,10 +645,24 @@ var map_data = {
   }, 
   {
    "ll": [
-    41.385956999999998, 
-    2.1843569999999999
+    59.337090000000003, 
+    18.072876000000001
    ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>Magatzem Escol\u00e0, Barcelona<br/>25.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3284297+Frankie+Rose+at+Magatzem+Escol%C3%A0+on+25+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>El-P</strong><br/>Scandic Anglais, Stockholm<br/>04.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322306+El-P+at+Scandic+Anglais+on+4+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.912981000000002, 
+    10.761574
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Sawol, Oslo<br/>05.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322236+El-P+at+Sawol+on+5+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    60.184196, 
+    24.959773999999999
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Kuudes Linja, Helsinki<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322307+El-P+at+Kuudes+Linja+on+6+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -900,7 +942,7 @@ var map_data = {
     39.951915999999997, 
     -75.184748999999996
    ], 
-   "html": "<p><strong>Kristin Hersh</strong><br/>World Cafe Live, Philadelphia<br/>31.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3319893+Kristin+Hersh\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Kristin Hersh</strong><br/>World Cafe Live, Philadelphia<br/>31.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3319893+Kristin+Hersh+at+World+Cafe+Live+on+31+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1180,7 +1222,7 @@ var map_data = {
     51.474831999999999, 
     -0.023362000000000001
    ], 
-   "html": "<p><strong>PIG</strong><br/>Birds Nest, Deptford<br/>01.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3270714+Regimes+last+show\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Pig</strong><br/>Birds Nest, Deptford<br/>01.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3270714+Regimes+last+show\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1237,6 +1279,13 @@ var map_data = {
     11.533996
    ], 
    "html": "<p><strong>Sequester</strong><br/>Hansa 39 (Feierwerk), 81373 M\u00fcnchen, Hansastrasse 39 \u2013 41<br/>29.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3321282+Heavy+Summerbreak+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    35.237780000000001, 
+    -119.00221999999999
+   ], 
+   "html": "<p><strong>Severed Fifth</strong><br/>USS Hornet, Alameda, CA<br/>25.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3213525+Slaughter+by+the+Water+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
