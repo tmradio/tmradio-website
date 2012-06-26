@@ -127,6 +127,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.516215000000003, 
+    -0.13533300000000001
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>100 Club, London<br/>07.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323032+Represent:+Santigold\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.904249999999998, 
     10.762104000000001
    ], 
@@ -155,6 +162,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    52.362287000000002, 
+    4.8839649999999999
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Paradiso, Amsterdam<br/>20.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323414+Best+Coast+at+Paradiso+on+20+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     50.854692, 
     4.3663059999999998
    ], 
@@ -166,6 +180,13 @@ var map_data = {
     -88.223506999999998
    ], 
    "html": "<p><strong>Best Coast</strong><br/>Canopy Club, Urbana, IL<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3282242+Pygmalion+Music+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    37.822935999999999, 
+    -122.370261
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Treasure Island, San Francisco<br/>13.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3302685+Treasure+Island+Music+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -505,13 +526,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    33.451715999999998, 
-    -112.076437
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Crescent Ballroom, Phoenix<br/>25.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3271024+El-P+at+Crescent+Ballroom+on+25+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     34.077447999999997, 
     -118.26013500000001
    ], 
@@ -631,6 +645,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    53.464044000000001, 
+    -2.2506300000000001
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Academy 3, Manchester<br/>19.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322845+El-P+at+Academy+3+on+19+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     52.365214000000002, 
     4.8812699999999998
    ], 
@@ -642,6 +663,34 @@ var map_data = {
     2.392217
    ], 
    "html": "<p><strong>El-P</strong><br/>La Maroquinerie, Paris<br/>25.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3321659+El-P+at+La+Maroquinerie+on+25+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    47.343587999999997, 
+    8.5357850000000006
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Rote Fabrik, Z\u00fcrich<br/>28.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323302+El-P+at+Rote+Fabrik+on+28+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    46.52008, 
+    6.631545
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Le Romandie, Lausanne<br/>29.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323299+El-P+at+Le+Romandie+on+29+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    56.155548000000003, 
+    10.199244
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Voxhall, \u00c5rhus C<br/>02.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322994+EL-P+@+Voxhall,+%C3%85rhus\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.673445999999998, 
+    12.596073000000001
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Loppen, K\u00f8benhavn K<br/>03.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323279+El-P+at+Loppen+on+3+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -796,6 +845,13 @@ var map_data = {
     -1.8945000000000001
    ], 
    "html": "<p><strong>Frankie Rose</strong><br/>O2 Academy 3 Birmingham, Birmingham<br/>25.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3246084+Frankie+Rose+at+O2+Academy+3+Birmingham+on+25+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.647857000000002, 
+    -2.197397
+   ], 
+   "html": "<p><strong>Frankie Rose</strong><br/>Lulworth Castle, Dorset<br/>26.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3196667+Camp+Bestival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -988,6 +1044,188 @@ var map_data = {
   }, 
   {
    "ll": [
+    37.771079, 
+    -122.412604
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>DNA Lounge, San Francisco<br/>12.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323085+My+life+with+the+thrill+kill+kult+at+DNA+Lounge+on+12+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    47.574401999999999, 
+    -122.333974
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Studio Seven, Seattle<br/>15.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323094+My+life+with+the+thrill+kill+kult+at+Studio+Seven+on+15+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    47.657421999999997, 
+    -117.41889399999999
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>A Club, Spokane, WA<br/>16.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323095+My+life+with+the+thrill+kill+kult+at+A+Club+on+16+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.740242000000002, 
+    -104.948404
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Bluebird Theater, Denver<br/>19.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323102+My+life+with+the+thrill+kill+kult+at+Bluebird+Theater+on+19+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    40.813288, 
+    -96.708129
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Knickerbockers, Lincoln<br/>20.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323103+My+life+with+the+thrill+kill+kult+at+Knickerbockers+on+20+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    38.965252, 
+    -95.235878
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>The Granada, Lawrence<br/>21.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3271539+My+Life+With+The+Thrill+Kill+Kult\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    36.154817000000001, 
+    -95.990227000000004
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>IDL Ballroom, Tulsa, Oklahoma<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323104+My+life+with+the+thrill+kill+kult+at+IDL+Ballroom+on+22+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    34.747461999999999, 
+    -92.263604000000001
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Juanita\u2019s, Little Rock, AR<br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323106+My+life+with+the+thrill+kill+kult+at+Juanita%E2%80%99s+on+23+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    32.784567000000003, 
+    -96.784339000000003
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Trees, Dallas, TX<br/>25.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299538+My+life+with+the+thrill+kill+kult+at+Trees+on+25+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    29.753927000000001, 
+    -95.364052999999998
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>House of Blues, Houston<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323110+My+life+with+the+thrill+kill+kult+at+House+of+Blues+on+27+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    30.267558999999999, 
+    -97.736760000000004
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Elysium, Austin<br/>28.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323111+My+life+with+the+thrill+kill+kult+at+Elysium+on+28+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    29.425681000000001, 
+    -98.476963999999995
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Backstage Live, San Antonio, TX<br/>29.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323116+My+life+with+the+thrill+kill+kult+at+Backstage+Live+on+29+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    35.084865999999998, 
+    -106.65489700000001
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Launchpad, Albuquerque,<br/>01.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323113+My+life+with+the+thrill+kill+kult+at+Launchpad+on+1+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    33.421441999999999, 
+    -111.89305299999999
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Club Red, Tempe<br/>02.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323115+My+life+with+the+thrill+kill+kult+at+Club+Red+on+2+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    34.062496000000003, 
+    -118.348874
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>El Rey Theatre, Los Angeles<br/>04.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323118+My+life+with+the+thrill+kill+kult+at+El+Rey+Theatre+on+4+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    43.048563000000001, 
+    -87.896061000000003
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Shank Hall, Milwaukee<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323121+My+life+with+the+thrill+kill+kult+at+Shank+Hall+on+12+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    41.885416999999997, 
+    -87.661743000000001
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Bottom Lounge, Chicago, IL<br/>13.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3305632+MY+LIFE+WITH+THE+THRILL+KILL+KULT\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    38.615271999999997, 
+    -90.196284000000006
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>The Old Rock House, St. Louis, MO<br/>14.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323152+My+life+with+the+thrill+kill+kult+at+The+Old+Rock+House+on+14+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    40.448993000000002, 
+    -79.987202999999994
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Altar Bar, Pittsburgh<br/>16.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323153+My+life+with+the+thrill+kill+kult+at+Altar+Bar+on+16+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    40.739899999999999, 
+    -73.984910999999997
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Gramercy Theatre, New York City, NY<br/>17.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323156+My+life+with+the+thrill+kill+kult+at+Gramercy+Theatre+on+17+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    40.265780999999997, 
+    -76.875500000000002
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Abbey Bar at Appalachian Brewing Company, Harrisburg, PA<br/>18.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323160+My+life+with+the+thrill+kill+kult+at+Abbey+Bar+at+Appalachian+Brewing+Company+on+18+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.973011, 
+    -75.180565999999999
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>North Star Bar, Philadelphia<br/>19.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323162+My+life+with+the+thrill+kill+kult+at+North+Star+Bar+on+19+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.292212999999997, 
+    -76.609466999999995
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Sonar, Baltimore<br/>20.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323163+My+life+with+the+thrill+kill+kult+at+Sonar+on+20+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.082689000000002, 
+    -84.509550000000004
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Madison Theater, Covington<br/>25.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323166+My+life+with+the+thrill+kill+kult+at+Madison+Theater+on+25+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.758189999999999, 
+    -84.111469
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>McGuffy's House of Rock, Dayton, OH<br/>26.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323167+My+life+with+the+thrill+kill+kult+at+McGuffy's+House+of+Rock+on+26+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    38.244565000000001, 
+    -85.727672999999996
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Phoenix Hill Tavern, Louisville, Kentucky<br/>27.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323168+My+life+with+the+thrill+kill+kult+at+Phoenix+Hill+Tavern+on+27+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     45.466666699999998, 
     7.8666666999999997
    ], 
@@ -1054,7 +1292,7 @@ var map_data = {
     59.913995999999997, 
     30.323827999999999
    ], 
-   "html": "<p><strong>Non Cadenza</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>20.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3318466+%D0%9E%D0%A2%D0%9A%D0%A0%D0%AB%D0%A2%D0%98%D0%95+%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Non Cadenza</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>20.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3318466+Non+Cadenza+at+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82+on+20+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1146,6 +1384,13 @@ var map_data = {
     13.403259
    ], 
    "html": "<p><strong>Orbital</strong><br/>Flughafen Tempelhof, Berlin<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3176952+Berlin+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.668090999999997, 
+    12.544307
+   ], 
+   "html": "<p><strong>Orbital</strong><br/>Store Vega, K\u00f8benhavn V<br/>14.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323277+Orbital+at+Store+Vega+on+14+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1286,6 +1531,13 @@ var map_data = {
     -119.00221999999999
    ], 
    "html": "<p><strong>Severed Fifth</strong><br/>USS Hornet, Alameda, CA<br/>25.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3213525+Slaughter+by+the+Water+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.906886, 
+    30.307623
+   ], 
+   "html": "<p><strong>Skafandr</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323297+Skafandr+at+%D0%97%D0%B0%D0%BB+%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+on+4+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
