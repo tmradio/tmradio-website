@@ -7,23 +7,23 @@ duration: 5399
 labels: tsn, live, live-good, dugwin, partyzan
 ---
 
-Мин. обороны предложил если кого-то надо уволить, то уволить его
- http://txt.newsru.com/russia/26jun2012/serdukov.html
+- Мин. обороны предложил если кого-то надо уволить, то уволить его
+  http://txt.newsru.com/russia/26jun2012/serdukov.html
 
-Про похищение твиттера навального
- http://txt.newsru.com/russia/27jun2012/hell.html
+- Про похищение твиттера навального
+  http://txt.newsru.com/russia/27jun2012/hell.html
 
-В Санкт-Петербурге запускается пилотный проект ночных автобусов (вдоль линий метро)
- http://gov.spb.ru/news8962.html
+- В Санкт-Петербурге запускается пилотный проект ночных автобусов (вдоль линий метро)
+  http://gov.spb.ru/news8962.html
 
-Инициатива о защите прав верующих 
- http://txt.newsru.com/religy/28jun2012/milonov.html
+- Инициатива о защите прав верующих 
+  http://txt.newsru.com/religy/28jun2012/milonov.html
 
-О разгоне встречи поклонников М. Джесона в Питере
- http://spb.rbc.ru/topnews/26/06/2012/656901.shtml
+- О разгоне встречи поклонников М. Джесона в Питере
+  http://spb.rbc.ru/topnews/26/06/2012/656901.shtml
 
-... и в Тамбове
- http://www.ridus.ru/news/37788/
+- ... и в Тамбове
+  http://www.ridus.ru/news/37788/
 
 Дополнительные ссылки:
 
