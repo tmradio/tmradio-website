@@ -7,7 +7,9 @@ duration: 5399
 labels: tsn, live, live-good, dugwin, partyzan
 ---
 
-- Мин. обороны предложил если кого-то надо уволить, то уволить его
+Текст читали dugwin и partyzan
+
+- Мин. обороны предложил его уволить
   http://txt.newsru.com/russia/26jun2012/serdukov.html
 
 - Про похищение твиттера навального
