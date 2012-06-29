@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/20120628-204938-live.png
 file: http://files.tmradio.net/audio/dump/20120628-204938-live.mp3
 filesize: 19977008
 duration: 875
-labels: live, queue
+labels: live
 ---
 Описание отсутствует.
 
