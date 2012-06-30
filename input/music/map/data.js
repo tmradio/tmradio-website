@@ -162,6 +162,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    33.193007000000001, 
+    -117.38304100000001
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Oceanside Pier Plaza Amphitheater, Oceanside<br/>16.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3326437+94-9+Independence+Jam\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     48.881467000000001, 
     2.3686479999999999
    ], 
@@ -565,20 +572,6 @@ var map_data = {
     13.930763000000001
    ], 
    "html": "<p><strong>EGOamp</strong><br/>Lausitzring, Klettwitz<br/>03.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3246683+Lausfire\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    37.787582999999998, 
-    -122.421665
-   ], 
-   "html": "<p><strong>El-P</strong><br/>The Regency Ballroom, San Francisco CA<br/>29.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3285580+Mr.+Muthafuckin'+eXquire+at+The+Regency+Ballroom+on+29+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    45.511949999999999, 
-    -122.623126
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Hawthorne Theatre, Portland<br/>30.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3294771+El-P+at+Hawthorne+Theatre+on+30+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1331,13 +1324,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    47.374685999999997, 
-    8.5341100000000001
-   ], 
-   "html": "<p><strong>Messer Chups</strong><br/>El Lokal, Z\u00fcrich<br/>30.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3268237+Messer+Chups+at+El+Lokal+on+30+June+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.672978000000001, 
     37.659329
    ], 
@@ -1548,13 +1534,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.257238000000001, 
-    21.036186000000001
-   ], 
-   "html": "<p><strong>Plug&Play</strong><br/>Sen Pszczo\u0142y, Warszawa<br/>29.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3321660+PLUG-PLAY+%7C%7C+after:+Hrabia-\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     44.950000000000003, 
     35.25
    ], 
@@ -1580,13 +1559,6 @@ var map_data = {
     -74.175573
    ], 
    "html": "<p><strong>Redman</strong><br/>PNC Bank Arts Center, New Jersey<br/>01.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3303612+Rock+the+Bells+2012+@+Holmdel,+NJ\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    39.421768999999998, 
-    -77.410096999999993
-   ], 
-   "html": "<p><strong>Revelation</strong><br/>Cafe 611, Frederick, Maryland<br/>30.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3273343+HEINZMANN+BENEFIT+II\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2220,13 +2192,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    59.977466, 
-    30.271526999999999
-   ], 
-   "html": "<p><strong>\u0411\u0440\u0430\u0432\u043e</strong><br/>\u0426\u041f\u041a\u0438\u041e (\u0415\u043b\u0430\u0433\u0438\u043d \u043e\u0441\u0442\u0440\u043e\u0432), \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>30.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3275667+%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0+Jazz+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.853566000000001, 
     30.302975
    ], 
@@ -2308,13 +2273,6 @@ var map_data = {
     37.590634000000001
    ], 
    "html": "<p><strong>\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b</strong><br/>\u0422\u0435\u0430\u0442\u0440 \u0421\u0442\u0430\u0441\u0430 \u041d\u0430\u043c\u0438\u043d\u0430 (\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0442\u0435\u0430\u0442\u0440), <br/>27.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3295855+%D0%9D%D0%BE%D1%87%D0%BD%D1%8B%D0%B5+%D0%A1%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80%D1%8B\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.957006, 
-    30.343188000000001
-   ], 
-   "html": "<p><strong>\u0423\u043d\u0434\u0435\u0440\u0432\u0443\u0434</strong><br/>\u0426\u041a\u0417 \"\u0410\u0432\u0440\u043e\u0440\u0430\", \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>29.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3255255+%D0%A3%D0%BD%D0%B4%D0%B5%D1%80%D0%B2%D1%83%D0%B4\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
