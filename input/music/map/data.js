@@ -246,13 +246,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.525388, 
-    13.398382
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>About Blank, Berlin<br/>07.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3312341+Get+Deep+with+Dan+Snaith+aka+Caribou,+Floating+Points+and+Many+More+at+:--about+blank\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     43.834347000000001, 
     4.3590260000000001
    ], 
@@ -512,13 +505,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.787118999999997, 
-    37.616039999999998
-   ], 
-   "html": "<p><strong>Distemper</strong><br/>Plan B, <br/>01.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3280916+Distemper+at+Plan+B+on+1+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     53.335538999999997, 
     11.46509
    ], 
@@ -572,13 +558,6 @@ var map_data = {
     13.930763000000001
    ], 
    "html": "<p><strong>EGOamp</strong><br/>Lausitzring, Klettwitz<br/>03.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3246683+Lausfire\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    47.613897000000001, 
-    -122.31955600000001
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Neumos, Seattle<br/>01.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3271069+El-P+at+Neumos+on+1+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -782,13 +761,6 @@ var map_data = {
     24.959773999999999
    ], 
    "html": "<p><strong>El-P</strong><br/>Kuudes Linja, Helsinki<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322307+El-P+at+Kuudes+Linja+on+6+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    51.454518999999998, 
-    -0.12249
-   ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>The Windmill Brixton, London<br/>01.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300970+Frankie+Rose\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1006,13 +978,6 @@ var map_data = {
     4.4659709999999997
    ], 
    "html": "<p><strong>K2</strong><br/>Boerderij, Zoetermeer<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3197693+iO+Pages+Progfestival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.94023, 
-    30.327444
-   ], 
-   "html": "<p><strong>Kirov</strong><br/>Mod, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>30.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3186955+Museon+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2000,13 +1965,6 @@ var map_data = {
     9.25
    ], 
    "html": "<p><strong>To Leave A Trace</strong><br/>Freakstock, Borgentreich<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3260598+Freakstock\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    51.984296000000001, 
-    5.9055900000000001
-   ], 
-   "html": "<p><strong>Unreal</strong><br/>Willemeen, Arnhem<br/>30.06.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3315467+Summerjam+2012+by+Forms+and+Strike+Back\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
