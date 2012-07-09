@@ -127,6 +127,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    37.510767999999999, 
+    -8.7035649999999993
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Festival Sudoeste, Zambujeira do Mar<br/>05.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3332056+SW+TMN\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.516215000000003, 
     -0.13533300000000001
    ], 
@@ -544,13 +551,6 @@ var map_data = {
     13.930763000000001
    ], 
    "html": "<p><strong>EGOamp</strong><br/>Lausitzring, Klettwitz<br/>03.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3246683+Lausfire\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    42.280411000000001, 
-    -83.751118000000005
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Blind Pig, Ann Arbor<br/>08.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3280803+El-P+at+Blind+Pig+on+8+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1254,6 +1254,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    31.198605000000001, 
+    121.42286199999999
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Mao Livehouse, Shanghai<br/>17.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3332260+Mono+at+Mao+Livehouse+on+17+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     30.587478000000001, 
     114.298269
    ], 
@@ -1478,13 +1485,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    59.934010999999998, 
-    30.366228
-   ], 
-   "html": "<p><strong>Skafandr</strong><br/>\u0426\u043e\u043a\u043e\u043b\u044c, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>09.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3329888+Skafandr+at+%D0%A6%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C+on+9+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.906886, 
     30.307623
    ], 
@@ -1572,7 +1572,7 @@ var map_data = {
     60.168698999999997, 
     24.932941
    ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Tavastia, Helsinki<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3329560+Sonata+Arctica\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Sonata Arctica</strong><br/>Tavastia, Helsinki<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3329560+Sonata+Arctica+at+Tavastia+on+27+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
