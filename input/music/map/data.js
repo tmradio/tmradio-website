@@ -99,13 +99,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.126766000000003, 
-    -92.685130000000001
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Somerset Amphitheater, Somerset, Wisconsin<br/>27.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3258946+SoundTown+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     33.675733999999999, 
     -118.001473
    ], 
@@ -194,6 +187,13 @@ var map_data = {
     -122.370261
    ], 
    "html": "<p><strong>Best Coast</strong><br/>Treasure Island, San Francisco<br/>13.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3302685+Treasure+Island+Music+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -23.533333299999999, 
+    -46.616666700000003
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Jockey Club, S\u00e3o Paulo<br/>20.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3301586+Planeta+Terra+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -491,13 +491,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    53.544376999999997, 
-    9.9478500000000007
-   ], 
-   "html": "<p><strong>Distemper</strong><br/>Hafenklang, Hamburg<br/>10.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3315767+Distemper+at+Hafenklang+on+10+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     49.394120000000001, 
     14.693987
    ], 
@@ -540,13 +533,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.427227000000002, 
-    -75.689340999999999
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Ritual Nightclub, Ottawa<br/>10.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3333236+Into+the+Wild+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     42.351784000000002, 
     -71.119549000000006
    ], 
@@ -562,9 +548,9 @@ var map_data = {
   {
    "ll": [
     40.734839999999998, 
-    -73.988287999999997
+    -73.988376000000002
    ], 
-   "html": "<p><strong>El-P</strong><br/>Irving Plaza, New York, NY<br/>13.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3319680+El-P+at+Irving+Plaza+on+13+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>El-P</strong><br/>Irving Plaza, New York<br/>13.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3319680+El-P+at+Irving+Plaza+on+13+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -719,13 +705,6 @@ var map_data = {
     24.959773999999999
    ], 
    "html": "<p><strong>El-P</strong><br/>Kuudes Linja, Helsinki<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322307+El-P+at+Kuudes+Linja+on+6+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    53.549410000000002, 
-    9.9662000000000006
-   ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>Molotow, Hamburg<br/>11.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3231470+Frankie+Rose+at+Molotow+on+11+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1422,6 +1401,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    50.294736, 
+    18.807410000000001
+   ], 
+   "html": "<p><strong>Radogost</strong><br/>CK Wiatrak, Zabrze<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3305608+Percival+Schuttenbach+at+CK+Wiatrak+on+7+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    49.817453, 
+    19.045646000000001
+   ], 
+   "html": "<p><strong>Radogost</strong><br/>RudeBoy, Bielsko-Bia\u0142a<br/>09.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3306097+Percival+Schuttenbach+at+RudeBoy+on+9+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     34.076396000000003, 
     -118.25607100000001
    ], 
@@ -1769,6 +1762,13 @@ var map_data = {
     10.417604000000001
    ], 
    "html": "<p><strong>Talco</strong><br/>Bad Windsheim, 91438 Bad Windsheim<br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3315717+Weinturm+Open-Air\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.086604000000001, 
+    8.7156549999999999
+   ], 
+   "html": "<p><strong>Talco</strong><br/>Ausstellungsgel\u00e4nde, Tarmstedt<br/>11.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3125984+Rock+den+Lukas\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
