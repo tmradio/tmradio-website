@@ -8,6 +8,13 @@ var map_data = {
  "markers": [
   {
    "ll": [
+    41.885416999999997, 
+    -87.661743000000001
+   ], 
+   "html": "<p><strong>16Volt</strong><br/>Bottom Lounge, Chicago, IL<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3336248+COLD+WAVES+A+JAMIE+DUFFY+MEMORIAL+CONCERT\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.721598, 
     37.647739000000001
    ], 
@@ -96,6 +103,13 @@ var map_data = {
     -87.653989999999993
    ], 
    "html": "<p><strong>Best Coast</strong><br/>Vic Theatre, Chicago<br/>27.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3223283+Best+Coast+at+Vic+Theatre+on+27+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    44.969574999999999, 
+    -93.247304999999997
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Cedar Cultural Center, Minneapolis<br/>27.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3336713+Best+Coast+at+Cedar+Cultural+Center+on+27+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -477,13 +491,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    40.734839999999998, 
-    -73.988376000000002
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Irving Plaza, New York<br/>13.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3319680+El-P+at+Irving+Plaza+on+13+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     39.953704999999999, 
     -75.156532999999996
    ], 
@@ -642,20 +649,6 @@ var map_data = {
     24.959773999999999
    ], 
    "html": "<p><strong>El-P</strong><br/>Kuudes Linja, Helsinki<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322307+El-P+at+Kuudes+Linja+on+6+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    61.883055599999999, 
-    13.75
-   ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>Debaser Slussen, Stockholm<br/>13.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3310587+Frankie+Rose+at+Debaser+Slussen+on+13+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.595134999999999, 
-    13.012915
-   ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>Debaser, Malm\u00f6<br/>14.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3306067+Frankie+Rose+at+Debaser+on+14+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1135,6 +1128,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    47.620075, 
+    -122.347221
+   ], 
+   "html": "<p><strong>minusbaby</strong><br/>The Funhouse, Seattle<br/>30.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3336173+crashfaster+at+The+Funhouse+on+30+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     36.933333300000001, 
     138.81666670000001
    ], 
@@ -1390,13 +1390,6 @@ var map_data = {
     52.948101000000001, 
     -1.1493979999999999
    ], 
-   "html": "<p><strong>Slim</strong><br/>Jongleurs, Nottingham<br/>13.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299967+Friday+night+comedy\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.948101000000001, 
-    -1.1493979999999999
-   ], 
    "html": "<p><strong>Slim</strong><br/>Jongleurs, Nottingham<br/>14.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299960+Saturday+night+comedy\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
@@ -1475,6 +1468,13 @@ var map_data = {
     23.776693000000002
    ], 
    "html": "<p><strong>Sonata Arctica</strong><br/>Pakkahuone, Tampere<br/>28.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3327938+Sonata+Arctica\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    63.216666699999998, 
+    22.850000000000001
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Sibelius-talo, Lahti<br/>29.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3336598+Sonata+Arctica+at+Sibelius-talo+on+29+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1835,13 +1835,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    59.977466, 
-    30.271526999999999
-   ], 
-   "html": "<p><strong>Zorge</strong><br/>\u0426\u041f\u041a\u0438\u041e (\u0415\u043b\u0430\u0433\u0438\u043d \u043e\u0441\u0442\u0440\u043e\u0432), \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>14.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3238117+Stereoleto+2012+-+Stereo%D0%94%D0%95%D0%9D%D0%AC\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.934010999999998, 
     30.366228
    ], 
@@ -2090,7 +2083,7 @@ var map_data = {
     55.764288000000001, 
     37.564399999999999
    ], 
-   "html": "<p><strong>\u0423\u043d\u0434\u0435\u0440\u0432\u0443\u0434</strong><br/>16 Tons, <br/>31.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3318473+%D0%A3%D0%BD%D0%B4%D0%B5%D1%80%D0%B2%D1%83%D0%B4+at+16+Tons+on+31+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>\u0423\u043d\u0434\u0435\u0440\u0432\u0443\u0434</strong><br/>16 Tons, <br/>01.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3318473+%D0%A3%D0%BD%D0%B4%D0%B5%D1%80%D0%B2%D1%83%D0%B4+at+16+Tons+on+1+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
