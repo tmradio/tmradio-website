@@ -36,13 +36,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    38.918039, 
-    -77.023632000000006
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>9:30 Club, Washington DC<br/>14.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3223853+Best+Coast+at+9:30+Club+on+14+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     39.961615999999999, 
     -75.155351999999993
    ], 
@@ -491,13 +484,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    39.953704999999999, 
-    -75.156532999999996
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Trocadero Theatre, Philadelphia<br/>14.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3273271+El-P+at+Trocadero+Theatre+on+14+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     38.900086999999999, 
     -76.986573000000007
    ], 
@@ -866,6 +852,13 @@ var map_data = {
     -75.550276999999994
    ], 
    "html": "<p><strong>Kristin Hersh</strong><br/>World Cafe Live at the Queen, Wilmington, Delaware<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3319007+Kristin+Hersh+at+World+Cafe+Live+at+the+Queen+on+1+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    47.608449, 
+    -122.337785
+   ], 
+   "html": "<p><strong>Kristin Hersh</strong><br/>Triple Door, Seattle, WA<br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3336791+Kristin+Hersh+at+Triple+Door+on+24+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1310,6 +1303,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    55.764288000000001, 
+    37.564399999999999
+   ], 
+   "html": "<p><strong>Paradox</strong><br/>16 Tons, <br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3337054+Secret+Operations+at+16+Tons+on+6+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     46.066666699999999, 
     23.5833333
    ], 
@@ -1384,13 +1384,6 @@ var map_data = {
     30.307623
    ], 
    "html": "<p><strong>Skafandr</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323297+Skafandr+at+%D0%97%D0%B0%D0%BB+%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+on+4+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.948101000000001, 
-    -1.1493979999999999
-   ], 
-   "html": "<p><strong>Slim</strong><br/>Jongleurs, Nottingham<br/>14.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299960+Saturday+night+comedy\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
