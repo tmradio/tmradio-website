@@ -470,6 +470,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    34.089602999999997, 
+    -117.290758
+   ], 
+   "html": "<p><strong>El-P</strong><br/>National Orange Show Events Center, San Bernardino<br/>18.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3289303+Rock+the+Bells+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     28.542984000000001, 
     -81.379178999999993
    ], 
@@ -617,13 +624,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.927826000000003, 
-    6.9401149999999996
-   ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>Blue Shell, K\u00f6ln<br/>17.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3232103+Frankie+Rose+at+Blue+Shell+on+17+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     52.360188000000001, 
     4.8654060000000001
    ], 
@@ -684,13 +684,6 @@ var map_data = {
     -75.170829999999995
    ], 
    "html": "<p><strong>Frankie Rose</strong><br/>Prospect Park, Brooklyn<br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3283439+Little+Dragon+at+Prospect+Park+on+10+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    51.515515999999998, 
-    -0.062260000000000003
-   ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>Shoreditch Park, London<br/>01.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3259526+The+1-2-3-4+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1082,7 +1075,7 @@ var map_data = {
     47.620075, 
     -122.347221
    ], 
-   "html": "<p><strong>minusbaby</strong><br/>The Funhouse, Seattle<br/>30.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3336173+Rockage+Pre-PAX+Showcase\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>minusbaby</strong><br/>The Funhouse, Seattle<br/>30.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3336173+Route+XIX+West+Coast+Tour:+Rockage+Pre-PAX+Showcase\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1765,6 +1758,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    52.251624999999997, 
+    20.896283
+   ], 
+   "html": "<p><strong>Theodor Bastard</strong><br/>Progresja, Warszawa<br/>22.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339148+Theodor+Bastard+at+Progresja+on+22+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.734738, 
     26.240417000000001
    ], 
@@ -1786,6 +1786,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    48.128749999999997, 
+    11.534409999999999
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>Feierwerk, M\u00fcnchen<br/>17.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339556+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    47.398691999999997, 
+    8.0636969999999994
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>Kiff, Aarau<br/>18.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339560+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     50.949089999999998, 
     6.9100900000000003
    ], 
@@ -1797,6 +1811,41 @@ var map_data = {
     -0.13514599999999999
    ], 
    "html": "<p><strong>Vildhjarta</strong><br/>Audio, Brighton<br/>21.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3337768+Euroblast+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.456460999999997, 
+    -0.97459200000000001
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>Sub89, Reading<br/>22.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339563+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.409126999999998, 
+    -2.9771049999999999
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>O2 Academy Liverpool, Liverpool<br/>23.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3337814+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.858688000000001, 
+    -4.2570129999999997
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>The Cathouse, Glasgow<br/>24.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339565+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.480733000000001, 
+    -1.8945000000000001
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>O2 Academy 3 Birmingham, Birmingham<br/>27.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339568+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.539295000000003, 
+    -0.14279
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>The Underworld, Camden<br/>28.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339571+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1814,6 +1863,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.943967000000001, 
+    7.6381860000000001
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>Sputnikhalle, M\u00fcnster<br/>31.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339573+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.911924999999997, 
+    10.745362999999999
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>Sub Scene, Oslo<br/>01.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339551+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     57.702916000000002, 
     11.961695000000001
    ], 
@@ -1828,10 +1891,38 @@ var map_data = {
   }, 
   {
    "ll": [
+    55.770311, 
+    12.499814000000001
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>Templet, Kongens Lyngby<br/>07.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339575+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.500629000000004, 
+    13.44473
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>Magnet Club, Berlin<br/>08.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339577+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.075301000000003, 
+    14.457615000000001
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>HooDoo Music Club, Praha<br/>10.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339580+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     47.509678999999998, 
     19.08961
    ], 
    "html": "<p><strong>Vildhjarta</strong><br/>D\u00fcrer-kert, Budapest<br/>11.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3337401+Euroblast+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    48.187280999999999, 
+    16.412927
+   ], 
+   "html": "<p><strong>Vildhjarta</strong><br/>Arena, Wien<br/>12.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339581+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2070,6 +2161,13 @@ var map_data = {
     23.811332
    ], 
    "html": "<p><strong>\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438</strong><br/>Dzintaru koncertz\u0101le, J\u016brmala<br/>24.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3264992+%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%92%D0%BE%D0%BB%D0%BD%D0%B0+2012'\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    56.872067999999999, 
+    60.519039999999997
+   ], 
+   "html": "<p><strong>\u041c\u0435\u043b\u044c\u043d\u0438\u0446\u0430</strong><br/>\u0434\u043a \u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u0438\u043a\u043e\u0432, \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433<br/>24.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339816+%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D0%B0+%22%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D0%BE%D1%84%D1%80%D0%B5%D0%BD%D0%B8%D1%8F%22\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
