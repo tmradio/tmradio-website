@@ -113,6 +113,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    48.422355000000003, 
+    -123.362999
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Various Locations Downtown Victoria, Victoria, BC<br/>13.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3277238+Rifflandia\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     33.193007000000001, 
     -117.38304100000001
    ], 
@@ -603,6 +610,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    25.774446000000001, 
+    -80.176163000000003
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Celebrity Silhouette, Fort Lauderdale, FL<br/>19.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3342046+S.S.+Coachella\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.872410000000002, 
     -4.2731960000000004
    ], 
@@ -988,13 +1002,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.466666699999998, 
-    7.8666666999999997
-   ], 
-   "html": "<p><strong>Lumen</strong><br/>Chiaverano, <br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3147270+A+Night+Like+This+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.913995999999997, 
     30.323827999999999
    ], 
@@ -1027,13 +1034,6 @@ var map_data = {
     2.3396059999999999
    ], 
    "html": "<p><strong>Malakwa</strong><br/>Divan du Monde, Paris<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299977+THE+LAST+CUMSHOT+TOUR\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.672978000000001, 
-    37.659329
-   ], 
-   "html": "<p><strong>Messer Chups</strong><br/>\u041a\u043e\u043b\u043e\u043c\u0435\u043d\u0441\u043a\u043e\u0435, <br/>21.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3112889+Afisha+Picnic+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1139,6 +1139,13 @@ var map_data = {
     -7.1527778
    ], 
    "html": "<p><strong>Orbital</strong><br/>Stradbally Estate, Co Laois<br/>31.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3112516+Electric+Picnic+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.343992882234197, 
+    -6.273193359375
+   ], 
+   "html": "<p><strong>Orbital</strong><br/>Stradbally Hall, Dublin<br/>31.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3342266+Electric+Picnic\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1751,6 +1758,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    35.773854999999998, 
+    -78.637416999999999
+   ], 
+   "html": "<p><strong>Trouble Andrew</strong><br/>Lincoln Theatre, Raleigh<br/>15.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342052+Yelawolf+at+Lincoln+Theatre+on+15+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     50.352114, 
     15.913681
    ], 
@@ -2245,6 +2259,13 @@ var map_data = {
     30.307623
    ], 
    "html": "<p><strong>\u0422\u0430\u0442\u044c\u044f\u043d\u0430 \u0417\u044b\u043a\u0438\u043d\u0430</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3276804+%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0+%D0%97%D1%8B%D0%BA%D0%B8%D0%BD%D0%B0+at+%D0%97%D0%B0%D0%BB+%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+on+12+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.758012000000001, 
+    37.603861000000002
+   ], 
+   "html": "<p><strong>\u0422\u0435\u043d\u0438 \u0421\u0432\u043e\u0431\u043e\u0434\u044b</strong><br/>TBA, \u041c\u043e\u0441\u043a\u0432\u0430<br/>13.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3220968+Banner+Pilot+at+TBA+on+13+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
