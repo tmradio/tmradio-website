@@ -29,13 +29,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    39.997455000000002, 
-    -83.007512000000006
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Newport Music Hall, Columbus<br/>23.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3223320+Best+Coast+at+Newport+Music+Hall+on+23+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     41.679578999999997, 
     -81.340714000000006
    ], 
@@ -390,13 +383,6 @@ var map_data = {
     -0.115206
    ], 
    "html": "<p><strong>Caribou</strong><br/>O2 Academy Brixton, London<br/>02.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3282259+Four+Tet+-+Caribou+B2B\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    38.580295, 
-    -121.493453
-   ], 
-   "html": "<p><strong>Chromeo</strong><br/>Cesar Chavez Park, Sacramento<br/>23.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3304096+Launch+Sacramento\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1156,13 +1142,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    53.343992882234197, 
-    -6.273193359375
-   ], 
-   "html": "<p><strong>Orbital</strong><br/>Stradbally Hall, Dublin<br/>31.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3342266+Electric+Picnic\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.739345, 
     -1.3264579999999999
    ], 
@@ -1271,7 +1250,7 @@ var map_data = {
     51.474831999999999, 
     -0.023362000000000001
    ], 
-   "html": "<p><strong>Pig</strong><br/>Birds Nest, Deptford<br/>01.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3270714+Regimes+last+show\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Pig</strong><br/>Birds Nest, London<br/>01.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3270714+Regimes+Farewell+Show\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1422,6 +1401,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    65.002623999999997, 
+    25.470938
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Club Teatria, Oulu<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3343342+Sonata+Arctica+at+Club+Teatria+on+6+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     52.251624999999997, 
     20.896283
    ], 
@@ -1538,6 +1524,13 @@ var map_data = {
     17.659967999999999
    ], 
    "html": "<p><strong>Sonata Arctica</strong><br/>Zimn\u00ed stadion Lu\u010fka \u010cajky, Zl\u00edn<br/>24.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3311303+Winter+Masters+of+Rock\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    47.440592000000002, 
+    19.036936000000001
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Club 202, Budapest<br/>25.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3343271+Sonata+Arctica+at+Club+202+on+25+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2245,6 +2238,13 @@ var map_data = {
     30.343188000000001
    ], 
    "html": "<p><strong>\u0422\u0430\u0440\u0430\u043a\u0430\u043d\u044b!</strong><br/>\u0426\u041a\u0417 \"\u0410\u0432\u0440\u043e\u0440\u0430\", \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>31.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3325881+%D0%A2%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D1%8B!+at+%D0%A6%D0%9A%D0%97+%22%D0%90%D0%B2%D1%80%D0%BE%D1%80%D0%B0%22+on+31+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.811176000000003, 
+    37.497782999999998
+   ], 
+   "html": "<p><strong>\u0422\u0430\u0440\u0430\u043a\u0430\u043d\u044b!</strong><br/>Live Music Hall, \u041c\u043e\u0441\u043a\u0432\u0430<br/>29.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3343227+%D0%A2%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D1%8B!+at+Live+Music+Hall+on+29+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
