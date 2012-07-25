@@ -1,6 +1,6 @@
 var map_data = {
  "bounds": [
-  -38.549999999999997, 
+  -42.822817999999998, 
   65.016666700000002, 
   -123.935024, 
   174.77394100000001
@@ -26,20 +26,6 @@ var map_data = {
     12.37238
    ], 
    "html": "<p><strong>Alpha Point</strong><br/>Werk II, Leipzig<br/>29.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3333034+3.+Darkflower+Live+Night\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    41.679578999999997, 
-    -81.340714000000006
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Beachland Ballroom And Tavern, Cleveland<br/>24.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3223290+Best+Coast+at+Beachland+Ballroom+And+Tavern+on+24+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    43.074565999999997, 
-    -89.380977999999999
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Majestic Theatre, Madison<br/>25.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3223255+Best+Coast+at+Majestic+Theatre+on+25+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -169,6 +155,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    -42.822817999999998, 
+    147.840845
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Marion Bay, Hobart<br/>29.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3344948+The+Falls+Music+-+Art+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     -31.933333300000001, 
     115.83333330000001
    ], 
@@ -218,13 +211,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    51.531813999999997, 
-    -0.122309
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>Waiting Rooms, London<br/>26.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3270681+Rocketnumbernine+-+Caribou+(DJ+Set)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     36.933333300000001, 
     138.81666670000001
    ], 
@@ -250,6 +236,13 @@ var map_data = {
     19.047193
    ], 
    "html": "<p><strong>Caribou</strong><br/>Dolina Trzech Staw\u00f3w, Katowice<br/>23.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2036575+Tauron+Nowa+Muzyka+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.015555599999999, 
+    -7.1527778
+   ], 
+   "html": "<p><strong>Caribou</strong><br/>Stradbally Estate, Co Laois<br/>31.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3112516+Electric+Picnic+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -452,7 +445,7 @@ var map_data = {
     55.721598, 
     37.647739000000001
    ], 
-   "html": "<p><strong>Distemper</strong><br/>P!PL, <br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342716+%D0%94%D0%B5%D0%BD%D1%8C+%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Distemper</strong><br/>P!PL, <br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342716+Distemper+%E2%80%94+%D0%94%D0%B5%D0%BD%D1%8C+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -488,6 +481,13 @@ var map_data = {
     -84.280829999999995
    ], 
    "html": "<p><strong>El-P</strong><br/>Florida State University - Oglesby Union Green, Tallahassee, FL<br/>25.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3328045+Last+Call+Before+Fall\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.739345, 
+    -1.3264579999999999
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Robin Hill, Isle of Wight<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2067992+Bestival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -645,13 +645,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.480733000000001, 
-    -1.8945000000000001
-   ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>O2 Academy 3 Birmingham, Birmingham<br/>25.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3246084+Frankie+Rose+at+O2+Academy+3+Birmingham+on+25+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.647857000000002, 
     -2.197397
    ], 
@@ -698,6 +691,13 @@ var map_data = {
     37.389907999999998
    ], 
    "html": "<p><strong>Gorky Park</strong><br/>Crocus City Hall, <br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3234570+Gorky+Park+at+Crocus+City+Hall+on+18+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    43.038074000000002, 
+    -87.943308000000002
+   ], 
+   "html": "<p><strong>Hoodie Allen</strong><br/>Eagles Club/The Rave/Eagles Ballroom, Milwaukee<br/>18.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3345340+Hoodie+Allen+at+Eagles+Club-The+Rave-Eagles+Ballroom+on+18+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1107,6 +1107,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    30.309833000000001, 
+    -81.655018999999996
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Jack Rabbits, Jacksonville<br/>19.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3345212+Mono+at+Jack+Rabbits+on+19+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.787118999999997, 
     37.616039999999998
    ], 
@@ -1181,6 +1188,13 @@ var map_data = {
     12.544307
    ], 
    "html": "<p><strong>Orbital</strong><br/>Store Vega, K\u00f8benhavn V<br/>14.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323277+Orbital+at+Store+Vega+on+14+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.314660000000003, 
+    18.072778
+   ], 
+   "html": "<p><strong>Orbital</strong><br/>Debaser Medis, Stockholm<br/>15.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3344981+Orbital+at+Debaser+Medis+on+15+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2185,13 +2199,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    56.977635999999997, 
-    23.811332
-   ], 
-   "html": "<p><strong>\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438</strong><br/>Dzintaru koncertz\u0101le, J\u016brmala<br/>24.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3264992+%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%92%D0%BE%D0%BB%D0%BD%D0%B0+2012%27\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     56.872067999999999, 
     60.519039999999997
    ], 
@@ -2217,13 +2224,6 @@ var map_data = {
     30.307623
    ], 
    "html": "<p><strong>\u041c\u0443\u043b\u044c\u0442f\u0438\u043b\u044c\u043c\u044b</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>11.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3314207+%D0%9C%D1%83%D0%BB%D1%8C%D1%82f%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B+at+%D0%97%D0%B0%D0%BB+%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+on+11+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    56.977635999999997, 
-    23.811332
-   ], 
-   "html": "<p><strong>\u041d\u0435\u043f\u0440\u0438\u043a\u0430\u0441\u0430\u0435\u043c\u044b\u0435</strong><br/>Dzintaru koncertz\u0101le, J\u016brmala<br/>24.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3264992+%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F+%D0%92%D0%BE%D0%BB%D0%BD%D0%B0+2012%27\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
