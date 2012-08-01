@@ -29,20 +29,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    33.675733999999999, 
-    -118.001473
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Huntington Beach Pier, <br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3325063+Best+Coast+at+Huntington+Beach+Pier+on+1+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    37.526331999999996, 
-    -8.7853340000000006
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Herdade da Casa Branca, Zambujeira do Mar<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3217479+Sudoeste+TMN+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     51.516215000000003, 
     -0.13533300000000001
    ], 
@@ -743,13 +729,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    39.951915999999997, 
-    -75.184748999999996
-   ], 
-   "html": "<p><strong>Kristin Hersh</strong><br/>World Cafe Live, Philadelphia<br/>31.07.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3319893+Kristin+Hersh+at+World+Cafe+Live+on+31+July+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     39.741126000000001, 
     -75.550276999999994
    ], 
@@ -1352,6 +1331,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    55.764288000000001, 
+    37.564399999999999
+   ], 
+   "html": "<p><strong>Non Cadenza</strong><br/>16 Tons, <br/>11.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3350410+%D0%9E%D0%A2%D0%9A%D0%A0%D0%AB%D0%A2%D0%98%D0%95+%D1%81%D0%B5%D0%B7%D0%BE%D0%BD%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     -23.585984, 
     -46.681176000000001
    ], 
@@ -1800,13 +1786,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.128225, 
-    36.905625000000001
-   ], 
-   "html": "<p><strong>Talco</strong><br/>\u041a\u0443\u0431\u0430\u043d\u0430, \u041f\u043e\u0441\u0435\u043b\u043e\u043a \u042f\u043d\u0442\u0430\u0440\u044c (\u0412\u0435\u0441\u0435\u043b\u043e\u0432\u043a\u0430), \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3127520+Kubana+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     49.502333, 
     10.417604000000001
    ], 
@@ -2248,13 +2227,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.128225, 
-    36.905625000000001
-   ], 
-   "html": "<p><strong>\u0411\u0440\u0430\u0432\u043e</strong><br/>\u041a\u0443\u0431\u0430\u043d\u0430, \u041f\u043e\u0441\u0435\u043b\u043e\u043a \u042f\u043d\u0442\u0430\u0440\u044c (\u0412\u0435\u0441\u0435\u043b\u043e\u0432\u043a\u0430), \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3127520+Kubana+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.913995999999997, 
     30.323827999999999
    ], 
@@ -2304,24 +2276,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.128225, 
-    36.905625000000001
-   ], 
-   "html": "<p><strong>\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434</strong><br/>\u041a\u0443\u0431\u0430\u043d\u0430, \u041f\u043e\u0441\u0435\u043b\u043e\u043a \u042f\u043d\u0442\u0430\u0440\u044c (\u0412\u0435\u0441\u0435\u043b\u043e\u0432\u043a\u0430), \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3127520+Kubana+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.082518999999998, 
     8.7761589999999998
    ], 
    "html": "<p><strong>\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434</strong><br/>Stadthalle Offenbach, Frankfurt am Main<br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3327517+PEEPL-ROCK\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    45.128225, 
-    36.905625000000001
-   ], 
-   "html": "<p><strong>\u041b\u044f\u043f\u0438\u0441 \u0422\u0440\u0443\u0431\u0435\u0446\u043a\u043e\u0439</strong><br/>\u041a\u0443\u0431\u0430\u043d\u0430, \u041f\u043e\u0441\u0435\u043b\u043e\u043a \u042f\u043d\u0442\u0430\u0440\u044c (\u0412\u0435\u0441\u0435\u043b\u043e\u0432\u043a\u0430), \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3127520+Kubana+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2416,13 +2374,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.128225, 
-    36.905625000000001
-   ], 
-   "html": "<p><strong>\u0422\u0430\u0440\u0430\u043a\u0430\u043d\u044b!</strong><br/>\u041a\u0443\u0431\u0430\u043d\u0430, \u041f\u043e\u0441\u0435\u043b\u043e\u043a \u042f\u043d\u0442\u0430\u0440\u044c (\u0412\u0435\u0441\u0435\u043b\u043e\u0432\u043a\u0430), \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3127520+Kubana+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.957006, 
     30.343188000000001
    ], 
@@ -2469,13 +2420,6 @@ var map_data = {
     37.603960999999998
    ], 
    "html": "<p><strong>\u0427\u0438\u0436 & Co</strong><br/>\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0425\u043e\u043b\u043b, \u041c\u043e\u0441\u043a\u0432\u0430<br/>17.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3348490+%D0%A7%D0%B8%D0%B6+-+Co+at+%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%8F+%D0%A5%D0%BE%D0%BB%D0%BB+on+17+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    45.128225, 
-    36.905625000000001
-   ], 
-   "html": "<p><strong>\u042d\u043b\u0438\u0437\u0438\u0443\u043c</strong><br/>\u041a\u0443\u0431\u0430\u043d\u0430, \u041f\u043e\u0441\u0435\u043b\u043e\u043a \u042f\u043d\u0442\u0430\u0440\u044c (\u0412\u0435\u0441\u0435\u043b\u043e\u0432\u043a\u0430), \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439<br/>01.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3127520+Kubana+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
