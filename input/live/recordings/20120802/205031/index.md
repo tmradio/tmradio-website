@@ -4,7 +4,7 @@ illustration: http://files.tmradio.net/audio/dump/20120802-205031-live.png
 file: http://files.tmradio.net/audio/dump/20120802-205031-live.mp3
 filesize: 460944
 duration: 28
-labels: live, queue
+labels: live
 ---
 Описание отсутствует.
 
