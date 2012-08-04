@@ -3,7 +3,7 @@ var map_data = {
   -42.822817999999998, 
   65.002623999999997, 
   -123.362999, 
-  174.77394100000001
+  147.840845
  ], 
  "markers": [
   {
@@ -344,13 +344,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    34.063806, 
-    -118.235646
-   ], 
-   "html": "<p><strong>Chromeo</strong><br/>Los Angeles State Historic Park, Los Angeles, CA<br/>03.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3173615+Hard+Summer+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     49.878098999999999, 
     -123.247461
    ], 
@@ -614,13 +607,6 @@ var map_data = {
     -3.1666666999999999
    ], 
    "html": "<p><strong>I'm From Barcelona</strong><br/>Manoir de Keroual, Brest<br/>16.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3248816+Astropolis\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    46.042189, 
-    14.502523
-   ], 
-   "html": "<p><strong>Inner Terrestrials</strong><br/>KUD France Pre\u0161eren, Ljubljana<br/>03.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3347699+Inner+Terrestrials+at+KUD+France+Pre%C5%A1eren+on+3+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1492,6 +1478,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    59.437232999999999, 
+    24.742495000000002
+   ], 
+   "html": "<p><strong>Rainman</strong><br/>Von Krahl, Tallinn<br/>16.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3352694+Bassi%C3%B5htu+Esitleb\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     -37.796559000000002, 
     144.97855200000001
    ], 
@@ -1807,13 +1800,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    51.416567999999998, 
-    5.6723540000000003
-   ], 
-   "html": "<p><strong>The Gathering</strong><br/>Nirwana, Lierop<br/>03.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3177157+Nirwana+Tuinfeest\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     53.224504000000003, 
     6.5639760000000003
    ], 
@@ -1839,13 +1825,6 @@ var map_data = {
     4.6292580000000001
    ], 
    "html": "<p><strong>The Gathering</strong><br/>Patronaat, Haarlem<br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3253030+The+Gathering+(Always+line-up)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    -36.846984999999997, 
-    174.77394100000001
-   ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Vector Arena, Auckland<br/>04.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3278674+Smashing+Pumpkins+Oceania+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
