@@ -165,7 +165,7 @@ var map_data = {
     55.784765, 
     37.560043
    ], 
-   "html": "<p><strong>Brainstorm</strong><br/>Arena Moscow, <br/>20.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300065+Brainstorm+at+Arena+Moscow+on+20+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Brainstorm</strong><br/>Arena Moscow, \u041c\u043e\u0441\u043a\u0432\u0430<br/>20.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300065+Brainstorm+at+Arena+Moscow+on+20+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -621,13 +621,6 @@ var map_data = {
     37.564399999999999
    ], 
    "html": "<p><strong>InWhite</strong><br/>16 Tons, <br/>09.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3291179+%D0%91%D0%B8-2+at+16+Tons+on+9+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    47.5, 
-    19.0833333
-   ], 
-   "html": "<p><strong>K2</strong><br/>\u00d3budai-Sziget, Budapest<br/>05.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/1952971+Sziget+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1744,13 +1737,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.686419999999998, 
-    12.583909
-   ], 
-   "html": "<p><strong>Steffi</strong><br/>Culture Box, Copenhagen<br/>04.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3337530+Steffi+at+Culture+Box+on+4+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     49.502333, 
     10.417604000000001
    ], 
@@ -2097,7 +2083,7 @@ var map_data = {
     51.500729, 
     -0.19156599999999999
    ], 
-   "html": "<p><strong>\u0411\u0438-2</strong><br/>Kensington Roof Gardens, London<br/>11.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3328251+Red+Rocks+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>\u0411\u0438-2</strong><br/>Kensington Roof Gardens, London<br/>11.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3328251+Red+Rocks+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2181,7 +2167,7 @@ var map_data = {
     55.784765, 
     37.560043
    ], 
-   "html": "<p><strong>\u0411\u0440\u0430\u0432\u043e</strong><br/>Arena Moscow, <br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3298656+%D0%91%D1%80%D0%B0%D0%B2%D0%BE+at+Arena+Moscow+on+17+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>\u0411\u0440\u0430\u0432\u043e</strong><br/>Arena Moscow, \u041c\u043e\u0441\u043a\u0432\u0430<br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3298656+%D0%91%D1%80%D0%B0%D0%B2%D0%BE+at+Arena+Moscow+on+17+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2258,7 +2244,7 @@ var map_data = {
     55.784765, 
     37.560043
    ], 
-   "html": "<p><strong>\u041b\u044f\u043f\u0438\u0441 \u0422\u0440\u0443\u0431\u0435\u0446\u043a\u043e\u0439</strong><br/>Arena Moscow, <br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3316922+%D0%9B%D1%8F%D0%BF%D0%B8%D1%81+%D0%A2%D1%80%D1%83%D0%B1%D0%B5%D1%86%D0%BA%D0%BE%D0%B9+at+Arena+Moscow+on+12+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>\u041b\u044f\u043f\u0438\u0441 \u0422\u0440\u0443\u0431\u0435\u0446\u043a\u043e\u0439</strong><br/>Arena Moscow, \u041c\u043e\u0441\u043a\u0432\u0430<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3316922+%D0%9B%D1%8F%D0%BF%D0%B8%D1%81+%D0%A2%D1%80%D1%83%D0%B1%D0%B5%D1%86%D0%BA%D0%BE%D0%B9+at+Arena+Moscow+on+12+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
