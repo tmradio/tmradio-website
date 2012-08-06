@@ -596,6 +596,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    44.964126, 
+    -93.247245000000007
+   ], 
+   "html": "<p><strong>Hoodie Allen</strong><br/>The Cabooze, Minneapolis MN<br/>16.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3353797+Hoodie+Allen+at+The+Cabooze+on+16+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     43.038074000000002, 
     -87.943308000000002
    ], 
@@ -621,6 +628,13 @@ var map_data = {
     37.564399999999999
    ], 
    "html": "<p><strong>InWhite</strong><br/>16 Tons, <br/>09.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3291179+%D0%91%D0%B8-2+at+16+Tons+on+9+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.723239999999997, 
+    -2.53708
+   ], 
+   "html": "<p><strong>K2</strong><br/>Lydney Town Hall, Lydney, Gloucestershire<br/>28.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3353794+Summer%27s+End+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1824,7 +1838,7 @@ var map_data = {
     46.066666699999999, 
     23.5833333
    ], 
-   "html": "<p><strong>Theodor Bastard</strong><br/>Ryma, Alba Iulia<br/>17.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2043873+Dark+Bombastic+Evening+4\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Theodor Bastard</strong><br/>Ryma, Alba Iulia<br/>17.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2043873+Dark+Bombastic+Evening\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1853,6 +1867,69 @@ var map_data = {
     -78.637416999999999
    ], 
    "html": "<p><strong>Trouble Andrew</strong><br/>Lincoln Theatre, Raleigh<br/>15.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342052+Yelawolf+at+Lincoln+Theatre+on+15+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.751536999999999, 
+    19.505782
+   ], 
+   "html": "<p><strong>[unknown]</strong><br/>TBA, \u0141\u00f3d\u017a<br/>05.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3245527+Nordland+Art+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.259295000000002, 
+    14.489990000000001
+   ], 
+   "html": "<p><strong>[unknown]</strong><br/>Gryfi\u0144ski Dom Kultury, Gryfino<br/>21.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3294933+VII+Gryfi%C5%84ski+Festiwal+Miejsc+i+Podr%C3%B3%C5%BCy+%22W%C5%82%C3%B3czykij%22\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.163884000000003, 
+    21.047374999999999
+   ], 
+   "html": "<p><strong>[unknown]</strong><br/>Kampus Szko\u0142y G\u0142\u00f3wnej Gospodarstwa Wiejskiego, Warsaw<br/>30.05.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3346016+Warsaw+Student+Festival+Ursynalia+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.057617999999998, 
+    19.91328
+   ], 
+   "html": "<p><strong>[unknown]</strong><br/>Krakowskie B\u0142onia, Krak\u00f3w<br/>07.06.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3303224+Burn+Selector+Festival+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    54.524903000000002, 
+    18.538305000000001
+   ], 
+   "html": "<p><strong>[unknown]</strong><br/>Lotnisko Gdynia-Kosakowo, Gdynia<br/>03.07.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3327851+Heineken+Open%27er+Festival+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.549999999999997, 
+    19.699999999999999
+   ], 
+   "html": "<p><strong>[unknown]</strong><br/>Pla\u017ca nad Wis\u0142\u0105, P\u0142ock<br/>26.07.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3348742+Audioriver+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    54.5, 
+    18.550000000000001
+   ], 
+   "html": "<p><strong>[unknown]</strong><br/>Kolibki, Gdynia<br/>26.07.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3348745+Globaltica+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.244365000000002, 
+    19.047193
+   ], 
+   "html": "<p><strong>[unknown]</strong><br/>Dolina Trzech Staw\u00f3w, Katowice<br/>01.08.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3351647+OFF+Festival+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.244365000000002, 
+    19.047193
+   ], 
+   "html": "<p><strong>[unknown]</strong><br/>Dolina Trzech Staw\u00f3w, Katowice<br/>01.08.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3350808+OFF+Festival+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2126,13 +2203,6 @@ var map_data = {
     24.119216999999999
    ], 
    "html": "<p><strong>\u0411\u0438-2</strong><br/>Ar\u0113na R\u012bga, R\u012bga<br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3223618+%D0%91%D0%B8-2\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    56.968001999999998, 
-    24.121257
-   ], 
-   "html": "<p><strong>\u0411\u0438-2</strong><br/>Ar\u0113na R\u012bga, \u0420\u0438\u0433\u0430<br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3266399+%22%D0%91%D0%B8-2%22+Spirit+tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
