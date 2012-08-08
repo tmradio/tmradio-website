@@ -169,13 +169,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    60.186349, 
-    24.976665000000001
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>Suvilahti, Helsinki<br/>08.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3128107+Flow+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     36.713048000000001, 
     -6.0440699999999996
    ], 
@@ -1863,13 +1856,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.352114, 
-    15.913681
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Vojensk\u00e1 pevnost Josefov, Jarom\u011b\u0159-Josefov<br/>08.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2026413+Brutal+Assault+XVII\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     48.128749999999997, 
     11.534409999999999
    ], 
@@ -2322,13 +2308,6 @@ var map_data = {
     -73.603161
    ], 
    "html": "<p><strong>\u041f\u0438\u043a\u043d\u0438\u043a</strong><br/>Th\u00e9\u00e2tre plaza, Montr\u00e9al<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3340912+%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA+at+Th%C3%A9%C3%A2tre+plaza+on+22+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.569657999999997, 
-    38.212352000000003
-   ], 
-   "html": "<p><strong>\u041f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u043e\u0432</strong><br/>\u0420\u0430\u043d\u0447\u043e, \u041b\u044b\u0442\u043a\u0430\u0440\u0438\u043d\u043e<br/>18.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3352087+%D0%90%D1%80%D1%82-%D0%92%D0%BE%D0%BB%D0%BA%D1%83%D1%88%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
