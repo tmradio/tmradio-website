@@ -99,6 +99,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    -34.611350000000002, 
+    -58.358379999999997
+   ], 
+   "html": "<p><strong>Best Coast</strong><br/>Costanera Sur, Buenos Aires<br/>18.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3353112+Pepsi+Music+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     -23.533333299999999, 
     -46.616666700000003
    ], 
@@ -124,13 +131,6 @@ var map_data = {
     115.83333330000001
    ], 
    "html": "<p><strong>Best Coast</strong><br/>Sir Stewart Bovell Park, Busselton, Western Australia<br/>04.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3328036+Southbound+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    58.8333333, 
-    15.9166667
-   ], 
-   "html": "<p><strong>Bonfire</strong><br/>Rejmyre, <br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3107962+Skogsr%C3%B6jet+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -547,13 +547,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    42.344169999999998, 
-    -75.170829999999995
-   ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>Prospect Park, Brooklyn<br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3283439+Little+Dragon+at+Prospect+Park+on+10+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.739345, 
     -1.3264579999999999
    ], 
@@ -628,20 +621,6 @@ var map_data = {
     4.4659709999999997
    ], 
    "html": "<p><strong>K2</strong><br/>Boerderij, Zoetermeer<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3197693+iO+Pages+Progfestival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.518250000000002, 
-    13.471539999999999
-   ], 
-   "html": "<p><strong>KMFDM</strong><br/>K17, Berlin<br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3276582+KMFDM+at+K17+on+10+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.176197000000002, 
-    9.9515320000000003
-   ], 
-   "html": "<p><strong>KMFDM</strong><br/>Flugplatz Hildesheim, Hildesheim<br/>11.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2034471+M%E2%80%99era+Luna+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1261,13 +1240,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    59.94023, 
-    30.327444
-   ], 
-   "html": "<p><strong>Neonim</strong><br/>Mod, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3349498+FEODOQ\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.913995999999997, 
     30.323827999999999
    ], 
@@ -1786,10 +1758,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    25.055422, 
-    121.61716800000001
+    25.681466, 
+    -100.290048
    ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Taipei World Trade Center Hall 2 (Taipei Show Hall 2), Taipei<br/>10.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3357072+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Arena Monterrey, Monterrey<br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3358072+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1804,6 +1776,13 @@ var map_data = {
     23.5833333
    ], 
    "html": "<p><strong>Theodor Bastard</strong><br/>Ryma, Alba Iulia<br/>17.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2043873+Dark+Bombastic+Evening\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.410021, 
+    16.93431
+   ], 
+   "html": "<p><strong>Theodor Bastard</strong><br/>Klub Fabrika, Pozna\u0144<br/>21.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3358330+THEODOR+BASTARD+(RUS)+w+Fabrice\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2049,13 +2028,6 @@ var map_data = {
     55.96435546875
    ], 
    "html": "<p><strong>\u0410\u0440\u0442\u0443\u0440 \u0411\u0435\u0440\u043a\u0443\u0442</strong><br/>\u0420\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u00ab\u041e\u0433\u043d\u0438 \u0423\u0444\u044b\u00bb, \u00ab\u041a\u043e\u043b\u0438\u0437\u0435\u043e\u00bb, \u0423\u0444\u0430<br/>15.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3199527+DMC+FEST+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    51.500729, 
-    -0.19156599999999999
-   ], 
-   "html": "<p><strong>\u0411\u0438-2</strong><br/>Kensington Roof Gardens, London<br/>11.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3328251+Red+Rocks+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
