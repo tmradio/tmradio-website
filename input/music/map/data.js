@@ -116,7 +116,7 @@ var map_data = {
     -38.549999999999997, 
     143.96666669999999
    ], 
-   "html": "<p><strong>Best Coast</strong><br/>Lorne Falls Festival Site, Lorne, Victoria<br/>28.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3328146+The+Falls+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Best Coast</strong><br/>Lorne Falls Festival Site, Lorne, Victoria<br/>28.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3328146+The+Falls+Music+-+Arts+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1692,13 +1692,6 @@ var map_data = {
     5.092867
    ], 
    "html": "<p><strong>St. Paul</strong><br/>013, Tilburg<br/>01.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3356823+Loos:+An+Evening+With...+DJ+St.+Paul+-+Friends\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    53.086604000000001, 
-    8.7156549999999999
-   ], 
-   "html": "<p><strong>Talco</strong><br/>Ausstellungsgel\u00e4nde, Tarmstedt<br/>11.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3125984+Rock+den+Lukas\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
