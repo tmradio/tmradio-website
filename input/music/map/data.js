@@ -316,17 +316,17 @@ var map_data = {
   }, 
   {
    "ll": [
+    59.906886, 
+    30.307623
+   ], 
+   "html": "<p><strong>Cheese People</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>25.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361251+Cheese+People+at+%D0%97%D0%B0%D0%BB+%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+on+25+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     49.878098999999999, 
     -123.247461
    ], 
    "html": "<p><strong>Chromeo</strong><br/>Squamish Valley, Whistler(, BC)<br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3271549+Live+At+Squamish+2012+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    49.992092, 
-    14.407923
-   ], 
-   "html": "<p><strong>Discoballs</strong><br/>Klub Ba\u017eina, Praha<br/>15.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3277031+Ska+Party+w-+Overweight+(BEL)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -596,6 +596,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    -23.697734000000001, 
+    -46.550969000000002
+   ], 
+   "html": "<p><strong>I'm From Barcelona</strong><br/>Cine Metr\u00f3pole, S\u00e3o Paulo<br/>28.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361315+Jack+Daniel%27s+Birthday+Party+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.529200000000003, 
     9.9339200000000005
    ], 
@@ -785,6 +792,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    32.768481000000001, 
+    -117.201035
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Brick by Brick, San Diego<br/>05.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361333+My+Life+With+The+Thrill+Kill+Kult+at+Brick+by+Brick+on+5+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     34.155600999999997, 
     -118.134254
    ], 
@@ -841,10 +855,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    39.292212999999997, 
-    -76.609466999999995
+    39.400925000000001, 
+    -76.602193
    ], 
-   "html": "<p><strong>Left Spine Down</strong><br/>Sonar, Baltimore<br/>20.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323163+My+Life+With+The+Thrill+Kill+Kult+at+Sonar+on+20+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Left Spine Down</strong><br/>APR 13 Recher Theatre, Townson (Baltimore), MD<br/>20.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361334+My+Life+With+The+Thrill+Kill+Kult+at+APR+13+Recher+Theatre+on+20+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1237,6 +1251,13 @@ var map_data = {
     -75.136027999999996
    ], 
    "html": "<p><strong>Mono</strong><br/>Kung Fu Necktie, Philadelphia<br/>27.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346478+Mono+at+Kung+Fu+Necktie+on+27+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.525955000000003, 
+    13.411160000000001
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Babylon Berlin: Mitte, Berlin<br/>11.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3354044+Mono+at+Babylon+Berlin:+Mitte+on+11+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1790,6 +1811,13 @@ var map_data = {
     20.896283
    ], 
    "html": "<p><strong>Theodor Bastard</strong><br/>Progresja, Warszawa<br/>22.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339148+Theodor+Bastard+at+Progresja+on+22+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.734738, 
+    26.240417000000001
+   ], 
+   "html": "<p><strong>Theodor Bastard</strong><br/>Zaraso sala, Zarasai<br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3257867+M%C4%97nuo+Juodaragis+XV\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
