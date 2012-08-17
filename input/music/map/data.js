@@ -501,7 +501,7 @@ var map_data = {
     55.673445999999998, 
     12.596073000000001
    ], 
-   "html": "<p><strong>El-P</strong><br/>Loppen, K\u00f8benhavn<br/>03.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323279+El-P+at+Loppen+on+3+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>El-P</strong><br/>Loppen, K\u00f8benhavn K<br/>03.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323279+El-P+at+Loppen+on+3+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -589,13 +589,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    47.966666699999998, 
-    -3.1666666999999999
-   ], 
-   "html": "<p><strong>I'm From Barcelona</strong><br/>Manoir de Keroual, Brest<br/>16.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3248816+Astropolis\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     -23.697734000000001, 
     -46.550969000000002
    ], 
@@ -628,13 +621,6 @@ var map_data = {
     4.4659709999999997
    ], 
    "html": "<p><strong>K2</strong><br/>Boerderij, Zoetermeer<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3197693+iO+Pages+Progfestival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.927241000000002, 
-    6.9395059999999997
-   ], 
-   "html": "<p><strong>KMFDM</strong><br/>Luxor, K\u00f6ln<br/>16.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3349052+KMFDM+at+Luxor+on+16+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -929,13 +915,6 @@ var map_data = {
     -122.347221
    ], 
    "html": "<p><strong>minusbaby</strong><br/>The Funhouse, Seattle<br/>30.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3336173+Route+XIX:+Seattle+%5BRockage+Pre-PAX+Showcase%5D\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    31.198605000000001, 
-    121.42286199999999
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Mao Livehouse, Shanghai<br/>17.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3332260+Mono+at+Mao+Livehouse+on+17+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1261,6 +1240,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    52.195905000000003, 
+    20.996151999999999
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Hydrozagadka, Warszawa<br/>13.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3349973+Mono+at+Hydrozagadka+on+13+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.913995999999997, 
     30.323827999999999
    ], 
@@ -1447,13 +1433,6 @@ var map_data = {
     14.894169
    ], 
    "html": "<p><strong>Radogost</strong><br/>Milovice - leti\u0161t\u011b, Milovice<br/>21.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3211446+Rockstone+Bohemia\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.437232999999999, 
-    24.742495000000002
-   ], 
-   "html": "<p><strong>Rainman</strong><br/>Von Krahl, Tallinn<br/>16.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3352694+Bassi%C3%B5htu+Esitleb\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1733,13 +1712,6 @@ var map_data = {
     34.089336000000003, 
     -118.268552
    ], 
-   "html": "<p><strong>The Entrance Band</strong><br/>The Satellite, Los Angeles<br/>16.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3302638+THE+ENTRANCE+BAND+August+residency\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    34.089336000000003, 
-    -118.268552
-   ], 
    "html": "<p><strong>The Entrance Band</strong><br/>The Satellite, Los Angeles<br/>23.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3302640+THE+ENTRANCE+BAND+August+residency\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
@@ -1790,13 +1762,6 @@ var map_data = {
     -100.290048
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Arena Monterrey, Monterrey<br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3358072+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    46.066666699999999, 
-    23.5833333
-   ], 
-   "html": "<p><strong>Theodor Bastard</strong><br/>Ryma, Alba Iulia<br/>17.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2043873+Dark+Bombastic+Evening\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
