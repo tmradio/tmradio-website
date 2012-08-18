@@ -365,13 +365,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    34.089602999999997, 
-    -117.290758
-   ], 
-   "html": "<p><strong>El-P</strong><br/>National Orange Show Events Center, San Bernardino<br/>18.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3289303+Rock+the+Bells+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     28.542984000000001, 
     -81.379178999999993
    ], 
@@ -1240,13 +1233,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.195905000000003, 
-    20.996151999999999
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Hydrozagadka, Warszawa<br/>13.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3349973+Mono+at+Hydrozagadka+on+13+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.913995999999997, 
     30.323827999999999
    ], 
@@ -1748,6 +1734,13 @@ var map_data = {
     4.6292580000000001
    ], 
    "html": "<p><strong>The Gathering</strong><br/>Patronaat, Haarlem<br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3253030+The+Gathering+(Always+line-up)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.437185999999997, 
+    5.4802730000000004
+   ], 
+   "html": "<p><strong>The Gathering</strong><br/>Dynamo, Eindhoven<br/>01.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3364367+The+Gathering+-+support\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2308,6 +2301,13 @@ var map_data = {
     37.603960999999998
    ], 
    "html": "<p><strong>\u0427\u0438\u0436 & Co</strong><br/>\u0418\u0437\u0432\u0435\u0441\u0442\u0438\u044f \u0425\u043e\u043b\u043b, \u041c\u043e\u0441\u043a\u0432\u0430<br/>17.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3348490+%D0%A7%D0%B8%D0%B6+-+Co+at+%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%8F+%D0%A5%D0%BE%D0%BB%D0%BB+on+17+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    56.971497999999997, 
+    24.161200999999998
+   ], 
+   "html": "<p><strong>\u0427\u0438\u0447\u0435\u0440\u0438\u043d\u0430</strong><br/>Godvil, R\u012bga<br/>19.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3364430+%D0%A7%D0%B8%D1%87%D0%B5%D1%80%D0%B8%D0%BD%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
