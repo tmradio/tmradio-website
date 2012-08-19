@@ -589,13 +589,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    51.529200000000003, 
-    9.9339200000000005
-   ], 
-   "html": "<p><strong>Inner Terrestrials</strong><br/>JuzI, G\u00f6ttingen<br/>18.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3283494+30+Jahre+JUZI-Open+Air\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     51.723239999999997, 
     -2.53708
    ], 
@@ -614,13 +607,6 @@ var map_data = {
     4.4659709999999997
    ], 
    "html": "<p><strong>K2</strong><br/>Boerderij, Zoetermeer<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3197693+iO+Pages+Progfestival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    51.195444999999999, 
-    4.3793990000000003
-   ], 
-   "html": "<p><strong>KMFDM</strong><br/>Zappa, Antwerp<br/>18.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3252337+KMFDM+-+Amnesia+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1233,6 +1219,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    52.195905000000003, 
+    20.996151999999999
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Hydrozagadka, Warszawa<br/>13.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3349973+Mono+at+Hydrozagadka+on+13+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.913995999999997, 
     30.323827999999999
    ], 
@@ -1279,6 +1272,13 @@ var map_data = {
     13.403259
    ], 
    "html": "<p><strong>Orbital</strong><br/>Flughafen Tempelhof, Berlin<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3176952+Berlin+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    49.280112000000003, 
+    -123.121692
+   ], 
+   "html": "<p><strong>Orbital</strong><br/>Vogue Theatre, Vancouver<br/>26.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3364661+Orbital+at+Vogue+Theatre+on+26+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
