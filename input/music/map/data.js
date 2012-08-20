@@ -494,7 +494,7 @@ var map_data = {
     55.673445999999998, 
     12.596073000000001
    ], 
-   "html": "<p><strong>El-P</strong><br/>Loppen, K\u00f8benhavn K<br/>03.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323279+El-P+at+Loppen+on+3+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>El-P</strong><br/>Loppen, K\u00f8benhavn<br/>03.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323279+El-P+at+Loppen+on+3+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -621,6 +621,13 @@ var map_data = {
     12.432594
    ], 
    "html": "<p><strong>KMFDM</strong><br/>Kulturpark Deutzen, Deutzen, Sachsen<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2046663+Nocturnal+Culture+Night+7\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    45.551439999999999, 
+    -122.675848
+   ], 
+   "html": "<p><strong>Kristin Hersh</strong><br/>Mississippi Studios, Portland, OR<br/>23.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365188+Kristin+Hersh+at+Mississippi+Studios+on+23+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1530,6 +1537,13 @@ var map_data = {
     62.898484000000003, 
     27.660907999999999
    ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Kuopio-halli, Kuopio<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365080+HARD+DAYS+NIGHT-+Kovan+P%C3%A4iv%C3%A4n+Ilta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    62.898484000000003, 
+    27.660907999999999
+   ], 
    "html": "<p><strong>Sonata Arctica</strong><br/>Kuopio-halli, Kuopio<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3362762+Kovan+P%C3%A4iv%C3%A4n+Ilta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
@@ -1755,6 +1769,27 @@ var map_data = {
     -100.290048
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Arena Monterrey, Monterrey<br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3358072+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    49.893697000000003, 
+    -97.143062999999998
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>MTS Centre, Winnipeg<br/>02.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365767+The+Smashing+Pumpkins+at+MTS+Centre+on+2+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.038254000000002, 
+    -114.05262999999999
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Scotiabank Saddledome, Calgary<br/>04.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365812+CJAY+92+presents+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    43.643929, 
+    -79.379305000000002
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Air Canada Centre, Toronto<br/>25.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365130+The+Smashing+Pumpkins+at+Air+Canada+Centre+on+25+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
