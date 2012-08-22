@@ -316,6 +316,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    37.771079, 
+    -122.412604
+   ], 
+   "html": "<p><strong>Carved Souls</strong><br/>DNA Lounge, San Francisco<br/>30.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3367344+Theory+Of+Revolution+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.906886, 
     30.307623
    ], 
@@ -362,6 +369,13 @@ var map_data = {
     -73.740234375
    ], 
    "html": "<p><strong>Dope Stars Inc.</strong><br/>Piranha Bar, Montr\u00e9al<br/>25.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3338500+Dope+Stars+Inc.+at+Piranha+Bar+on+25+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.415900999999998, 
+    6.7533260000000004
+   ], 
+   "html": "<p><strong>EGOamp</strong><br/>Pulp, Duisburg<br/>08.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/2079553+DE-VISION+-+ROCKETS+-+SWORDS+TOUR+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -516,6 +530,13 @@ var map_data = {
     24.959773999999999
    ], 
    "html": "<p><strong>El-P</strong><br/>Kuudes Linja, Helsinki<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322307+El-P+at+Kuudes+Linja+on+6+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    48.128749999999997, 
+    11.534409999999999
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Feierwerk, M\u00fcnchen<br/>09.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3367149+El-P+at+Feierwerk+on+9+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1551,14 +1572,14 @@ var map_data = {
     62.898484000000003, 
     27.660907999999999
    ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Kuopio-halli, Kuopio<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365080+HARD+DAYS+NIGHT-+Kovan+P%C3%A4iv%C3%A4n+Ilta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Sonata Arctica</strong><br/>Kuopio-halli, Kuopio<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3362762+Kovan+P%C3%A4iv%C3%A4n+Ilta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
     62.898484000000003, 
     27.660907999999999
    ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Kuopio-halli, Kuopio<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3362762+Kovan+P%C3%A4iv%C3%A4n+Ilta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Sonata Arctica</strong><br/>Kuopio-halli, Kuopio<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365080+HARD+DAYS+NIGHT-+Kovan+P%C3%A4iv%C3%A4n+Ilta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1786,6 +1807,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    19.488246, 
+    -99.173321999999999
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Arena Ciudad de M\u00e9xico, Distrito Federal<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3360432+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     19.498068, 
     -99.174493999999996
    ], 
@@ -1807,6 +1835,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    49.893428, 
+    -97.143741000000006
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>MTS Centre, Winnipeg, MB<br/>02.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361297+Smashing+Pumpkins+at+MTS+Centre+on+2+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.038254000000002, 
     -114.05262999999999
    ], 
@@ -1825,13 +1860,6 @@ var map_data = {
     -73.570881999999997
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Centre Bell, <br/>28.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365422+The+Smashing+Pumpkins+at+Centre+Bell+on+28+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.410080000000001, 
-    16.934325000000001
-   ], 
-   "html": "<p><strong>Theodor Bastard</strong><br/>Fabrika, Pozna\u0144<br/>21.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3358330+THEODOR+BASTARD+(RUS)+w+Fabrice\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1978,7 +2006,7 @@ var map_data = {
     52.500629000000004, 
     13.44473
    ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Magnet Club, Berlin<br/>08.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339577+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Vildhjarta</strong><br/>Magnet Club, Berlin<br/>08.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339577+Euroblast+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
