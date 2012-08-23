@@ -379,6 +379,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    25.780660000000001, 
+    -80.193758000000003
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Grand Central, Miami, FL<br/>23.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3368294+El-P+at+Grand+Central+on+23+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     28.542984000000001, 
     -81.379178999999993
    ], 
@@ -607,6 +614,13 @@ var map_data = {
     -46.550969000000002
    ], 
    "html": "<p><strong>I'm From Barcelona</strong><br/>Cine Metr\u00f3pole, S\u00e3o Paulo<br/>28.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361315+Jack+Daniel%27s+Birthday+Party+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.426600999999998, 
+    -0.13028899999999999
+   ], 
+   "html": "<p><strong>Juliet Kelly</strong><br/>Hideaway, London<br/>08.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3368800+Nicola+Emmanuelle+-+Juliet+Kelly+sing+Ella,+Sarah+and+Billie\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -890,6 +904,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    62.891779, 
+    27.681552
+   ], 
+   "html": "<p><strong>Machinae Supremacy</strong><br/>Henry's Pub, Kuopio<br/>24.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3368798+Machinae+Supremacy+at+Henry%27s+Pub+on+24+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.946350000000002, 
     30.232282999999999
    ], 
@@ -922,13 +943,6 @@ var map_data = {
     -122.347221
    ], 
    "html": "<p><strong>minusbaby</strong><br/>The Funhouse, Seattle<br/>30.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3336173+Route+XIX:+Seattle+%5BRockage+Pre-PAX+Showcase%5D\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    22.315805999999998, 
-    114.21592099999999
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Hidden Agenda, Kowloon<br/>23.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3324395+Mono+Live+in+Hong+Kong+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1254,6 +1268,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    59.915331000000002, 
+    10.751250000000001
+   ], 
+   "html": "<p><strong>Mono</strong><br/>John Dee, Oslo<br/>21.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3368827+Mono+at+John+Dee+on+21+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.158352999999998, 
+    5.1694579999999997
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Various Locations, Utrecht<br/>29.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3303867+Le+Guess+Who-+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.913995999999997, 
     30.323827999999999
    ], 
@@ -1272,13 +1300,6 @@ var map_data = {
     -46.681176000000001
    ], 
    "html": "<p><strong>Opus 23</strong><br/>Manifesto Bar, S\u00e3o Paulo<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3334560+THORHAMMERFEST+VI\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    47.454011000000001, 
-    8.5365710000000004
-   ], 
-   "html": "<p><strong>Orbital</strong><br/>Festivalgel\u00e4nde, R\u00fcmlang<br/>23.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3199800+Z%C3%BCrich+Openair+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1572,14 +1593,14 @@ var map_data = {
     62.898484000000003, 
     27.660907999999999
    ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Kuopio-halli, Kuopio<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3362762+Kovan+P%C3%A4iv%C3%A4n+Ilta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Sonata Arctica</strong><br/>Kuopio-halli, Kuopio<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365080+HARD+DAYS+NIGHT-+Kovan+P%C3%A4iv%C3%A4n+Ilta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
     62.898484000000003, 
     27.660907999999999
    ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Kuopio-halli, Kuopio<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365080+HARD+DAYS+NIGHT-+Kovan+P%C3%A4iv%C3%A4n+Ilta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Sonata Arctica</strong><br/>Kuopio-halli, Kuopio<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3362762+Kovan+P%C3%A4iv%C3%A4n+Ilta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
