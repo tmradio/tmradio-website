@@ -169,13 +169,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.244365000000002, 
-    19.047193
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>Dolina Trzech Staw\u00f3w, Katowice<br/>23.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2036575+Tauron+Nowa+Muzyka+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     53.015555599999999, 
     -7.1527778
    ], 
@@ -330,13 +323,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    49.878098999999999, 
-    -123.247461
-   ], 
-   "html": "<p><strong>Chromeo</strong><br/>Squamish Valley, Whistler(, BC)<br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3271549+Live+At+Squamish+2012+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.283333300000002, 
     14.8333333
    ], 
@@ -376,13 +362,6 @@ var map_data = {
     6.7533260000000004
    ], 
    "html": "<p><strong>EGOamp</strong><br/>Pulp, Duisburg<br/>08.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/2079553+DE-VISION+-+ROCKETS+-+SWORDS+TOUR+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    25.780660000000001, 
-    -80.193758000000003
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Grand Central, Miami, FL<br/>23.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3368294+El-P+at+Grand+Central+on+23+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -582,6 +561,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    42.352899999999998, 
+    -71.132613000000006
+   ], 
+   "html": "<p><strong>Frankie Rose</strong><br/>Brighton Music Hall, Boston MA<br/>04.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3369246+Frankie+Rose+at+Brighton+Music+Hall+on+4+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     50.538891, 
     30.484819000000002
    ], 
@@ -656,13 +642,6 @@ var map_data = {
     12.432594
    ], 
    "html": "<p><strong>KMFDM</strong><br/>Kulturpark Deutzen, Deutzen, Sachsen<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2046663+Nocturnal+Culture+Night+7\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    45.551439999999999, 
-    -122.675848
-   ], 
-   "html": "<p><strong>Kristin Hersh</strong><br/>Mississippi Studios, Portland, OR<br/>23.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365188+Kristin+Hersh+at+Mississippi+Studios+on+23+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1240,6 +1219,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.308990000000001, 
+    12.372909999999999
+   ], 
+   "html": "<p><strong>Mono</strong><br/>UT Connewitz, Leipzig<br/>10.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3369474+Mono+at+UT+Connewitz+on+10+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     52.525955000000003, 
     13.411160000000001
    ], 
@@ -1272,13 +1258,6 @@ var map_data = {
     10.751250000000001
    ], 
    "html": "<p><strong>Mono</strong><br/>John Dee, Oslo<br/>21.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3368827+Mono+at+John+Dee+on+21+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.158352999999998, 
-    5.1694579999999997
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Various Locations, Utrecht<br/>29.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3303867+Le+Guess+Who-+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1765,6 +1744,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    47.678959999999996, 
+    9.1629000000000005
+   ], 
+   "html": "<p><strong>Talco</strong><br/>Kulturladen, Konstanz<br/>22.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3369429+Talco+at+Kulturladen+on+22+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.721598, 
     37.647739000000001
    ], 
@@ -1881,13 +1867,6 @@ var map_data = {
     -73.570881999999997
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Centre Bell, <br/>28.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365422+The+Smashing+Pumpkins+at+Centre+Bell+on+28+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.734738, 
-    26.240417000000001
-   ], 
-   "html": "<p><strong>Theodor Bastard</strong><br/>Zaraso sala, Zarasai<br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3257867+M%C4%97nuo+Juodaragis+XV\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2203,6 +2182,13 @@ var map_data = {
     37.560043
    ], 
    "html": "<p><strong>\u0411\u0440\u0430\u0432\u043e</strong><br/>Arena Moscow, \u041c\u043e\u0441\u043a\u0432\u0430<br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3298656+%D0%91%D1%80%D0%B0%D0%B2%D0%BE+at+Arena+Moscow+on+17+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.754738000000003, 
+    37.634666000000003
+   ], 
+   "html": "<p><strong>\u0412\u0430\u0441\u044f \u041e\u0431\u043b\u043e\u043c\u043e\u0432</strong><br/>China-Town-Cafe, \u041c\u043e\u0441\u043a\u0432\u0430<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3369463+%D0%92%D0%B0%D1%81%D1%8F+%D0%9E%D0%B1%D0%BB%D0%BE%D0%BC%D0%BE%D0%B2+at+China-Town-Cafe+on+7+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
