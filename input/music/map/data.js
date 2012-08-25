@@ -365,20 +365,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    28.542984000000001, 
-    -81.379178999999993
-   ], 
-   "html": "<p><strong>El-P</strong><br/>The Beacham, Orlando<br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3335897+El-P+at+The+Beacham+on+24+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    30.43806, 
-    -84.280829999999995
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Florida State University - Oglesby Union Green, Tallahassee, FL<br/>25.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3328045+Last+Call+Before+Fall\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.739345, 
     -1.3264579999999999
    ], 
@@ -582,6 +568,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    38.615271999999997, 
+    -90.196284000000006
+   ], 
+   "html": "<p><strong>Hoodie Allen</strong><br/>The Old Rock House, St. Louis, MO<br/>12.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3369897+Hoodie+Allen+at+The+Old+Rock+House+on+12+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     44.964126, 
     -93.247245000000007
    ], 
@@ -642,13 +635,6 @@ var map_data = {
     12.432594
    ], 
    "html": "<p><strong>KMFDM</strong><br/>Kulturpark Deutzen, Deutzen, Sachsen<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2046663+Nocturnal+Culture+Night+7\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    47.608449, 
-    -122.337785
-   ], 
-   "html": "<p><strong>Kristin Hersh</strong><br/>Triple Door, Seattle, WA<br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3336791+Kristin+Hersh+at+Triple+Door+on+24+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -922,13 +908,6 @@ var map_data = {
     -122.347221
    ], 
    "html": "<p><strong>minusbaby</strong><br/>The Funhouse, Seattle<br/>30.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3336173+Route+XIX:+Seattle+%5BRockage+Pre-PAX+Showcase%5D\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    25.039166699999999, 
-    121.52500000000001
-   ], 
-   "html": "<p><strong>Mono</strong><br/>The Wall, T'ai-pei<br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346483+Mono+at+The+Wall+on+24+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1247,6 +1226,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    54.671013000000002, 
+    25.269734
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Men\u0173 fabrikas \"Loftas\", Vilnius<br/>14.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3370216+Mono+at+Men%C5%B3+fabrikas+%22Loftas%22+on+14+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.787118999999997, 
     37.616039999999998
    ], 
@@ -1254,10 +1240,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    59.915331000000002, 
-    10.751250000000001
+    59.946350000000002, 
+    30.232282999999999
    ], 
-   "html": "<p><strong>Mono</strong><br/>John Dee, Oslo<br/>21.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3368827+Mono+at+John+Dee+on+21+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Mono</strong><br/>\u0410\u0440\u043a\u0442\u0438\u043a\u0430, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3369601+Mono+at+%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B0+on+17+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1475,6 +1461,13 @@ var map_data = {
     -74.175573
    ], 
    "html": "<p><strong>Redman</strong><br/>PNC Bank Arts Center, New Jersey<br/>01.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3303612+Rock+the+Bells+2012+@+Holmdel,+NJ\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    41.353797999999998, 
+    -72.096010000000007
+   ], 
+   "html": "<p><strong>Revelation</strong><br/>El N' Gee, New London<br/>30.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3369808+Stoner+Hands+of+Doom+XII\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1755,13 +1748,6 @@ var map_data = {
     37.647739000000001
    ], 
    "html": "<p><strong>The Best Pessimist</strong><br/>P!PL, <br/>15.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3327742+Astral+Festival+%E2%84%96+3\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    34.089336000000003, 
-    -118.268552
-   ], 
-   "html": "<p><strong>The Entrance Band</strong><br/>The Satellite, Los Angeles<br/>23.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3302640+THE+ENTRANCE+BAND+August+residency\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2448,13 +2434,6 @@ var map_data = {
     30.343188000000001
    ], 
    "html": "<p><strong>\u042d\u043b\u0438\u0437\u0438\u0443\u043c</strong><br/>\u0426\u041a\u0417 \"\u0410\u0432\u0440\u043e\u0440\u0430\", \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>15.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3356758+%D0%AD%D0%BB%D0%B8%D0%B7%D0%B8%D1%83%D0%BC\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.766590999999998, 
-    37.592936999999999
-   ], 
-   "html": "<p><strong>\u042e-\u041f\u0438\u0442\u0435\u0440</strong><br/>\u04112, <br/>24.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3317663+%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2+%D0%91%D1%83%D1%82%D1%83%D1%81%D0%BE%D0%B2+at+%D0%912+on+24+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }
  ]
 };
