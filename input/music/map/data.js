@@ -631,13 +631,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    37.766590999999998, 
-    -122.430404
-   ], 
-   "html": "<p><strong>Kristin Hersh</strong><br/>Caf\u00e9 du Nord, San Francisco<br/>26.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3313029+Kristin+Hersh+at+Caf%C3%A9+du+Nord+on+26+August+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     34.067427000000002, 
     -118.27207
    ], 
@@ -890,13 +883,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    37.771079, 
-    -122.412604
-   ], 
-   "html": "<p><strong>minusbaby</strong><br/>DNA Lounge, San Francisco<br/>26.08.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3341251+Route+XIX:+San+Francisco\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     47.620075, 
     -122.347221
    ], 
@@ -1100,6 +1086,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    35.084865999999998, 
+    -106.65489700000001
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Launchpad, Albuquerque,<br/>10.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371263+Mono+at+Launchpad+on+10+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     32.785881000000003, 
     -96.775523000000007
    ], 
@@ -1226,6 +1219,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    56.949626000000002, 
+    24.136671
+   ], 
+   "html": "<p><strong>Mono</strong><br/>\u0122ertr\u016bdes ielas te\u0101tris, R\u012bga<br/>15.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371653+Mono+at+%C4%A2ertr%C5%ABdes+ielas+te%C4%81tris+on+15+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.787118999999997, 
     37.616039999999998
    ], 
@@ -1237,20 +1237,6 @@ var map_data = {
     30.232282999999999
    ], 
    "html": "<p><strong>Mono</strong><br/>\u0410\u0440\u043a\u0442\u0438\u043a\u0430, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3369601+Mono+at+%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B0+on+17+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.915331000000002, 
-    10.751250000000001
-   ], 
-   "html": "<p><strong>Mono</strong><br/>John Dee, Oslo<br/>21.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3368827+Mono+at+John+Dee+on+21+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.158352999999998, 
-    5.1694579999999997
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Various Locations, Utrecht<br/>29.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3303867+Le+Guess+Who-+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1426,6 +1412,13 @@ var map_data = {
     37.564399999999999
    ], 
    "html": "<p><strong>Paradox</strong><br/>16 Tons, <br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3337054+Secret+Operations+at+16+Tons+on+6+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.249699999999997, 
+    22.552954
+   ], 
+   "html": "<p><strong>Plug&Play</strong><br/>Przestrze\u0144 Inicjatyw Tw\u00f3rczych TEKTURA, Lublin<br/>13.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371691+Plug-Play+live\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1856,10 +1849,24 @@ var map_data = {
   }, 
   {
    "ll": [
-    38.632607, 
-    -90.228129999999993
+    34.141964999999999, 
+    -118.359308
    ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Chaifetz Arena, St. Louis<br/>18.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371045+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Gibson Amphitheatre, Universal City<br/>14.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371680+The+Smashing+Pumpkins+at+Gibson+Amphitheatre+on+14+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    38.632511000000001, 
+    -90.227954999999994
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Chaifetz Arena, Saint Louis, Missouri<br/>18.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371081+The+Smashing+Pumpkins+at+Chaifetz+Arena+on+18+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    42.004984999999998, 
+    -87.887497999999994
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Allstate Arena, Chicago<br/>19.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371602+The+Smashing+Pumpkins+at+Allstate+Arena+on+19+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2468,7 +2475,7 @@ var map_data = {
     55.721598, 
     37.647739000000001
    ], 
-   "html": "<p><strong>\u042d\u043b\u0438\u0437\u0438\u0443\u043c</strong><br/>P!PL, <br/>14.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3318463+%D0%AD%D0%BB%D0%B8%D0%B7%D0%B8%D1%83%D0%BC+at+P!PL+on+14+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>\u042d\u043b\u0438\u0437\u0438\u0443\u043c</strong><br/>P!PL, <br/>14.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3318463+14+%D0%A1%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F+-+%D0%AD%D0%9B%D0%98%D0%97%D0%98%D0%A3%D0%9C+-+P!PL+-++%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9+%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82-+%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
