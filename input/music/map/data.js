@@ -568,6 +568,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    41.900373999999999, 
+    -87.686705000000003
+   ], 
+   "html": "<p><strong>Frankie Rose</strong><br/>Empty Bottle, Chicago<br/>30.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3377157+Frankie+Rose+at+Empty+Bottle+on+30+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     42.886676000000001, 
     -78.872152999999997
    ], 
@@ -684,6 +691,13 @@ var map_data = {
     -122.412604
    ], 
    "html": "<p><strong>Left Spine Down</strong><br/>DNA Lounge, San Francisco<br/>12.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323085+My+Life+with+the+Thrill+Kill+Kult+at+DNA+Lounge+on+12+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    45.511949999999999, 
+    -122.623126
+   ], 
+   "html": "<p><strong>Left Spine Down</strong><br/>Hawthorne Theatre, Portland<br/>14.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3274389+My+Life+with+the+Thrill+Kill+Kult+at+Hawthorne+Theatre+on+14+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1845,7 +1859,7 @@ var map_data = {
     19.488246, 
     -99.173321999999999
    ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Arena Ciudad de M\u00e9xico, Distrito Federal<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3360432+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Arena Ciudad de M\u00e9xico, Distrito Federal<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3360432+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1944,6 +1958,13 @@ var map_data = {
     -73.570881999999997
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Centre Bell, <br/>28.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365422+The+Smashing+Pumpkins+at+Centre+Bell+on+28+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    40.683222000000001, 
+    -73.976162000000002
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Barclays Center, Brooklyn, NY<br/>31.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3377605+The+Smashing+Pumpkins+at+Barclays+Center+on+31+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
