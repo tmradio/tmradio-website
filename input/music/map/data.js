@@ -337,13 +337,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    59.914625000000001, 
-    10.747185999999999
-   ], 
-   "html": "<p><strong>David Rovics</strong><br/>Paragrafen, Oslo<br/>03.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3376685+David+Rovics+at+Paragrafen+on+3+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.108182999999997, 
     14.443186000000001
    ], 
@@ -1859,7 +1852,7 @@ var map_data = {
     19.488246, 
     -99.173321999999999
    ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Arena Ciudad de M\u00e9xico, Distrito Federal<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3360432+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Arena Ciudad de M\u00e9xico, Distrito Federal<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3360432+The+Smashing+Pumpkins+at+Arena+Ciudad+de+M%C3%A9xico+on+22+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1873,7 +1866,7 @@ var map_data = {
     25.681466, 
     -100.290048
    ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Arena Monterrey, Monterrey<br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3358072+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Arena Monterrey, Monterrey<br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3358072+The+Smashing+Pumpkins+at+Arena+Monterrey+on+23+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1887,14 +1880,14 @@ var map_data = {
     49.893428, 
     -97.143741000000006
    ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>MTS Centre, Winnipeg, MB<br/>02.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361297+Smashing+Pumpkins+at+MTS+Centre+on+2+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>MTS Centre, Winnipeg, MB<br/>02.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361297+The+Smashing+Pumpkins+at+MTS+Centre+on+2+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
     51.038254000000002, 
     -114.05262999999999
    ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Scotiabank Saddledome, Calgary<br/>04.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365812+CJAY+92+presents+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Scotiabank Saddledome, Calgary<br/>04.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365812+The+Smashing+Pumpkins+at+Scotiabank+Saddledome+on+4+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1908,7 +1901,7 @@ var map_data = {
     37.778480000000002, 
     -122.41820800000001
    ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Bill Graham Civic Auditorium, San Francisco CA<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3370487+Oceania+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Bill Graham Civic Auditorium, San Francisco CA<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3370487+The+Smashing+Pumpkins+at+Bill+Graham+Civic+Auditorium+on+12+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1965,6 +1958,13 @@ var map_data = {
     -73.976162000000002
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Barclays Center, Brooklyn, NY<br/>31.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3377605+The+Smashing+Pumpkins+at+Barclays+Center+on+31+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    38.826844999999999, 
+    -77.309697
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Patriot Center, Fairfax, VA<br/>03.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3378700+The+Smashing+Pumpkins+at+Patriot+Center+on+3+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
