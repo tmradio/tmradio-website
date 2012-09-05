@@ -169,6 +169,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    61.884999999999998, 
+    34.156666000000001
+   ], 
+   "html": "<p><strong>Brainstorm</strong><br/>\u0414\u041a \"\u041c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\", \u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a, \u041a\u0430\u0440\u0435\u043b\u0438\u044f<br/>14.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3379865+Brainstorm+at+%D0%94%D0%9A+%22%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%22+on+14+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.784765, 
     37.560043
    ], 
@@ -320,6 +327,13 @@ var map_data = {
     -0.115206
    ], 
    "html": "<p><strong>Caribou</strong><br/>O2 Academy Brixton, London<br/>02.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3282259+Four+Tet+-+Caribou+B2B\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    44.966991999999998, 
+    -93.246734000000004
+   ], 
+   "html": "<p><strong>Carved Souls</strong><br/>Triple Rock Social Club, Minneapolis<br/>24.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3379200+Theory+of+Revolution+2012+Minneapolis\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -908,6 +922,13 @@ var map_data = {
     37.50761
    ], 
    "html": "<p><strong>Lumen</strong><br/>Stadium Live, <br/>24.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3329635+Lumen+at+Stadium+Live+on+24+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    62.385739000000001, 
+    25.66263
+   ], 
+   "html": "<p><strong>Machinae Supremacy</strong><br/>Lutakko, Jyv\u00e4skyl\u00e4<br/>22.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3379264+Machinae+Supremacy+at+Lutakko+on+22+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1870,6 +1891,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    30.268469, 
+    -97.736324999999994
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Stubb's Bar-B-Q, Austin<br/>27.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3378977+The+Smashing+Pumpkins+at+Stubb%27s+Bar-B-Q+on+27+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     49.893697000000003, 
     -97.143062999999998
    ], 
@@ -1958,6 +1986,13 @@ var map_data = {
     -73.976162000000002
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Barclays Center, Brooklyn, NY<br/>31.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3377605+The+Smashing+Pumpkins+at+Barclays+Center+on+31+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.941859999999998, 
+    -75.129335999999995
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Susquehanna Bank Center, Camden<br/>02.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3379151+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2209,7 +2244,7 @@ var map_data = {
     55.731406, 
     37.603406999999997
    ], 
-   "html": "<p><strong>\u0411\u0438-2</strong><br/>\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0442\u0435\u0430\u0442\u0440 \u041f\u0430\u0440\u043a\u0430 \u0438\u043c.\u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e, \u041c\u043e\u0441\u043a\u0432\u0430<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372713+%D0%94%D0%B5%D0%BD%D1%8C+%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BA%D1%83%D1%80%D1%81%D0%BD%D0%B8%D0%BA%D0%B0+%D0%9D%D0%98%D0%A3-%D0%92%D0%A8%D0%AD\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>\u0411\u0438-2</strong><br/>\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0442\u0435\u0430\u0442\u0440 \u041f\u0430\u0440\u043a\u0430 \u0438\u043c.\u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e, \u041c\u043e\u0441\u043a\u0432\u0430<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372713+%D0%94%D0%B5%D0%BD%D1%8C+%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BA%D1%83%D1%80%D1%81%D0%BD%D0%B8%D0%BA%D0%B0+%D0%9D%D0%98%D0%A3-%D0%92%D0%A8%D0%AD+(20+%D0%BB%D0%B5%D1%82+%D0%9D%D0%98%D0%A3+%D0%92%D0%A8%D0%AD)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2490,13 +2525,6 @@ var map_data = {
     30.307623
    ], 
    "html": "<p><strong>\u041c\u0443\u043b\u044c\u0442f\u0438\u043b\u044c\u043c\u044b</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>11.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3314207+%D0%9C%D1%83%D0%BB%D1%8C%D1%82f%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B+at+%D0%97%D0%B0%D0%BB+%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+on+11+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.853566000000001, 
-    30.302975
-   ], 
-   "html": "<p><strong>\u041d\u0435\u0441\u0447\u0430\u0441\u0442\u043d\u044b\u0439 \u0421\u043b\u0443\u0447\u0430\u0439</strong><br/>\u041a\u043b\u0443\u0431 Jagger, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>05.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3351201+%D0%9D%D0%B5%D1%81%D1%87%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9+%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9+at+%D0%9A%D0%BB%D1%83%D0%B1+Jagger+on+5+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
