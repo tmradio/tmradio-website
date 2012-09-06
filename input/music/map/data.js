@@ -29,13 +29,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    34.009470999999998, 
-    -118.497322
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Santa Monica Pier, Santa Monica, CA<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300792+Best+Coast+at+Santa+Monica+Pier+on+6+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     48.422355000000003, 
     -123.362999
    ], 
@@ -561,6 +554,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    36.723233, 
+    -4.4194259999999996
+   ], 
+   "html": "<p><strong>Eternal Dream</strong><br/>Sala Eventual Music, M\u00e1laga<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3376826+D%C3%BCnedain+en+M%C3%A1laga\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     50.739345, 
     -1.3264579999999999
    ], 
@@ -953,10 +953,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.761631000000001, 
-    37.550839000000003
+    55.769536000000002, 
+    37.594115000000002
    ], 
-   "html": "<p><strong>Machinae Supremacy</strong><br/>Milk, <br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3314983+Machinae+Supremacy+at+Milk+on+1+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Machinae Supremacy</strong><br/>\u041a\u041a\u0417 \u041c\u043e\u0441\u043a\u0432\u0430, <br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3314983+Machinae+Supremacy+at+%D0%9A%D0%9A%D0%97+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0+on+1+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1772,6 +1772,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    43.659098, 
+    -79.348741000000004
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>The Opera House, Toronto<br/>11.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3380561+Sonata+Arctica+at+The+Opera+House+on+11+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     52.033333300000002, 
     4.4333333000000001
    ], 
@@ -1898,6 +1905,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    43.038777000000003, 
+    -87.910989999999998
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Riverside Theater, Milwaukee<br/>30.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3380780+The+Smashing+Pumpkins+at+Riverside+Theater+on+30+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     49.893697000000003, 
     -97.143062999999998
    ], 
@@ -2007,6 +2021,13 @@ var map_data = {
     -72.093171999999996
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Mohegan Sun Arena, Uncasville, CT<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3370684+The+Smashing+Pumpkins+at+Mohegan+Sun+Arena+on+4+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -34.931388900000002, 
+    -57.9488889
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Estadio Ciudad de La Plata, La Plata, Buenos Aires<br/>08.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3351395+Maquinaria+Festival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2196,13 +2217,6 @@ var map_data = {
     8.9306400000000004
    ], 
    "html": "<p><strong>Vildhjarta</strong><br/>Land of Live, Legnano<br/>14.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3338491+Euroblast+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.926336999999997, 
-    30.323046000000001
-   ], 
-   "html": "<p><strong>Zorge</strong><br/>\u0413\u043b\u0430\u0432Club, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3321049+%D0%9D%D0%BE%D1%87%D0%BB%D0%B5%D0%B6%D0%BA%D0%B0Fest\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
