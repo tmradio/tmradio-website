@@ -190,13 +190,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.739345, 
-    -1.3264579999999999
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>Robin Hill, Isle of Wight<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2067992+Bestival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     45.443797000000004, 
     9.1965070000000004
    ], 
@@ -379,13 +372,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.739345, 
-    -1.3264579999999999
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Robin Hill, Isle of Wight<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2067992+Bestival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     51.530729999999998, 
     -0.12077599999999999
    ], 
@@ -561,13 +547,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.739345, 
-    -1.3264579999999999
-   ], 
-   "html": "<p><strong>Frankie Rose</strong><br/>Robin Hill, Isle of Wight<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2067992+Bestival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     40.106689000000003, 
     -88.223506999999998
    ], 
@@ -677,13 +656,6 @@ var map_data = {
     4.4659709999999997
    ], 
    "html": "<p><strong>K2</strong><br/>Boerderij, Zoetermeer<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3197693+iO+Pages+Progfestival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    51.111687000000003, 
-    12.432594
-   ], 
-   "html": "<p><strong>KMFDM</strong><br/>Kulturpark Deutzen, Deutzen, Sachsen<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3330906+NCN+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -911,6 +883,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    53.907482999999999, 
+    27.477298000000001
+   ], 
+   "html": "<p><strong>Lumen</strong><br/>RE:PUBLIC, \u041c\u0438\u043d\u0441\u043a<br/>06.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3381309+Lumen\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.907482999999999, 
+    27.477298000000001
+   ], 
+   "html": "<p><strong>Lumen</strong><br/>RE:PUBLIC, \u041c\u0438\u043d\u0441\u043a<br/>07.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3381311+Lumen+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.913995999999997, 
     30.323827999999999
    ], 
@@ -922,6 +908,13 @@ var map_data = {
     37.50761
    ], 
    "html": "<p><strong>Lumen</strong><br/>Stadium Live, <br/>24.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3329635+Lumen+at+Stadium+Live+on+24+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    60.159483000000002, 
+    24.932319
+   ], 
+   "html": "<p><strong>Machinae Supremacy</strong><br/>Nosturi, Helsinki<br/>21.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3381538+Machinae+Supremacy+at+Nosturi+on+21+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1342,20 +1335,6 @@ var map_data = {
     -46.681176000000001
    ], 
    "html": "<p><strong>Opus 23</strong><br/>Manifesto Bar, S\u00e3o Paulo<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3334560+THORHAMMERFEST+VI\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.739345, 
-    -1.3264579999999999
-   ], 
-   "html": "<p><strong>Orbital</strong><br/>Robin Hill, Isle of Wight<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/2067992+Bestival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.475026999999997, 
-    13.403259
-   ], 
-   "html": "<p><strong>Orbital</strong><br/>Flughafen Tempelhof, Berlin<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3176952+Berlin+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1905,6 +1884,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    36.160693999999999, 
+    -95.994973000000002
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Cain's Ballroom, Tulsa<br/>28.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3381115+The+Smashing+Pumpkins+at+Cain%27s+Ballroom+on+28+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     43.038777000000003, 
     -87.910989999999998
    ], 
@@ -1915,14 +1901,7 @@ var map_data = {
     49.893697000000003, 
     -97.143062999999998
    ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>MTS Centre, Winnipeg<br/>02.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3365767+The+Smashing+Pumpkins+at+MTS+Centre+on+2+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    49.893428, 
-    -97.143741000000006
-   ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>MTS Centre, Winnipeg, MB<br/>02.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361297+The+Smashing+Pumpkins+at+MTS+Centre+on+2+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>MTS Centre, Winnipeg<br/>02.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361297+The+Smashing+Pumpkins+at+MTS+Centre+on+2+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1937,6 +1916,13 @@ var map_data = {
     -123.108107
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Rogers Arena, Vancouver<br/>07.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3376564+The+Smashing+Pumpkins+at+Rogers+Arena+on+7+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    47.978955999999997, 
+    -122.20393199999999
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Comcast Arena, Everett<br/>10.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3381542+The+Smashing+Pumpkins+at+Comcast+Arena+on+10+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1975,6 +1961,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    42.696511000000001, 
+    -83.243720999999994
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Palace of Auburn Hills, Auburn Hills, MI<br/>23.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3380996+The+Smashing+Pumpkins+at+Palace+of+Auburn+Hills+on+23+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     43.643929, 
     -79.379305000000002
    ], 
@@ -1996,10 +1989,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    40.683222000000001, 
-    -73.976162000000002
+    40.683267000000001, 
+    -73.976187999999993
    ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Barclays Center, Brooklyn, NY<br/>31.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3377605+The+Smashing+Pumpkins+at+Barclays+Center+on+31+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Barclays Center, Brooklyn<br/>31.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3377605+The+Smashing+Pumpkins+at+Barclays+Center+on+31+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2248,17 +2241,17 @@ var map_data = {
   }, 
   {
    "ll": [
+    55.563395, 
+    38.242600000000003
+   ], 
+   "html": "<p><strong>\u0410\u0440\u0438\u044f</strong><br/>\u041a\u0414\u0426 \"\u0421\u0430\u0442\u0443\u0440\u043d\", \u0420\u0430\u043c\u0435\u043d\u0441\u043a\u043e\u0435<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3381403+%D0%90%D1%80%D0%B8%D1%8F+at+%D0%9A%D0%94%D0%A6+%22%D0%A1%D0%B0%D1%82%D1%83%D1%80%D0%BD%22+on+12+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     54.724620194924498, 
     55.96435546875
    ], 
    "html": "<p><strong>\u0410\u0440\u0442\u0443\u0440 \u0411\u0435\u0440\u043a\u0443\u0442</strong><br/>\u0420\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u00ab\u041e\u0433\u043d\u0438 \u0423\u0444\u044b\u00bb, \u00ab\u041a\u043e\u043b\u0438\u0437\u0435\u043e\u00bb, \u0423\u0444\u0430<br/>15.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3199527+DMC+FEST+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.731406, 
-    37.603406999999997
-   ], 
-   "html": "<p><strong>\u0411\u0438-2</strong><br/>\u0417\u0435\u043b\u0435\u043d\u044b\u0439 \u0442\u0435\u0430\u0442\u0440 \u041f\u0430\u0440\u043a\u0430 \u0438\u043c.\u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e, \u041c\u043e\u0441\u043a\u0432\u0430<br/>06.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372713+%D0%94%D0%B5%D0%BD%D1%8C+%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BA%D1%83%D1%80%D1%81%D0%BD%D0%B8%D0%BA%D0%B0+%D0%9D%D0%98%D0%A3-%D0%92%D0%A8%D0%AD+(20+%D0%BB%D0%B5%D1%82+%D0%9D%D0%98%D0%A3+%D0%92%D0%A8%D0%AD)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2472,13 +2465,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    59.906886, 
-    30.307623
-   ], 
-   "html": "<p><strong>\u041c\u0430\u0440\u0430</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3276797+%D0%9C%D0%B0%D1%80%D0%B0+at+%D0%97%D0%B0%D0%BB+%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+on+7+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.766303999999998, 
     37.603960999999998
    ], 
@@ -2490,13 +2476,6 @@ var map_data = {
     8.7761589999999998
    ], 
    "html": "<p><strong>\u041c\u0430\u0440\u0430</strong><br/>Stadthalle Offenbach, Frankfurt am Main<br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3327517+PEEPL-ROCK\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.766590999999998, 
-    37.592936999999999
-   ], 
-   "html": "<p><strong>\u041c\u0430\u0448\u0438\u043d\u0430 \u0412\u0440\u0435\u043c\u0435\u043d\u0438</strong><br/>\u04112, <br/>07.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3359521+%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0+%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8+at+%D0%912+on+7+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
