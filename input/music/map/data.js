@@ -617,13 +617,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    47.509678999999998, 
-    19.08961
-   ], 
-   "html": "<p><strong>K2</strong><br/>Keleti Blokk, Budapest<br/>09.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3374445+Magyar+Dal+Napja+@+Keleti+Blokk\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.294736, 
     18.807410000000001
    ], 
@@ -1331,13 +1324,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    37.787582999999998, 
-    -122.421665
-   ], 
-   "html": "<p><strong>Orbital</strong><br/>The Regency Ballroom, San Francisco CA<br/>24.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3366938+Orbital+at+The+Regency+Ballroom+on+24+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     49.280112000000003, 
     -123.121692
    ], 
@@ -1468,6 +1454,13 @@ var map_data = {
     -0.115206
    ], 
    "html": "<p><strong>Orbital</strong><br/>O2 Academy Brixton, London<br/>15.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3338176+Orbital+at+O2+Academy+Brixton+on+15+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    48.218299999999999, 
+    16.369800000000001
+   ], 
+   "html": "<p><strong>Paradox</strong><br/>Flex, Wien<br/>22.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383465+ECHOSPHERE+-+pres.+by+Zero+Gravity+-+24-7+Media\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1737,6 +1730,27 @@ var map_data = {
   }, 
   {
    "ll": [
+    40.739899999999999, 
+    -73.984910999999997
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Gramercy Theatre, New York, NY<br/>06.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383146+Sonata+Arctica+at+Gramercy+Theatre+on+6+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    42.266756999999998, 
+    -71.800905999999998
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>The Palladium, Worcester<br/>07.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383147+Sonata+Arctica+at+The+Palladium+on+7+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.960554999999999, 
+    -75.60257
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>The Note, West Chester, PA<br/>08.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383150+Sonata+Arctica+at+The+Note+on+8+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     43.659098, 
     -79.348741000000004
    ], 
@@ -1744,10 +1758,24 @@ var map_data = {
   }, 
   {
    "ll": [
+    41.50094, 
+    -81.675504000000004
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Peabody's Downunder, Cleveland<br/>13.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383153+Sonata+Arctica+at+Peabody%27s+Downunder+on+13+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     41.52778, 
     -88.083755999999994
    ], 
    "html": "<p><strong>Sonata Arctica</strong><br/>Mojoes, Joliet<br/>15.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383107+Sonata+Arctica+at+Mojoes+on+15+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.740242000000002, 
+    -104.948404
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Bluebird Theater, Denver<br/>17.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383160+Sonata+Arctica+at+Bluebird+Theater+on+17+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1835,6 +1863,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.767474, 
+    5.5224019999999996
+   ], 
+   "html": "<p><strong>The Gathering</strong><br/>Groene Engel, Oss<br/>19.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383634+The+Gathering\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.437185999999997, 
     5.4802730000000004
    ], 
@@ -1905,6 +1940,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    53.570466000000003, 
+    -113.455444
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Rexall Place, Edmonton<br/>05.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3384157+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     49.277661000000002, 
     -123.108107
    ], 
@@ -1930,6 +1972,13 @@ var map_data = {
     -118.359308
    ], 
    "html": "<p><strong>The Smashing Pumpkins</strong><br/>Gibson Amphitheatre, Universal City<br/>14.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371680+The+Smashing+Pumpkins+at+Gibson+Amphitheatre+on+14+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.904696000000001, 
+    -105.08528099999999
+   ], 
+   "html": "<p><strong>The Smashing Pumpkins</strong><br/>1STBANK Center, Broomfield, CO<br/>16.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383247+The+Smashing+Pumpkins+at+1STBANK+Center+on+16+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2227,6 +2276,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    53.901344999999999, 
+    27.554380999999999
+   ], 
+   "html": "<p><strong>\u0410\u0434\u0434\u0438\u0441 \u0410\u0431\u0435\u0431\u0430</strong><br/>\u0413\u0440\u0430\u0444\u0444\u0438\u0442\u0438, Minsk<br/>17.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383869+%D0%90%D0%B4%D0%B4%D0%B8%D1%81+%D0%90%D0%B1%D0%B5%D0%B1%D0%B0+at+%D0%93%D1%80%D0%B0%D1%84%D1%84%D0%B8%D1%82%D0%B8+on+17+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.906886, 
     30.307623
    ], 
@@ -2357,13 +2413,6 @@ var map_data = {
     30.307623
    ], 
    "html": "<p><strong>\u0412\u0430\u0441\u044f \u041e\u0431\u043b\u043e\u043c\u043e\u0432</strong><br/>\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>25.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3348632+%D0%92%D0%B0%D1%81%D1%8F+%D0%9E%D0%B1%D0%BB%D0%BE%D0%BC%D0%BE%D0%B2+at+%D0%97%D0%B0%D0%BB+%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F+on+25+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.926336999999997, 
-    30.323046000000001
-   ], 
-   "html": "<p><strong>\u0414\u0414\u0422</strong><br/>\u0413\u043b\u0430\u0432Club, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>09.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3376468+Free+Pussy+Riot+Fest\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2574,6 +2623,13 @@ var map_data = {
     37.620775999999999
    ], 
    "html": "<p><strong>\u041f\u0438\u043a\u043d\u0438\u043a</strong><br/>\u041a\u043e\u043d\u0446\u0435\u0440\u0442\u043d\u044b\u0439 \u0437\u0430\u043b \"\u041c\u0438\u0440\", \u041c\u043e\u0441\u043a\u0432\u0430<br/>05.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3357075+%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA+at+%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%D0%BD%D1%8B%D0%B9+%D0%B7%D0%B0%D0%BB+%22%D0%9C%D0%B8%D1%80%22+on+5+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.901344999999999, 
+    27.554380999999999
+   ], 
+   "html": "<p><strong>\u041f\u0438\u043a\u043d\u0438\u043a</strong><br/>\u041a\u043e\u043d\u0446\u0435\u0440\u0442\u043d\u044b\u0439 \u0437\u0430\u043b \"\u041c\u0438\u043d\u0441\u043a\", \u041c\u0438\u043d\u0441\u043a<br/>07.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383542+%D0%94%D0%B5%D0%BA%D0%B0%D0%B4%D0%B0%D0%BD%D1%81\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
