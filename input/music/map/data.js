@@ -540,6 +540,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    38.900086999999999, 
+    -76.986573000000007
+   ], 
+   "html": "<p><strong>Frankie Rose</strong><br/>Rock and Roll Hotel, Washington DC<br/>26.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3385126+Frankie+Rose+w-+Teen\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     40.106689000000003, 
     -88.223506999999998
    ], 
@@ -642,6 +649,13 @@ var map_data = {
     4.4659709999999997
    ], 
    "html": "<p><strong>K2</strong><br/>Boerderij, Zoetermeer<br/>06.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3197693+iO+Pages+Progfestival\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    41.910378000000001, 
+    -87.678000999999995
+   ], 
+   "html": "<p><strong>LAKE R\u25b2DIO</strong><br/>Subterranean, Chicago<br/>07.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3385183+Lights+Out+Asia+at+Subterranean+on+7+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1853,6 +1867,13 @@ var map_data = {
     4.6292580000000001
    ], 
    "html": "<p><strong>The Gathering</strong><br/>Patronaat, Haarlem<br/>23.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3253030+The+Gathering+(Always+line-up)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    40.359344, 
+    -75.311631000000006
+   ], 
+   "html": "<p><strong>The Gathering</strong><br/>Sellersville Theater, Sellersville<br/>13.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3385184+The+Gathering:+A+Holiday+Concert+w-+Carolina+Chocolate+Drops%27+Rhiannon+Giddens\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
