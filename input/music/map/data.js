@@ -116,7 +116,7 @@ var map_data = {
     43.643929, 
     -79.379305000000002
    ], 
-   "html": "<p><strong>Best Coast</strong><br/>Air Canada Centre, Toronto<br/>29.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383818+Green+Day+at+Air+Canada+Centre+on+29+January+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Best Coast</strong><br/>Air Canada Centre, Toronto<br/>31.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383818+Green+Day+at+Air+Canada+Centre+on+31+January+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -351,13 +351,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.108182999999997, 
-    14.443186000000001
-   ], 
-   "html": "<p><strong>Discoballs</strong><br/>Cross Club, Praha<br/>16.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3343704+Hog+Hoggidy+Hog+-+Discoballs\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.721598, 
     37.647739000000001
    ], 
@@ -568,24 +561,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    50.538891, 
-    30.484819000000002
-   ], 
-   "html": "<p><strong>Gorky Park</strong><br/>Docker Pub, \u041a\u0438\u0435\u0432<br/>16.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3301718+Gorky+Park+at+Docker+Pub+on+16+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.823273, 
     37.389907999999998
    ], 
    "html": "<p><strong>Gorky Park</strong><br/>Crocus City Hall, <br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3234570+Gorky+Park+at+Crocus+City+Hall+on+18+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    44.964126, 
-    -93.247245000000007
-   ], 
-   "html": "<p><strong>Hoodie Allen</strong><br/>The Cabooze, Minneapolis MN<br/>16.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3353797+Hoodie+Allen+at+The+Cabooze+on+16+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -649,13 +628,6 @@ var map_data = {
     -87.678000999999995
    ], 
    "html": "<p><strong>LAKE R\u25b2DIO</strong><br/>Subterranean, Chicago<br/>07.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3385183+Lights+Out+Asia+at+Subterranean+on+7+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    47.657421999999997, 
-    -117.41889399999999
-   ], 
-   "html": "<p><strong>Left Spine Down</strong><br/>A Club, Spokane, WA<br/>16.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323095+My+Life+with+the+Thrill+Kill+Kult+at+A+Club+on+16+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1513,6 +1485,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.337676999999999, 
+    12.377837
+   ], 
+   "html": "<p><strong>Silence</strong><br/>Moritzbastei, Leipzig<br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3389754+Silence+at+Moritzbastei+on+1+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.906886, 
     30.307623
    ], 
@@ -1853,13 +1832,6 @@ var map_data = {
     9.1830529999999992
    ], 
    "html": "<p><strong>Talco</strong><br/>Universum, Stuttgart<br/>15.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3373686+Talco+at+Universum+on+15+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.076630999999999, 
-    5.1223159999999996
-   ], 
-   "html": "<p><strong>The Gathering</strong><br/>Tivoli de Helling, Utrecht<br/>16.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3276643+The+Gathering+(Always+line-up)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
