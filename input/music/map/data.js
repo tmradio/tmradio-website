@@ -183,10 +183,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.443797000000004, 
-    9.1965070000000004
+    45.448695000000001, 
+    9.1864220000000003
    ], 
-   "html": "<p><strong>Caribou</strong><br/>Magazzini Generali, Milano<br/>21.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342782+Caribou+at+Magazzini+Generali+on+21+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Caribou</strong><br/>Limelight, Milano<br/>21.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3391846+Caribou+at+Limelight+on+21+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -365,13 +365,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.506346901083397, 
-    -73.740234375
-   ], 
-   "html": "<p><strong>Dope Stars Inc.</strong><br/>Piranha Bar, Montr\u00e9al<br/>25.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3338500+Dope+Stars+Inc.+at+Piranha+Bar+on+25+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     43.3016959425888, 
     5.3784942626953098
    ], 
@@ -544,13 +537,6 @@ var map_data = {
     37.389907999999998
    ], 
    "html": "<p><strong>Gorky Park</strong><br/>Crocus City Hall, <br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3234570+Gorky+Park+at+Crocus+City+Hall+on+18+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    43.038074000000002, 
-    -87.943308000000002
-   ], 
-   "html": "<p><strong>Hoodie Allen</strong><br/>Eagles Club/The Rave/Eagles Ballroom, Milwaukee<br/>18.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3345340+Hoodie+Allen+at+Eagles+Club-The+Rave-Eagles+Ballroom+on+18+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -904,13 +890,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    41.482739000000002, 
-    -81.765377000000001
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Now That's Class, Cleveland<br/>18.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346442+Mono+at+Now+That%27s+Class+on+18+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     40.015697000000003, 
     -83.011798999999996
    ], 
@@ -1254,6 +1233,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    50.950000000000003, 
+    0.73333329999999997
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Pontins Camber Sands Holiday Park, Camber<br/>30.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3314139+ATP+Nightmare+Before+Xmas+curated+by+Shellac\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.946350000000002, 
     30.232282999999999
    ], 
@@ -1454,13 +1440,6 @@ var map_data = {
     22.552954
    ], 
    "html": "<p><strong>Plug&Play</strong><br/>Przestrze\u0144 Inicjatyw Tw\u00f3rczych TEKTURA, Lublin<br/>13.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371691+Better+watch+your+legs!+Koncert+Plug-Play\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.223542000000002, 
-    14.894169
-   ], 
-   "html": "<p><strong>Radogost</strong><br/>Milovice - leti\u0161t\u011b, Milovice<br/>21.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3211446+Rockstone+Bohemia\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
