@@ -351,13 +351,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    48.868347999999997, 
-    2.392217
-   ], 
-   "html": "<p><strong>El-P</strong><br/>La Maroquinerie, Paris<br/>25.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3321659+El-P+at+La+Maroquinerie+on+25+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     45.674103000000002, 
     4.8587920000000002
    ], 
@@ -743,6 +736,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    54.724620194924498, 
+    55.96435546875
+   ], 
+   "html": "<p><strong>Lumen</strong><br/>\u0420\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u00ab\u041e\u0433\u043d\u0438 \u0423\u0444\u044b\u00bb, \u00ab\u041a\u043e\u043b\u0438\u0437\u0435\u043e\u00bb, \u0423\u0444\u0430<br/>09.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3397308+Lumen+at+%D0%A0%D0%B0%D0%B7%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81+%C2%AB%D0%9E%D0%B3%D0%BD%D0%B8+%D0%A3%D1%84%D1%8B%C2%BB,+%C2%AB%D0%9A%D0%BE%D0%BB%D0%B8%D0%B7%D0%B5%D0%BE%C2%BB+on+9+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     60.159483000000002, 
     24.932319
    ], 
@@ -796,6 +796,13 @@ var map_data = {
     37.623733999999999
    ], 
    "html": "<p><strong>mat!\u042d</strong><br/>FAQ cafe, \u041c\u043e\u0441\u043a\u0432\u0430<br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3382581+mat!%D0%AD+at+FAQ+cafe+on+18+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.765082, 
+    37.619011
+   ], 
+   "html": "<p><strong>Messer Chups</strong><br/>Gogol', \u041c\u043e\u0441\u043a\u0432\u0430<br/>05.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3396438+Messer+Chups+at+Gogol%27+on+5+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1397,13 +1404,6 @@ var map_data = {
     60.168698999999997, 
     24.932941
    ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Tavastia, Helsinki<br/>25.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3329557+Sonata+Arctica+at+Tavastia+on+25+September+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    60.168698999999997, 
-    24.932941
-   ], 
    "html": "<p><strong>Sonata Arctica</strong><br/>Tavastia, Helsinki<br/>26.09.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3329559+Sonata+Arctica+-+Ik%C3%A4rajaton+keikka\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
@@ -1636,6 +1636,13 @@ var map_data = {
     -81.675504000000004
    ], 
    "html": "<p><strong>Sonata Arctica</strong><br/>Peabody's Downunder, Cleveland<br/>13.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383153+Sonata+Arctica+at+Peabody%27s+Downunder+on+13+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    42.403849000000001, 
+    -82.966275999999993
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Harpos, Detroit<br/>14.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3396618+Sonata+Arctica+at+Harpos+on+14+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
