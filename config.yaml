@@ -33,7 +33,9 @@ feeds:
   description: "Так себе новости на Тоже мне радио"
   image: http://files.tmradio.net/podcast_logo.jpg
   labels: [tsn]
-
+- name: guests/umonkey/rss.xml
+  title: "Хекс на Тоже мне радио"
+  labels: [umonkey]
 
 buttons:
   labels: [podcast, blog]
