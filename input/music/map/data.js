@@ -2,7 +2,7 @@ var map_data = {
  "bounds": [
   -42.822817999999998, 
   65.010627999999997, 
-  -122.675848, 
+  -122.42044, 
   153.03204299999999
  ], 
  "markers": [
@@ -316,6 +316,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    52.354360999999997, 
+    4.9127749999999999
+   ], 
+   "html": "<p><strong>Caribou</strong><br/>TrouwAmsterdam, Amsterdam<br/>14.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3404672+Daphni+aka+Caribou+(DJ+set)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     50.938634999999998, 
     6.9799379999999998
    ], 
@@ -418,20 +425,6 @@ var map_data = {
     -118.334958
    ], 
    "html": "<p><strong>Dope Stars Inc.</strong><br/>Boardners, hollywood, california<br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3397362+Dope+Stars+Inc.\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.673445999999998, 
-    12.596073000000001
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Loppen, K\u00f8benhavn<br/>03.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323279+El-P+at+Loppen+on+3+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.337090000000003, 
-    18.072876000000001
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Scandic Anglais, Stockholm<br/>04.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3322306+El-P+at+Scandic+Anglais+on+4+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -855,13 +848,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.551439999999999, 
-    -122.675848
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Mississippi Studios, Portland, OR<br/>03.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346461+Mono+at+Mississippi+Studios+on+3+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     37.776226999999999, 
     -122.42044
    ], 
@@ -1202,6 +1188,13 @@ var map_data = {
     8.409573
    ], 
    "html": "<p><strong>Mono</strong><br/>Jubez, Karlsruhe<br/>12.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3373432+Mono+at+Jubez+on+12+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    48.128749999999997, 
+    11.534409999999999
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Feierwerk, M\u00fcnchen<br/>13.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3370636+MONO+-+%22For+my+parents%22+Europe+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1954,10 +1947,24 @@ var map_data = {
   }, 
   {
    "ll": [
+    40.042014000000002, 
+    -76.309182000000007
+   ], 
+   "html": "<p><strong>Trouble Andrew</strong><br/>Chameleon Club, Lancaster, PA<br/>30.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3404464+Yelawolf+at+Chameleon+Club+on+30+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     42.319881000000002, 
     -72.628349999999998
    ], 
    "html": "<p><strong>Trouble Andrew</strong><br/>Pearl Street, Northampton<br/>03.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3401974+Yelawolf+at+Pearl+Street+on+3+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    42.351784000000002, 
+    -71.119549000000006
+   ], 
+   "html": "<p><strong>Trouble Andrew</strong><br/>Paradise Rock Club, Boston<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3405061+Yelawolf+at+Paradise+Rock+Club+on+4+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
