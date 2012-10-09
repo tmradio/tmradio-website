@@ -2,8 +2,8 @@ var map_data = {
  "bounds": [
   -42.822817999999998, 
   65.010627999999997, 
-  -122.41820800000001, 
-  153.03204299999999
+  -123.12086499999999, 
+  174.75729899999999
  ], 
  "markers": [
   {
@@ -267,13 +267,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    51.487582000000003, 
-    0.0068770000000000003
-   ], 
-   "html": "<p><strong>Caribou</strong><br/>O2 Arena, London<br/>09.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3222926+Radiohead+at+O2+Arena+on+9+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     48.839112, 
     2.3794430000000002
    ], 
@@ -362,6 +355,307 @@ var map_data = {
     -119.971542
    ], 
    "html": "<p><strong>Chromeo</strong><br/>Lake Tahoe Community College Campus, South Lake Tahoe<br/>29.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3389490+SnowGlobe+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.997455000000002, 
+    -83.007512000000006
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Newport Music Hall, Columbus<br/>10.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346261+Crystal+Castles+at+Newport+Music+Hall+on+10+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    36.163874, 
+    -86.797219999999996
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Marathon Music Works, Nashville<br/>11.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346262+Crystal+Castles+at+Marathon+Music+Works+on+11+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    30.265544999999999, 
+    -97.766132999999996
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Zilker Park, Austin<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3395299+ACL+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    30.265544999999999, 
+    -97.766132999999996
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Zilker Park, Austin<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3121930+Austin+City+Limits+Music+Festival+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    30.266711999999998, 
+    -97.736979000000005
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Emo's East, Austin<br/>13.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3367863+Crystal+Castles+w-+Health+and+Kontravoid\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    38.971446999999998, 
+    -95.235889
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Liberty Hall, Lawrence<br/>16.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3397618+Crystal+Castles+at+Liberty+Hall+on+16+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    39.740397000000002, 
+    -104.97526499999999
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Ogden Theater, Denver<br/>17.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346267+Crystal+Castles+at+Ogden+Theater+on+17+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    40.764577000000003, 
+    -111.907799
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>In the Venue, Salt Lake City<br/>18.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346244+Crystal+Castles+at+In+the+Venue+on+18+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    34.098047000000001, 
+    -118.324252
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Hollywood Palladium, Los Angeles<br/>20.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346269+Crystal+Castles+at+Hollywood+Palladium+on+20+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    32.753815000000003, 
+    -117.209272
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Soma, San Diego<br/>21.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346271+Crystal+Castles+at+Soma+on+21+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    37.807716999999997, 
+    -122.270059
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>The Fox Theater, Oakland<br/>22.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3344864+Crystal+Castles+at+The+Fox+Theater+on+22+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    45.523333000000001, 
+    -122.676239
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Roseland Theater, Portland<br/>24.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346274+Crystal+Castles+at+Roseland+Theater+on+24+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    47.587954000000003, 
+    -122.33369
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Showbox SoDo, Seattle<br/>25.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346277+Crystal+Castles+at+Showbox+SoDo+on+25+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    49.280645999999997, 
+    -123.12086499999999
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Commodore Ballroom, <br/>26.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346279+Crystal+Castles+at+Commodore+Ballroom+on+26+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.078501000000003, 
+    -114.132306
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>MacEwan Hall, Calgary<br/>28.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346365+Crystal+Castles+at+MacEwan+Hall+on+28+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.524602999999999, 
+    -113.615481
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Edmonton Event Centre, Edmonton<br/>29.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346281+Crystal+Castles+at+Edmonton+Event+Centre+on+29+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    49.895823, 
+    -97.143638999999993
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Burton Cummings Theatre, Winnipeg<br/>31.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342216+Crystal+Castles+at+Burton+Cummings+Theatre+on+31+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    44.978749000000001, 
+    -93.275979000000007
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>First Avenue, Minneapolis<br/>01.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346282+Crystal+Castles+at+First+Avenue+on+1+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    41.920003999999999, 
+    -87.692430999999999
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Congress Theater, Chicago<br/>02.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346283+Crystal+Castles+at+Congress+Theater+on+2+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    43.644314999999999, 
+    -79.368477999999996
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Kool Haus, Toronto<br/>03.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346256+Crystal+Castles+at+Kool+Haus+on+3+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.475746999999998, 
+    -1.887548
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>HMV Institute, Birmingham<br/>22.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372152+Crystal+Castles+at+HMV+Institute+on+22+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.625115999999998, 
+    1.2406440000000001
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Norwich U.E.A., Norwich<br/>23.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372863+Crystal+Castles+at+Norwich+U.E.A.+on+23+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.465373, 
+    -0.115206
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>O2 Academy Brixton, London<br/>24.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372531+Crystal+Castles+at+O2+Academy+Brixton+on+24+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.865884000000001, 
+    -4.2643579999999996
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>O2 ABC, Glasgow<br/>26.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3373483+Crystal+Castles+at+O2+ABC+on+26+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.801850999999999, 
+    -1.547563
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>O2 Academy Leeds, Leeds<br/>27.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3373443+Crystal+Castles+at+O2+Academy+Leeds+on+27+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.464399999999998, 
+    -2.2322630000000001
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Manchester Academy, Manchester<br/>28.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372339+Crystal+Castles+at+Manchester+Academy+on+28+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    48.882809000000002, 
+    2.343156
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Le Trianon, Paris<br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3357499+Crystal+Castles+at+Le+Trianon+on+1+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    49.500813999999998, 
+    5.9465640000000004
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Rockhal, Esch-sur-Alzette<br/>02.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3361363+Crystal+Castles\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    47.38411, 
+    8.5325389999999999
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>X-tra, Z\u00fcrich<br/>04.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3357555+Crystal+Castles+at+X-tra+on+4+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.924869999999999, 
+    6.9782190000000002
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Essigfabrik, K\u00f6ln<br/>05.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3357569+Crystal+Castles+at+Essigfabrik+on+5+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.365214000000002, 
+    4.8812699999999998
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Melkweg, Amsterdam<br/>06.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3359511+Crystal+Castles+at+Melkweg+on+6+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    52.508693999999998, 
+    13.435055
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Postbahnhof, Berlin<br/>08.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3348529+Crystal+Castles+at+Postbahnhof+on+8+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.557276000000002, 
+    9.9698259999999994
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Uebel & Gef\u00e4hrlich, Hamburg<br/>09.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3357603+Crystal+Castles+at+Uebel+-+Gef%C3%A4hrlich+on+9+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.847355999999998, 
+    4.3487080000000002
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Ancienne Belgique, Brussels<br/>10.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3357598+Crystal+Castles+at+Ancienne+Belgique+on+10+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -36.858041, 
+    174.75729899999999
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>The Studio, Auckland<br/>15.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3386384+Crystal+Castles+at+The+Studio+on+15+January+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -33.894517999999998, 
+    151.22745
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>The Hi-Fi Sydney, Moore Park<br/>17.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3364479+Crystal+Castles+at+The+Hi-Fi+Sydney+on+17+January+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -33.845489999999998, 
+    151.06915000000001
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Sydney Showground, Sydney Olympic Park<br/>18.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3336994+Big+Day+Out+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -27.965159, 
+    153.38568699999999
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Gold Coast Parklands, Southport, Gold Coast, Queensland<br/>20.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3332229+Big+Day+Out+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -37.812066999999999, 
+    144.96804299999999
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Billboard The Venue, Melbourne, Victoria<br/>22.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3390862+Crystal+Castles+at+Billboard+The+Venue+on+22+January+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -34.946168, 
+    138.589268
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Royal Adelaide Showgrounds, Wayville<br/>25.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3350227+Big+Day+Out+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -37.785770999999997, 
+    144.91969900000001
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Flemington Racecourse, Melbourne<br/>26.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3337386+Big+Day+Out+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -23.533333299999999, 
+    -46.616666700000003
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Jockey Club, S\u00e3o Paulo<br/>29.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3319978+Lollapalooza+Brasil+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -33.611987999999997, 
+    -70.519203000000005
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Parque O'Higgins, Santiago<br/>06.04.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3349593+Lollapalooza+Chile+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -747,6 +1041,13 @@ var map_data = {
     -3.6970749999999999
    ], 
    "html": "<p><strong>Messer Chups</strong><br/>Independance Club, Madrid<br/>25.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3403929+Messer+Chups+at+Independance+Club+on+25+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    41.374395999999997, 
+    2.1695530000000001
+   ], 
+   "html": "<p><strong>Messer Chups</strong><br/>Sala Apolo 2, Barcelona<br/>26.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3408234+Messer+Chups+-+Eyaculaci%C3%B3n+Post-mortem+Halloween+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1590,6 +1891,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    50.06776, 
+    8.2479040000000001
+   ], 
+   "html": "<p><strong>Talco</strong><br/>Schlachthof, Wiesbaden<br/>16.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3408578+Talco\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     38.983333299999998, 
     -1.8500000000000001
    ], 
@@ -2290,6 +2598,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.680075000000002, 
+    39.175713000000002
+   ], 
+   "html": "<p><strong>\u041c\u0435\u043b\u044c\u043d\u0438\u0446\u0430</strong><br/>\u0422\u0430\u0440\u0430\u043d\u0442\u0443\u043b, \u0412\u043e\u0440\u043e\u043d\u0435\u0436<br/>02.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3408301+%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0+at+%D0%A2%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D1%83%D0%BB+on+2+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     50.439697000000002, 
     30.428570000000001
    ], 
@@ -2343,6 +2658,13 @@ var map_data = {
     37.592936999999999
    ], 
    "html": "<p><strong>\u0422\u0430\u043d\u0446\u044b \u041c\u0438\u043d\u0443\u0441</strong><br/>\u04112, <br/>16.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3403741+%D0%A2%D0%B0%D0%BD%D1%86%D1%8B+%D0%9C%D0%B8%D0%BD%D1%83%D1%81\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.194355999999999, 
+    50.178348999999997
+   ], 
+   "html": "<p><strong>\u0422\u0430\u0440\u0430\u043a\u0430\u043d\u044b!</strong><br/>\u041c\u0435\u0442\u0435\u043b\u0438\u0446\u0430-\u0421, \u0421\u0430\u043c\u0430\u0440\u0430<br/>14.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3408232+%D0%A2%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D1%8B!+-+%D0%9A%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%B8+%D0%B2+%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%B5\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
