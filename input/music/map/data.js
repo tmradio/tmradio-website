@@ -260,6 +260,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    52.047170999999999, 
+    -9.5032289999999993
+   ], 
+   "html": "<p><strong>Brainstorm</strong><br/>INEC - Gleneagle Hotel, Killarney<br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3409082+Brainstorm+at+INEC+-+Gleneagle+Hotel+on+1+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     48.997011999999998, 
     8.3768770000000004
    ], 
@@ -355,13 +362,6 @@ var map_data = {
     -119.971542
    ], 
    "html": "<p><strong>Chromeo</strong><br/>Lake Tahoe Community College Campus, South Lake Tahoe<br/>29.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3389490+SnowGlobe+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    39.997455000000002, 
-    -83.007512000000006
-   ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Newport Music Hall, Columbus<br/>10.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346261+Crystal+Castles+at+Newport+Music+Hall+on+10+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -691,13 +691,6 @@ var map_data = {
     -118.334958
    ], 
    "html": "<p><strong>Dope Stars Inc.</strong><br/>Boardners, hollywood, california<br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3397362+Dope+Stars+Inc.\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    48.128749999999997, 
-    11.534409999999999
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Feierwerk, M\u00fcnchen<br/>09.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3367149+El-P+at+Feierwerk+on+9+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1051,13 +1044,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    33.494224000000003, 
-    -112.059742
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Rhythm Room, Phoenix AZ<br/>09.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346464+Mono+at+Rhythm+Room+on+9+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     35.084865999999998, 
     -106.65489700000001
    ], 
@@ -1222,7 +1208,7 @@ var map_data = {
     61.883055599999999, 
     13.75
    ], 
-   "html": "<p><strong>Mono</strong><br/>Debaser Slussen, Stockholm<br/>20.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372777+MONO\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Mono</strong><br/>Debaser Slussen, Stockholm<br/>20.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372777+MONO+-+%E6%83%98%E9%97%BB\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1894,7 +1880,7 @@ var map_data = {
     50.06776, 
     8.2479040000000001
    ], 
-   "html": "<p><strong>Talco</strong><br/>Schlachthof, Wiesbaden<br/>16.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3408578+Talco\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Talco</strong><br/>Schlachthof, Wiesbaden<br/>16.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3408578+Talco+at+Schlachthof+on+16+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
