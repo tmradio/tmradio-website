@@ -277,13 +277,6 @@ var map_data = {
     48.839112, 
     2.3794430000000002
    ], 
-   "html": "<p><strong>Caribou</strong><br/>POPB / Palais Omnisports de Paris-Bercy, Paris<br/>11.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3230098+Radiohead+at+POPB+-+Palais+Omnisports+de+Paris-Bercy+on+11+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    48.839112, 
-    2.3794430000000002
-   ], 
    "html": "<p><strong>Caribou</strong><br/>POPB / Palais Omnisports de Paris-Bercy, Paris<br/>12.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3230099+Radiohead+at+POPB+-+Palais+Omnisports+de+Paris-Bercy+on+12+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
@@ -362,13 +355,6 @@ var map_data = {
     -119.971542
    ], 
    "html": "<p><strong>Chromeo</strong><br/>Lake Tahoe Community College Campus, South Lake Tahoe<br/>29.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3389490+SnowGlobe+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    36.163874, 
-    -86.797219999999996
-   ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Marathon Music Works, Nashville<br/>11.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346262+Crystal+Castles+at+Marathon+Music+Works+on+11+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -691,13 +677,6 @@ var map_data = {
     -118.334958
    ], 
    "html": "<p><strong>Dope Stars Inc.</strong><br/>Boardners, hollywood, california<br/>17.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3397362+Dope+Stars+Inc.\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    48.300727999999999, 
-    14.282156000000001
-   ], 
-   "html": "<p><strong>El-P</strong><br/>Kapu, Linz<br/>10.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3375765+El-P+at+Kapu+on+10+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1041,13 +1020,6 @@ var map_data = {
     2.1695530000000001
    ], 
    "html": "<p><strong>Messer Chups</strong><br/>Sala Apolo 2, Barcelona<br/>26.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3408234+Messer+Chups+-+Eyaculaci%C3%B3n+Post-mortem+Halloween+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    35.084865999999998, 
-    -106.65489700000001
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Launchpad, Albuquerque<br/>10.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371263+Mono+at+Launchpad+on+10+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1555,6 +1527,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    53.901815999999997, 
+    27.560684999999999
+   ], 
+   "html": "<p><strong>Slim</strong><br/>\u041a\u043b\u0443\u0431 \u0426\u0435\u043d\u0442\u0440, \u041c\u0438\u043d\u0441\u043a<br/>27.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3410633+Slim+%D1%81+%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B5%D0%B9+CEN-%D0%A2%D0%A0%D0%9E%D0%9F%D0%95,+%D0%9F%D1%82%D0%B0%D1%85%D0%B0+(CENTR)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     62.898484000000003, 
     27.660907999999999
    ], 
@@ -1772,6 +1751,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    34.090896999999998, 
+    -118.385693
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Whisky A Go Go, West Hollywood, CA<br/>20.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3410227+Sonata+Arctica+at+Whisky+A+Go+Go+on+20+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.915823000000003, 
     10.751034000000001
    ], 
@@ -1783,6 +1769,13 @@ var map_data = {
     18.084835000000002
    ], 
    "html": "<p><strong>Sonata Arctica</strong><br/>G\u00f6ta K\u00e4llare, Stockholm<br/>24.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3405266+Sonata+Arctica+at+G%C3%B6ta+K%C3%A4llare+on+24+January+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    57.700144000000002, 
+    11.992324999999999
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Brew House, G\u00f6teborg<br/>25.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3410113+Sonata+Arctica+at+Brew+House+on+25+January+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1929,7 +1922,7 @@ var map_data = {
     51.437185999999997, 
     5.4802730000000004
    ], 
-   "html": "<p><strong>The Gathering</strong><br/>Dynamo, Eindhoven<br/>01.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3364367+The+Gathering+-+support\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>The Gathering</strong><br/>Dynamo, Eindhoven<br/>01.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3364367+The+Gathering+at+Dynamo+on+1+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1937,13 +1930,6 @@ var map_data = {
     4.2794530000000002
    ], 
    "html": "<p><strong>The Gathering</strong><br/>Gebouw-T, Bergen op Zoom<br/>02.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3374647+The+Gathering+at+Gebouw-T+on+2+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    47.978955999999997, 
-    -122.20393199999999
-   ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Comcast Arena, Everett<br/>10.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3381542+The+Smashing+Pumpkins\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
