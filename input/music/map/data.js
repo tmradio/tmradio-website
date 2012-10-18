@@ -211,13 +211,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    40.745851999999999, 
-    -73.988112000000001
-   ], 
-   "html": "<p><strong>Brainstorm</strong><br/>Ace Hotel, New York, NY<br/>18.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3415056+MyMusic+Rx+Ace+Hotel+Session\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.784765, 
     37.560043
    ], 
@@ -274,6 +267,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.513699000000003, 
+    -0.303064
+   ], 
+   "html": "<p><strong>Caribou</strong><br/>Birthdays, London<br/>26.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3416482+Dawn+Hunger+at+Birthdays+on+26+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     44.966991999999998, 
     -93.246734000000004
    ], 
@@ -306,13 +306,6 @@ var map_data = {
     -119.971542
    ], 
    "html": "<p><strong>Chromeo</strong><br/>Lake Tahoe Community College Campus, South Lake Tahoe<br/>29.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3389490+SnowGlobe+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    40.764577000000003, 
-    -111.907799
-   ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>In the Venue, Salt Lake City<br/>18.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346244+Crystal+Castles+at+In+the+Venue+on+18+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -652,6 +645,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    59.294167000000002, 
+    18.080815999999999
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Annexet, Stockholm<br/>09.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3411712+Crystal+Castles+at+Annexet+on+9+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.761228000000003, 
     19.458459000000001
    ], 
@@ -761,13 +761,6 @@ var map_data = {
     -71.119549000000006
    ], 
    "html": "<p><strong>Hoodie Allen</strong><br/>Paradise Rock Club, Boston<br/>26.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3403438+Hoodie+Allen+at+Paradise+Rock+Club+on+26+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    40.739899999999999, 
-    -73.984910999999997
-   ], 
-   "html": "<p><strong>Left Spine Down</strong><br/>Gramercy Theatre, New York, NY<br/>17.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323156+My+Life+with+the+Thrill+Kill+Kult+at+Gramercy+Theatre+on+17+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1006,13 +999,6 @@ var map_data = {
     2.1695530000000001
    ], 
    "html": "<p><strong>Messer Chups</strong><br/>Sala Apolo 2, Barcelona<br/>26.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3408234+Messer+Chups+-+Eyaculaci%C3%B3n+Post-mortem+Halloween+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    27.960794, 
-    -82.440488999999999
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Crowbar, Ybor City<br/>17.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346481+Mono+at+Crowbar+on+17+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1972,13 +1958,6 @@ var map_data = {
     -78.637416999999999
    ], 
    "html": "<p><strong>Trouble Andrew</strong><br/>Lincoln Theatre, Raleigh<br/>15.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342052+Yelawolf+at+Lincoln+Theatre+on+15+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    47.398691999999997, 
-    8.0636969999999994
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Kiff, Aarau<br/>18.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339560+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
