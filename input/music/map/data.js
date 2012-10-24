@@ -274,13 +274,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.523333000000001, 
-    -122.676239
-   ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Roseland Theater, Portland<br/>24.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346274+Crystal+Castles+at+Roseland+Theater+on+24+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     47.587954000000003, 
     -122.33369
    ], 
@@ -589,6 +582,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    60.396096, 
+    5.3086440000000001
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>USF Verftet, Bergen<br/>06.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3415741+Crystal+Castles+at+USF+Verftet+on+6+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.761228000000003, 
     19.458459000000001
    ], 
@@ -698,13 +698,6 @@ var map_data = {
     -71.119549000000006
    ], 
    "html": "<p><strong>Hoodie Allen</strong><br/>Paradise Rock Club, Boston<br/>26.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3403438+Hoodie+Allen+at+Paradise+Rock+Club+on+26+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    40.802542000000003, 
-    -81.375487000000007
-   ], 
-   "html": "<p><strong>Left Spine Down</strong><br/>The Auricle, Canton, OH<br/>23.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3374932+My+Life+with+the+Thrill+Kill+Kult+at+The+Auricle+on+23+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -894,13 +887,6 @@ var map_data = {
     2.1695530000000001
    ], 
    "html": "<p><strong>Messer Chups</strong><br/>Sala Apolo 2, Barcelona<br/>26.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3408234+Messer+Chups+-+Eyaculaci%C3%B3n+Post-mortem+Halloween+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    35.910175000000002, 
-    -79.063841999999994
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Local 506, Chapel Hill NC<br/>23.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3346474+Mono+at+Local+506+on+23+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1146,6 +1132,27 @@ var map_data = {
     9.2310219999999994
    ], 
    "html": "<p><strong>Nanowar</strong><br/>Barrio's Caf\u00e9, Milano<br/>16.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3403853+Nanowar+at+Barrio%27s+Caf%C3%A9+on+16+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.924860000000002, 
+    30.346024
+   ], 
+   "html": "<p><strong>Non Cadenza</strong><br/>\u04102, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>23.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3421497+%D0%94%D0%B5%D0%BD%D1%8C+%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.759650999999998, 
+    37.608604
+   ], 
+   "html": "<p><strong>Non Cadenza</strong><br/>\u0421\u043e\u044e\u0437 \u043a\u043e\u043c\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u043e\u0432, \u041c\u043e\u0441\u043a\u0432\u0430<br/>24.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3421501++%D0%92%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D1%8B%D0%B9+%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.764288000000001, 
+    37.564399999999999
+   ], 
+   "html": "<p><strong>Non Cadenza</strong><br/>16 Tons, <br/>07.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3421513+%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1404,7 +1411,7 @@ var map_data = {
     40.407516999999999, 
     -3.7214100000000001
    ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>La Riviera, <br/>16.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3296893+Sonata+Arctica+at+La+Riviera+on+16+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Sonata Arctica</strong><br/>La Riviera, Madrid<br/>16.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3296893+Sonata+Arctica+at+La+Riviera+on+16+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1702,13 +1709,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    42.696511000000001, 
-    -83.243720999999994
-   ], 
-   "html": "<p><strong>The Smashing Pumpkins</strong><br/>Palace of Auburn Hills, Auburn Hills, MI<br/>23.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3380996+The+Smashing+Pumpkins+at+Palace+of+Auburn+Hills+on+23+October+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     43.643929, 
     -79.379305000000002
    ], 
@@ -1811,13 +1811,6 @@ var map_data = {
     -78.637416999999999
    ], 
    "html": "<p><strong>Trouble Andrew</strong><br/>Lincoln Theatre, Raleigh<br/>15.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342052+Yelawolf+at+Lincoln+Theatre+on+15+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.858688000000001, 
-    -4.2570129999999997
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>The Cathouse, Glasgow<br/>24.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339565+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
