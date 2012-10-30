@@ -2,7 +2,7 @@ var map_data = {
  "bounds": [
   -42.822817999999998, 
   65.010627999999997, 
-  -122.412604, 
+  -119.971542, 
   174.75729899999999
  ], 
  "markers": [
@@ -120,13 +120,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    46.826008000000002, 
-    -71.249696
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Colis\u00e9e Pepsi, Qu\u00e9bec<br/>27.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383954+Green+Day+at+Colis%C3%A9e+Pepsi+on+27+January+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     41.499155999999999, 
     -81.676939000000004
    ], 
@@ -208,13 +201,6 @@ var map_data = {
     -0.303064
    ], 
    "html": "<p><strong>Caribou</strong><br/>Birthdays, London<br/>26.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3416482+Dawn+Hunger+at+Birthdays+on+26+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    37.771079, 
-    -122.412604
-   ], 
-   "html": "<p><strong>Carved Souls</strong><br/>DNA Lounge, San Francisco<br/>30.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3367344+Theory+Of+Revolution+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -396,7 +382,7 @@ var map_data = {
     -37.785770999999997, 
     144.91969900000001
    ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Flemington Racecourse, Melbourne<br/>26.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3337386+Big+Day+Out+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Crystal Castles</strong><br/>Flemington Racecourse, Flemington, Melbourne, Victoria<br/>26.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3337386+Big+Day+Out+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1723,20 +1709,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    51.219251999999997, 
-    4.4485169999999998
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Muziekcentrum TRIX, Antwerpen<br/>29.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3338946+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.854655999999999, 
-    6.0251029999999997
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>The Rock Temple, Kerkrade<br/>30.10.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3338947+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.911924999999997, 
     10.745362999999999
    ], 
@@ -2147,6 +2119,13 @@ var map_data = {
     30.323827999999999
    ], 
    "html": "<p><strong>\u041f\u0438\u043a\u043d\u0438\u043a</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>16.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3420922+%D0%9F%D0%B8%D0%BA%D0%BD%D0%B8%D0%BA+at+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82+on+16+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.761564999999997, 
+    37.640267000000001
+   ], 
+   "html": "<p><strong>\u041f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0438\u043a\u043e\u0432</strong><br/>Grand Bourbon Street, Moscow CIty<br/>03.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3426612+%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F+%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%94%D0%B5%D0%BD%D1%8C+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BA%D0%BB%D1%83%D0%B1%D0%B0+Grand+Bourbon+Street+-+3.11\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
