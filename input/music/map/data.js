@@ -50,13 +50,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    42.005778999999997, 
-    -87.884675000000001
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Allstate Arena, Rosemont<br/>08.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383689+Green+Day+at+Allstate+Arena+on+8+January+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     41.238545000000002, 
     -75.852852999999996
    ], 
@@ -593,6 +586,13 @@ var map_data = {
     27.477298000000001
    ], 
    "html": "<p><strong>Distemper</strong><br/>RE:PUBLIC, \u041c\u0438\u043d\u0441\u043a<br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3405670+Distemper+at+RE:PUBLIC+on+1+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.556550000000001, 
+    9.9291199999999993
+   ], 
+   "html": "<p><strong>Distemper</strong><br/>Fabrik, Hamburg<br/>21.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3430874+Talco+at+Fabrik+on+21+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1226,13 +1226,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.48462, 
-    13.39132
-   ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>C-Club, Berlin<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300610+Sonata+Arctica+at+C-Club+on+4+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     53.549321999999997, 
     10.005960999999999
    ], 
@@ -1471,6 +1464,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    44.004112999999997, 
+    12.659855
+   ], 
+   "html": "<p><strong>Steffi</strong><br/>Cocorico, Riccione<br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3430264+01+12+2012+cocorico+riccione+sandwell+district+-+fabrizio+maurizi+-+hotel+-+prevendite+-+tavoli+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.541772000000002, 
     -0.12518899999999999
    ], 
@@ -1538,6 +1538,13 @@ var map_data = {
     8.2479040000000001
    ], 
    "html": "<p><strong>Talco</strong><br/>Schlachthof, Wiesbaden<br/>16.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3408578+Talco+at+Schlachthof+on+16+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.556550000000001, 
+    9.9291199999999993
+   ], 
+   "html": "<p><strong>Talco</strong><br/>Fabrik, Hamburg<br/>21.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3430874+Talco+at+Fabrik+on+21+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1636,13 +1643,6 @@ var map_data = {
     30.489485999999999
    ], 
    "html": "<p><strong>Theodor Bastard</strong><br/>UNDERGROUND Music Hall, \u041a\u0438\u0435\u0432<br/>23.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3425558+Theodor+Bastard.+%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9+%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82+%D0%B2+%D0%9A%D0%B8%D0%B5%D0%B2%D0%B5.+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    42.351784000000002, 
-    -71.119549000000006
-   ], 
-   "html": "<p><strong>Trouble Andrew</strong><br/>Paradise Rock Club, Boston<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3405061+Yelawolf+at+Paradise+Rock+Club+on+4+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1926,6 +1926,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    59.913995999999997, 
+    30.323827999999999
+   ], 
+   "html": "<p><strong>\u041b\u044f\u043f\u0438\u0441 \u0422\u0440\u0443\u0431\u0435\u0446\u043a\u043e\u0439</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>08.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3431059+%D0%9B%D1%8F%D0%BF%D0%B8%D1%81+%D0%A2%D1%80%D1%83%D0%B1%D0%B5%D1%86%D0%BA%D0%BE%D0%B9+at+%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82+on+8+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    59.913995999999997, 
+    30.323827999999999
+   ], 
+   "html": "<p><strong>\u041b\u044f\u043f\u0438\u0441 \u0422\u0440\u0443\u0431\u0435\u0446\u043a\u043e\u0439</strong><br/>\u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>09.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3431060+%D0%9B%D1%8F%D0%BF%D0%B8%D1%81+%D0%A2%D1%80%D1%83%D0%B1%D0%B5%D1%86%D0%BA%D0%BE%D0%B9\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.766590999999998, 
     37.592936999999999
    ], 
@@ -2070,13 +2084,6 @@ var map_data = {
     37.592936999999999
    ], 
    "html": "<p><strong>\u0422\u0430\u043d\u0446\u044b \u041c\u0438\u043d\u0443\u0441</strong><br/>\u04112, <br/>16.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3403741+%D0%A2%D0%B0%D0%BD%D1%86%D1%8B+%D0%9C%D0%B8%D0%BD%D1%83%D1%81\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.766590999999998, 
-    37.592936999999999
-   ], 
-   "html": "<p><strong>\u0422\u0430\u0440\u0430\u043a\u0430\u043d\u044b!</strong><br/>\u04112, <br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3396406+%D0%A2%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D1%8B!+at+%D0%912+on+4+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
