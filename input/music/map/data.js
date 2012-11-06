@@ -526,6 +526,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    55.725709000000002, 
+    37.673456999999999
+   ], 
+   "html": "<p><strong>Cutoff:Sky</strong><br/>Relax Club / \u0420\u0435\u043b\u0430\u043a\u0441, <br/>23.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3431747+XP8+live+in+MOSCOW\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.761228000000003, 
     19.458459000000001
    ], 
@@ -624,6 +631,20 @@ var map_data = {
   }, 
   {
    "ll": [
+    -37.824598000000002, 
+    144.992538
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Corner Hotel, Richmond, Victoria<br/>06.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3431236+El-P\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    -33.877842999999999, 
+    151.21391199999999
+   ], 
+   "html": "<p><strong>El-P</strong><br/>The Oxford Art Factory, Darlinghurst<br/>07.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3431237+El-P\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     -34.922142999999998, 
     138.592916
    ], 
@@ -635,6 +656,13 @@ var map_data = {
     115.85988500000001
    ], 
    "html": "<p><strong>El-P</strong><br/>Perth Cultural Centre, Northbridge, Perth, Western Australia<br/>09.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3397443+St.+Jerome%27s+Laneway+Festival+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    50.950000000000003, 
+    0.73333329999999997
+   ], 
+   "html": "<p><strong>El-P</strong><br/>Pontins Camber Sands Holiday Park, Camber<br/>10.05.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3390823+ATP+curated+by+TV+On+The+Radio\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1044,13 +1072,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    -23.585984, 
-    -46.681176000000001
-   ], 
-   "html": "<p><strong>Opus 23</strong><br/>Manifesto Bar, S\u00e3o Paulo<br/>04.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3334560+THORHAMMERFEST+VI\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     55.766303999999998, 
     37.603960999999998
    ], 
@@ -1457,6 +1478,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    56.049999999999997, 
+    14.550000000000001
+   ], 
+   "html": "<p><strong>Sonata Arctica</strong><br/>Norje, S\u00f6lvesborg<br/>05.06.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3293044+Sweden+Rock+Festival+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     54.022199999999998, 
     9.3808799999999994
    ], 
@@ -1468,6 +1496,13 @@ var map_data = {
     12.659855
    ], 
    "html": "<p><strong>Steffi</strong><br/>Cocorico, Riccione<br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3430264+01+12+2012+cocorico+riccione+sandwell+district+-+fabrizio+maurizi+-+hotel+-+prevendite+-+tavoli+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    51.519556000000001, 
+    -0.102529
+   ], 
+   "html": "<p><strong>Steffi</strong><br/>Fabric, London<br/>31.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3431536+fabric:+New+Years+Eve+with+Four+Tet,+Steffi+-+Robert+Hood+presents:+Floorplan\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1664,13 +1699,6 @@ var map_data = {
     -78.637416999999999
    ], 
    "html": "<p><strong>Trouble Andrew</strong><br/>Lincoln Theatre, Raleigh<br/>15.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342052+Yelawolf+at+Lincoln+Theatre+on+15+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    60.168698999999997, 
-    24.932941
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Tavastia, Helsinki<br/>05.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3338130+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2010,6 +2038,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    54.191319999999997, 
+    37.582635000000003
+   ], 
+   "html": "<p><strong>\u041c\u0435\u043b\u044c\u043d\u0438\u0446\u0430</strong><br/>\u0414\u041a \u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u0438\u043a\u043e\u0432, \u0422\u0443\u043b\u0430<br/>03.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3431516+%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0+at+%D0%94%D0%9A+%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2+on+3+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     50.439697000000002, 
     30.428570000000001
    ], 
@@ -2021,6 +2056,20 @@ var map_data = {
     30.346024
    ], 
    "html": "<p><strong>\u041c\u0435\u043b\u044c\u043d\u0438\u0446\u0430</strong><br/>\u04102, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>13.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3423047+%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0+at+%D0%902+on+13+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.733308000000001, 
+    37.646493
+   ], 
+   "html": "<p><strong>\u041c\u0435\u043b\u044c\u043d\u0438\u0446\u0430</strong><br/>\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0434\u043e\u043c \u043c\u0443\u0437\u044b\u043a\u0438, \u041c\u043e\u0441\u043a\u0432\u0430<br/>11.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3431534+%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.823273, 
+    37.389907999999998
+   ], 
+   "html": "<p><strong>\u041c\u0435\u043b\u044c\u043d\u0438\u0446\u0430</strong><br/>Crocus City Hall, <br/>19.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3431548+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80+%D0%92%D1%8B%D1%81%D0%BE%D1%86%D0%BA%D0%B8%D0%B9.+75+%D0%BB%D0%B5%D1%82\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
