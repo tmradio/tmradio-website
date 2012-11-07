@@ -666,6 +666,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.234070000000003, 
+    7.0708200000000003
+   ], 
+   "html": "<p><strong>Entertainment for the Braindead</strong><br/>B\u00fcrgerbahnhof Vohwinkel, Wuppertal<br/>22.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3352265+Entertainment+for+the+Braindead+at+B%C3%BCrgerbahnhof+Vohwinkel+on+22+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.823273, 
     37.389907999999998
    ], 
@@ -691,20 +698,6 @@ var map_data = {
     -70.617370605468807
    ], 
    "html": "<p><strong>K2</strong><br/>Sala SCD Mall Plaza Vespucio, (Local 110-A), Santiago<br/>08.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3423831+Tocata+Academia+Rockaxis\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    53.907482999999999, 
-    27.477298000000001
-   ], 
-   "html": "<p><strong>Lumen</strong><br/>RE:PUBLIC, \u041c\u0438\u043d\u0441\u043a<br/>06.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3381309+Lumen\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    53.907482999999999, 
-    27.477298000000001
-   ], 
-   "html": "<p><strong>Lumen</strong><br/>RE:PUBLIC, \u041c\u0438\u043d\u0441\u043a<br/>07.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3381311+Lumen+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1212,6 +1205,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    50.276679999999999, 
+    19.131907999999999
+   ], 
+   "html": "<p><strong>Radogost</strong><br/>Underground Pub, Tychy<br/>11.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3432584+Koncert+Urodzinowy\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     50.294736, 
     18.807410000000001
    ], 
@@ -1244,13 +1244,6 @@ var map_data = {
     -81.020668999999998
    ], 
    "html": "<p><strong>Silence</strong><br/>Atlantic Sounds, Daytona Beach<br/>08.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3425058+Bad+Luck+at+Atlantic+Sounds+on+8+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    53.549321999999997, 
-    10.005960999999999
-   ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Markthalle, Hamburg<br/>06.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3298402+SONATA+ARCTICA+-+%22Stones+Grow+Her+Name+World+Tour+2012%22\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1506,6 +1499,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    52.511136999999998, 
+    13.441350999999999
+   ], 
+   "html": "<p><strong>Steffi</strong><br/>Berghain/Panorama Bar, Berlin<br/>01.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3417736+Boris+at+Berghain-Panorama+Bar+on+1+January+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     51.541772000000002, 
     -0.12518899999999999
    ], 
@@ -1699,13 +1699,6 @@ var map_data = {
     -78.637416999999999
    ], 
    "html": "<p><strong>Trouble Andrew</strong><br/>Lincoln Theatre, Raleigh<br/>15.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342052+Yelawolf+at+Lincoln+Theatre+on+15+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.770311, 
-    12.499814000000001
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Templet, Kongens Lyngby<br/>07.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339575+Euroblast+Tour\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1923,6 +1916,13 @@ var map_data = {
     8.7761589999999998
    ], 
    "html": "<p><strong>\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434</strong><br/>Stadthalle Offenbach, Frankfurt am Main<br/>01.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3327517+PEEPL-ROCK\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.739894999999997, 
+    37.609527
+   ], 
+   "html": "<p><strong>\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434</strong><br/>Gipsy, \u041c\u043e\u0441\u043a\u0432\u0430<br/>07.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3432229+%D0%9F%D0%9C%D0%A1+2\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
