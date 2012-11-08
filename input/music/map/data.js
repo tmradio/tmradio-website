@@ -134,13 +134,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    43.643929, 
-    -79.379305000000002
-   ], 
-   "html": "<p><strong>Best Coast</strong><br/>Air Canada Centre, Toronto<br/>29.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3383818+Green+Day+(Postponed,+New+Date+TBA)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     41.499155999999999, 
     -81.676939000000004
    ], 
@@ -260,10 +253,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    53.464399999999998, 
-    -2.2322630000000001
+    53.464945, 
+    -2.2319719999999998
    ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Manchester Academy, Manchester<br/>28.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372339+Crystal+Castles+at+Manchester+Academy+on+28+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Crystal Castles</strong><br/>Manchester Academy 1, Manchester<br/>28.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372339+Crystal+Castles+at+Manchester+Academy+1+on+28+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -694,6 +687,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    51.539295000000003, 
+    -0.14279
+   ], 
+   "html": "<p><strong>Inner Terrestrials</strong><br/>The Underworld, Camden<br/>09.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3433280+The+Filaments+@+The+Underworld+Camden\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     -33.4497765831184, 
     -70.617370605468807
    ], 
@@ -701,10 +701,17 @@ var map_data = {
   }, 
   {
    "ll": [
-    52.049999999999997, 
-    27.483333300000002
+    42.351784000000002, 
+    -71.119549000000006
    ], 
-   "html": "<p><strong>Lumen</strong><br/>\u0413\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0426\u0435\u043d\u0442\u0440 \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u044b, \u0413\u043e\u043c\u0435\u043b\u044c<br/>08.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3397573+Lumen+at+%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B9+%D0%A6%D0%B5%D0%BD%D1%82%D1%80+%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B+on+8+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>KMFDM</strong><br/>Paradise Rock Club, Boston<br/>20.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3432973+KMFDM+at+Paradise+Rock+Club+on+20+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    40.734839999999998, 
+    -73.988376000000002
+   ], 
+   "html": "<p><strong>KMFDM</strong><br/>Irving Plaza, New York<br/>21.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3433570+KMFDM+at+Irving+Plaza+on+21+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1191,6 +1198,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    48.209771000000003, 
+    16.338982000000001
+   ], 
+   "html": "<p><strong>Our Ceasing Voice</strong><br/>Chelsea, Wien<br/>15.04.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3427623+Jakob+at+Chelsea+on+15+April+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.927044000000002, 
     30.322286999999999
    ], 
@@ -1244,13 +1258,6 @@ var map_data = {
     -81.020668999999998
    ], 
    "html": "<p><strong>Silence</strong><br/>Atlantic Sounds, Daytona Beach<br/>08.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3425058+Bad+Luck+at+Atlantic+Sounds+on+8+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    50.924869999999999, 
-    6.9782190000000002
-   ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Essigfabrik, K\u00f6ln<br/>07.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3297729+Sonata+Arctica+at+Essigfabrik+on+7+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1681,13 +1688,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    42.344169999999998, 
-    -75.170829999999995
-   ], 
-   "html": "<p><strong>Trouble Andrew</strong><br/>Brooklyn Bowl, Brooklyn, NY<br/>07.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3340880+Yelawolf\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     40.042014000000002, 
     -76.309182000000007
    ], 
@@ -1699,13 +1699,6 @@ var map_data = {
     -78.637416999999999
    ], 
    "html": "<p><strong>Trouble Andrew</strong><br/>Lincoln Theatre, Raleigh<br/>15.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3342052+Yelawolf+at+Lincoln+Theatre+on+15+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    52.500629000000004, 
-    13.44473
-   ], 
-   "html": "<p><strong>Vildhjarta</strong><br/>Magnet Club, Berlin<br/>08.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3339577+Euroblast+Tour+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -2164,10 +2157,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.721598, 
-    37.647739000000001
+    55.759528000000003, 
+    37.663975000000001
    ], 
-   "html": "<p><strong>\u042d\u043b\u0438\u0437\u0438\u0443\u043c</strong><br/>P!PL, <br/>30.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3388461+30+%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-%D0%AD%D0%9B%D0%98%D0%97%D0%98%D0%A3%D0%9C+%D0%B2+P!PL+-+%D0%94%D0%B5%D0%BD%D1%8C+%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B!\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>\u042d\u043b\u0438\u0437\u0438\u0443\u043c</strong><br/>Arma Music Hall, \u041c\u043e\u0441\u043a\u0432\u0430<br/>30.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3388461+%D0%94%D0%B5%D0%BD%D1%8C+%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B!\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
