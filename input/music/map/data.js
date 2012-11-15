@@ -291,14 +291,7 @@ var map_data = {
     51.503999999999998, 
     -0.083295999999999995
    ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Cable, London<br/>29.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3437688+Vice+is+10\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    51.503999999999998, 
-    -0.083295999999999995
-   ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Cable, London<br/>29.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3438465+Crystal+Castles+at+Cable+on+29+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Crystal Castles</strong><br/>Cable, London<br/>29.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3437688+VICE+10th+BIRTHDAY+PARTY\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -512,17 +505,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.594701999999998, 
-    13.008751999999999
-   ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Kulturbolaget, Malm\u00f6<br/>04.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3411714+Crystal+Castles+at+Kulturbolaget+on+4+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.915823000000003, 
     10.751034000000001
    ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Rockefeller, Oslo<br/>05.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3412384+Crystal+Castles\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Crystal Castles</strong><br/>Rockefeller, Oslo<br/>05.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3412384+Crystal+Castles+at+Rockefeller+on+5+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -536,7 +522,7 @@ var map_data = {
     55.594701999999998, 
     13.008751999999999
    ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Kulturbolaget, Malm\u00f6<br/>08.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3415751+Crystal+Castles+at+Kulturbolaget+on+8+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Crystal Castles</strong><br/>Kulturbolaget, Malm\u00f6<br/>08.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3411714+Crystal+Castles+at+Kulturbolaget+on+8+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -792,6 +778,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    47.587954000000003, 
+    -122.33369
+   ], 
+   "html": "<p><strong>KMFDM</strong><br/>Showbox SoDo, Seattle<br/>30.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3438854+KMFDM+w-+Legion+Within\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     59.913995999999997, 
     30.323827999999999
    ], 
@@ -901,13 +894,6 @@ var map_data = {
     37.623733999999999
    ], 
    "html": "<p><strong>mat!\u042d</strong><br/>FAQ cafe, \u041c\u043e\u0441\u043a\u0432\u0430<br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3382581+mat!%D0%AD+at+FAQ+cafe+on+18+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    56.949626000000002, 
-    24.136671
-   ], 
-   "html": "<p><strong>Mono</strong><br/>\u0122ertr\u016bdes ielas te\u0101tris, R\u012bga<br/>15.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3371653+Mono\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1086,6 +1072,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    48.156865000000003, 
+    17.113583999999999
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Randal Club, Bratislava<br/>08.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3439452+Mono+-+Europe+Tour+2012-2013+(Bratislava)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     45.480618999999997, 
     9.2310219999999994
    ], 
@@ -1111,13 +1104,6 @@ var map_data = {
     37.564399999999999
    ], 
    "html": "<p><strong>Non Cadenza</strong><br/>16 Tons, <br/>07.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3421513+%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    55.668090999999997, 
-    12.544307
-   ], 
-   "html": "<p><strong>Orbital</strong><br/>Store Vega, K\u00f8benhavn V<br/>14.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3323277+Orbital+at+Store+Vega+on+14+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1223,13 +1209,6 @@ var map_data = {
     16.338982000000001
    ], 
    "html": "<p><strong>Our Ceasing Voice</strong><br/>Chelsea, Wien<br/>15.04.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3427623+Jakob+at+Chelsea+on+15+April+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    59.927044000000002, 
-    30.322286999999999
-   ], 
-   "html": "<p><strong>Para Bellvm</strong><br/>da:da:, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433<br/>16.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3388960+%D0%9C%D1%8D%D0%B4+%D0%94%D0%BE%D0%B3+at+da:da:+on+16+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
