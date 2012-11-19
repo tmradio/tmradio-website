@@ -417,7 +417,7 @@ var map_data = {
     35.441701999999999, 
     139.66129599999999
    ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>yokohama Bay Hall, \u6a2a\u6d5c\u5e02<br/>02.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3419177+CRYSTAL+CASTLES+-+Sleigh+Bells+JAPAN+TOUR+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Crystal Castles</strong><br/>yokohama Bay Hall, \u6a2a\u6d5c\u5e02\u4e2d\u533a<br/>02.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3419177+CRYSTAL+CASTLES+-+Sleigh+Bells+JAPAN+TOUR+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -890,20 +890,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    55.730471000000001, 
-    37.623733999999999
-   ], 
-   "html": "<p><strong>mat!\u042d</strong><br/>FAQ cafe, \u041c\u043e\u0441\u043a\u0432\u0430<br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3382581+mat!%D0%AD+at+FAQ+cafe+on+18+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    60.159483000000002, 
-    24.932319
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Nosturi, Helsinki<br/>18.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3373324+Mono+at+Nosturi+on+18+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     61.883055599999999, 
     13.75
    ], 
@@ -1065,10 +1051,31 @@ var map_data = {
   }, 
   {
    "ll": [
+    45.644207000000002, 
+    5.570538
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Epicerie Moderne, Lyon<br/>19.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3442239+Mono+at+Epicerie+Moderne+on+19+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    45.823858999999999, 
+    1.26712
+   ], 
+   "html": "<p><strong>Mono</strong><br/>La Fourmi, Limoges<br/>27.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3442242+Mono+at+La+Fourmi+on+27+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     49.896605000000001, 
     2.3049040000000001
    ], 
    "html": "<p><strong>Mono</strong><br/>La Lune des Pirates, Amiens<br/>28.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3440056+Mono+at+La+Lune+des+Pirates+on+28+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    47.759692000000001, 
+    7.3324170000000004
+   ], 
+   "html": "<p><strong>Mono</strong><br/>Le Noumatrouff, Mulhouse<br/>01.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3442243+Mono+at+Le+Noumatrouff+on+1+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1229,7 +1236,7 @@ var map_data = {
     29.211852, 
     -81.020668999999998
    ], 
-   "html": "<p><strong>Silence</strong><br/>Atlantic Sounds, Daytona Beach<br/>08.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3425058+Bad+Luck+at+Atlantic+Sounds+on+8+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Silence</strong><br/>Atlantic Sounds, Daytona Beach<br/>08.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3425058+Silence+at+Atlantic+Sounds+on+8+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1244,13 +1251,6 @@ var map_data = {
     39.046098000000001
    ], 
    "html": "<p><strong>Slim</strong><br/>Arena Hall, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440<br/>20.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3425206+Slim+at+Arena+Hall+on+20+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    45.783985999999999, 
-    4.8606350000000003
-   ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>Transbordeur, Villeurbanne<br/>19.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3299176+Sonata+Arctica+at+Transbordeur+on+19+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1506,17 +1506,17 @@ var map_data = {
   }, 
   {
    "ll": [
+    49.769770000000001, 
+    6.6482700000000001
+   ], 
+   "html": "<p><strong>Talco</strong><br/>Exhaus, Trier<br/>21.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3434416+Ska+Punk+United+X-Mas+Special\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     47.678959999999996, 
     9.1629000000000005
    ], 
    "html": "<p><strong>Talco</strong><br/>Kulturladen, Konstanz<br/>22.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3369429+Talco+at+Kulturladen+on+22+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    49.769770000000001, 
-    6.6482700000000001
-   ], 
-   "html": "<p><strong>Talco</strong><br/>Exhaus, Trier<br/>28.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3434416+Ska+Punk+United+X-Mas+Special\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1828,6 +1828,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    54.773026999999999, 
+    56.021433000000002
+   ], 
+   "html": "<p><strong>\u041a\u0440\u0435\u043c\u0430\u0442\u043e\u0440\u0438\u0439</strong><br/>Rock's Cafe, \u0423\u0444\u0430<br/>13.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3441465+%D0%9A%D1%80%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B9+at+Rock%27s+Cafe+on+13+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     52.509329999999999, 
     13.436109999999999
    ], 
@@ -1982,6 +1989,13 @@ var map_data = {
   }, 
   {
    "ll": [
+    48.693809999999999, 
+    44.488771999999997
+   ], 
+   "html": "<p><strong>\u041c\u0435\u043b\u044c\u043d\u0438\u0446\u0430</strong><br/>\u0414\u043e\u043c \u043e\u0444\u0438\u0446\u0435\u0440\u043e\u0432, \u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434<br/>03.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3441549+%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0+at+%D0%94%D0%BE%D0%BC+%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%BE%D0%B2+on+3+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     55.810353999999997, 
     37.50761
    ], 
@@ -2000,6 +2014,13 @@ var map_data = {
     27.554380999999999
    ], 
    "html": "<p><strong>\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b</strong><br/>\u041a\u043e\u043d\u0446\u0435\u0440\u0442\u043d\u044b\u0439 \u0437\u0430\u043b \"\u041c\u0438\u043d\u0441\u043a\", \u041c\u0438\u043d\u0441\u043a<br/>10.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3439614+%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE+%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D0%B0\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    56.971497999999997, 
+    24.161200999999998
+   ], 
+   "html": "<p><strong>\u041d\u043e\u0447\u043d\u044b\u0435 \u0421\u043d\u0430\u0439\u043f\u0435\u0440\u044b</strong><br/>Godvil, R\u012bga<br/>14.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3442354+%D0%9D%D0%BE%D1%87%D0%BD%D1%8B%D0%B5+%D0%A1%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80%D1%8B\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
