@@ -8,6 +8,13 @@ var map_data = {
  "markers": [
   {
    "ll": [
+    55.791654999999999, 
+    37.750774
+   ], 
+   "html": "<p><strong>aktivehate</strong><br/>Rock House, \u041c\u043e\u0441\u043a\u0432\u0430<br/>18.01.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3442751+RE:INCARNATION+002:+Siva+six,+Cygnosic,+Aktivehate,+Uterus+Insected+in+Moscow+(18.01.2013)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
     34.141964999999999, 
     -118.359308
    ], 
@@ -284,7 +291,7 @@ var map_data = {
     51.503999999999998, 
     -0.083295999999999995
    ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>Cable, London<br/>29.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3437688+VICE+10th+BIRTHDAY+PARTY\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Crystal Castles</strong><br/>Cable, London<br/>29.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3437688+VICE+10th+Birthday+Party\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -558,6 +565,13 @@ var map_data = {
     2.3284760000000002
    ], 
    "html": "<p><strong>Crystal Castles</strong><br/>l'Olympia, Paris<br/>13.06.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3417274+Crystal+Castles+at+l%27Olympia+on+13+June+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    58.462721000000002, 
+    8.8189449999999994
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>Trom\u00f8ya, Arendal<br/>02.07.2013</p><p class=\"more\"><a href=\"http://www.last.fm/festival/3442803+Hovefestivalen+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -890,13 +904,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    61.883055599999999, 
-    13.75
-   ], 
-   "html": "<p><strong>Mono</strong><br/>Debaser Slussen, Stockholm<br/>20.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3372777+MONO\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     59.915331000000002, 
     10.751250000000001
    ], 
@@ -1051,10 +1058,17 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.644207000000002, 
-    5.570538
+    45.674103000000002, 
+    4.8587920000000002
    ], 
-   "html": "<p><strong>Mono</strong><br/>Epicerie Moderne, Lyon<br/>19.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3442239+Mono+at+Epicerie+Moderne+on+19+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Mono</strong><br/>L'Epicerie Moderne, Feyzin<br/>19.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3442239+Mono+at+L%27Epicerie+Moderne+on+19+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    43.836319000000003, 
+    4.360341
+   ], 
+   "html": "<p><strong>Mono</strong><br/>La Paloma, N\u00eemes<br/>26.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3442241+Mono+at+La+Paloma+on+26+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1251,13 +1265,6 @@ var map_data = {
     39.046098000000001
    ], 
    "html": "<p><strong>Slim</strong><br/>Arena Hall, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440<br/>20.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3425206+Slim+at+Arena+Hall+on+20+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
-    48.767324000000002, 
-    9.2519960000000001
-   ], 
-   "html": "<p><strong>Sonata Arctica</strong><br/>LKA-Longhorn, Stuttgart<br/>20.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3300909+Sonata+Arctica+at+LKA-Longhorn+on+20+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1706,6 +1713,13 @@ var map_data = {
     27.613916
    ], 
    "html": "<p><strong>Vistery</strong><br/>Rocker Bar, \u041c\u0438\u043d\u0441\u043a<br/>15.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3397674+%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F+%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D0%B0+Vistery\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    53.931178000000003, 
+    27.606763999999998
+   ], 
+   "html": "<p><strong>\u0410\u0434\u0434\u0438\u0441 \u0410\u0431\u0435\u0431\u0430</strong><br/>\u0413\u0440\u0430\u0444\u0444\u0438\u0442\u0438, \u041c\u0456\u043d\u0441\u043a<br/>27.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3442940+%D0%90%D0%B4%D0%B4%D0%B8%D1%81+%D0%90%D0%B1%D0%B5%D0%B1%D0%B0+at+%D0%93%D1%80%D0%B0%D1%84%D1%84%D0%B8%D1%82%D0%B8+on+27+November+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
