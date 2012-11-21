@@ -2,7 +2,7 @@ var map_data = {
  "bounds": [
   -42.822817999999998, 
   65.010627999999997, 
-  -122.676751, 
+  -122.676588, 
   174.75729899999999
  ], 
  "markers": [
@@ -424,7 +424,7 @@ var map_data = {
     35.441701999999999, 
     139.66129599999999
    ], 
-   "html": "<p><strong>Crystal Castles</strong><br/>yokohama Bay Hall, \u6a2a\u6d5c\u5e02\u4e2d\u533a<br/>02.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3419177+CRYSTAL+CASTLES+-+Sleigh+Bells+JAPAN+TOUR+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>Crystal Castles</strong><br/>yokohama Bay Hall, \u6a2a\u6d5c\u5e02<br/>02.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3419177+CRYSTAL+CASTLES+-+Sleigh+Bells+JAPAN+TOUR+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -453,6 +453,13 @@ var map_data = {
     -9.148282
    ], 
    "html": "<p><strong>Crystal Castles</strong><br/>TMN ao Vivo, Lisboa<br/>17.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3411607+Crystal+Castles+at+TMN+ao+Vivo+on+17+February+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    40.407516999999999, 
+    -3.7214100000000001
+   ], 
+   "html": "<p><strong>Crystal Castles</strong><br/>La Riviera, Madrid<br/>19.02.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3443760+Crystal+Castles+Tour+(III)\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -764,10 +771,10 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.523487000000003, 
-    -122.676751
+    45.523350000000001, 
+    -122.676588
    ], 
-   "html": "<p><strong>KMFDM</strong><br/>Star Theatre, Portland, OR<br/>08.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3440345+KMFDM+at+Star+Theatre+on+8+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+   "html": "<p><strong>KMFDM</strong><br/>Star Theater, Portland<br/>08.03.2013</p><p class=\"more\"><a href=\"http://www.last.fm/event/3440345+KMFDM+at+Star+Theater+on+8+March+2013\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
@@ -1478,13 +1485,6 @@ var map_data = {
   }, 
   {
    "ll": [
-    45.506346901083397, 
-    -73.740234375
-   ], 
-   "html": "<p><strong>Supernova</strong><br/>Piranha Bar, Montr\u00e9al<br/>08.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3306728+Supernova+at+Piranha+Bar+on+8+December+2012\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
-  }, 
-  {
-   "ll": [
     50.080157999999997, 
     14.393991
    ], 
@@ -1706,6 +1706,13 @@ var map_data = {
     30.489485999999999
    ], 
    "html": "<p><strong>Theodor Bastard</strong><br/>UNDERGROUND Music Hall, \u041a\u0438\u0435\u0432<br/>23.11.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3425558+Theodor+Bastard.+%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9+%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82+%D0%B2+%D0%9A%D0%B8%D0%B5%D0%B2%D0%B5.+\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
+  }, 
+  {
+   "ll": [
+    55.751508000000001, 
+    37.641488000000003
+   ], 
+   "html": "<p><strong>Timofey</strong><br/>Solyanka, \u041c\u043e\u0441\u043a\u0432\u0430<br/>22.12.2012</p><p class=\"more\"><a href=\"http://www.last.fm/event/3442089+Capital+Bass+w-+New+York+Transit+Authority+-+Trusta\" target=\"_blank\">\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e\u0441\u0442\u0438</a></p>"
   }, 
   {
    "ll": [
