@@ -39,4 +39,3 @@
 2012-06-21 21:00 ТСН №82: @dugwin, @russian_rubyist
 2012-06-28 21:00 ТСН №83: @dugwin, @russian_rubyist
 2012-07-05 21:00 ТСН №84: @russian_rubyist
-2012-11-22 21:00 ТСН №85: @Helvetic, @TonyG_G
