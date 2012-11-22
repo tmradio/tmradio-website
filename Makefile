@@ -6,19 +6,19 @@ build:
 	mkdir -p output
 	rm -rf output/*
 	cat javascript/*.js > input/scripts.js
-	python -u scripts/poole.py --build | tee build.log
+	python -u poole.py --build | tee build.log
 
 build-quiet:
 	rm -rf output/*
 	test -d output || mkdir -p output
 	cat javascript/*.js > input/scripts.js
-	python scripts/poole.py --build > build.log
+	python poole.py --build > build.log
 
 queue:
 	python scripts/queue.py
 
 debug:
-	python scripts/poole.py --build
+	python poole.py --build
 
 commit:
 	-git add -A
@@ -37,7 +37,7 @@ fetch:
 	-git pull -q
 
 serve:
-	python scripts/poole.py --serve
+	python poole.py --serve
 
 update-dl-counts:
 	python poolemonkey/feeds.py tmradio/tsn tmradio/all tmradio/prokino tmradio/mcast tmradio/podcast tmradio/live sosonews umonkey/podcast umonkey > input/dlstats.csv
@@ -50,7 +50,7 @@ clean:
 	find . -name '*.pyc' -delete
 
 process-hotline: fetch
-	python scripts/poole.py --build
+	python poole.py --build
 	-git add input/hotline
 	-git commit -q input/hotline -m "New hotline pages."
 	git push -q
