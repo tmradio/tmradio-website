@@ -6,4 +6,5 @@ filesize: 5136662
 duration: 256
 author: umonkey
 ---
-Обсуждение [инициативы Google](https://www.google.com/intl/ru/takeaction/).
+* [Инициатива Google](https://www.google.com/intl/ru/takeaction/)
+* [Cat signal](http://internetdefenseleague.org/launch)
